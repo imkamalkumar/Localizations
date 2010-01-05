@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 2.8.*\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2009-12-12 12:56+0000\n"
-"PO-Revision-Date: 2010-01-03 15:31+0530\n"
+"PO-Revision-Date: 2010-01-05 09:39+0530\n"
 "Last-Translator: Sagar <reddevilsagar@gmail.com>\n"
 "Language-Team: Nepali <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1466,7 +1466,6 @@ msgid "E-mail:"
 msgstr "ई-मेल:"
 
 #: wp-admin/edit-form-comment.php:109
-#, fuzzy
 msgid "visit site"
 msgstr "पृष्ठ हेर्नुहोस् ।"
 
@@ -1613,9 +1612,8 @@ msgid "Example: Nifty blogging software"
 msgstr ""
 
 #: wp-admin/edit-link-form.php:80
-#, fuzzy
 msgid "Web Address"
-msgstr "मेरो अर्को वेव ठेगाना"
+msgstr "वेव ठेगाना"
 
 #: wp-admin/edit-link-form.php:83
 msgid "Example: <code>http://wordpress.org/</code> &#8212; don&#8217;t forget the <code>http://</code>"
@@ -5180,7 +5178,7 @@ msgstr "संग्राहलय (%s)"
 
 #: wp-admin/includes/media.php:304
 msgid "Uploads"
-msgstr ""
+msgstr "अपलोडहरु"
 
 #: wp-admin/includes/media.php:304
 #: wp-admin/includes/template.php:3400
@@ -5739,7 +5737,7 @@ msgstr "<b>%1$s</b> मा सम्प्रेषित"
 #: wp-admin/includes/meta-boxes.php:206
 #: wp-includes/script-loader.php:294
 msgid "Schedule"
-msgstr ""
+msgstr "तालिका"
 
 #: wp-admin/includes/meta-boxes.php:217
 #: wp-admin/includes/meta-boxes.php:218
@@ -11000,7 +10998,7 @@ msgstr ""
 
 #: wp-content/themes/classic/comments.php:8
 msgid "Enter your password to view comments."
-msgstr ""
+msgstr "प्रतिकृया हेर्नका लागि पासवर्ड हाल्नुहोस ।"
 
 #: wp-content/themes/classic/comments.php:11
 #: wp-includes/comment-template.php:557
@@ -11425,7 +11423,7 @@ msgstr "टिप्पणी राख्न प्रवेश गर्नु
 
 #: wp-includes/comment-template.php:1101
 msgid "Click here to cancel reply."
-msgstr ""
+msgstr "जवाफ बदर गर्न यहाँ थिच्नुहोस ।"
 
 #: wp-includes/comment-template.php:1144
 msgid "Leave a Reply"
@@ -14981,11 +14979,11 @@ msgstr ""
 
 #: wp-login.php:513
 msgid "Check your e-mail for your new password."
-msgstr ""
+msgstr "तपाँईको नयाँ पासवर्ड ई-मेलमा पठाइएको छ ।"
 
 #: wp-login.php:515
 msgid "Registration complete. Please check your e-mail."
-msgstr ""
+msgstr "दर्ता सफल भयो । कृपया ई-मेल हेर्नुहोस ।"
 
 #: wp-login.php:517
 msgid "Your session has expired. Please log-in again."
@@ -15315,7 +15313,7 @@ msgstr "च्यानल %s सञ्जालमा अवस्थित छ
 
 #: xmlrpc.php:3318
 msgid "We cannot find a title on that page."
-msgstr ""
+msgstr "पृष्ठमा शीर्षक भेटिएन । "
 
 #: xmlrpc.php:3354
 msgid "The source URL does not contain a link to the target URL, and so cannot be used as a source."
