@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 2.8.*\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2009-12-12 12:56+0000\n"
-"PO-Revision-Date: 2010-01-05 09:39+0530\n"
+"PO-Revision-Date: 2010-01-12 10:15+0530\n"
 "Last-Translator: Sagar <reddevilsagar@gmail.com>\n"
 "Language-Team: Nepali <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1046,7 +1046,7 @@ msgstr "फाइल प्राप्त गर्नुहोस्"
 #: wp-admin/upload.php:432
 #, fuzzy
 msgid "No media attachments found."
-msgstr " %s संग मिल्ने कुनै पनि प्याकेजहरू फेला परेन ।\n"
+msgstr "'%s' मा बाटोहरू फेला परेन।"
 
 #: wp-admin/edit-category-form.php:14
 msgid "You do not have sufficient permissions to edit categories for this blog."
@@ -1194,7 +1194,7 @@ msgstr "स्वीकार गर्नुहोस"
 #: wp-admin/edit-comments.php:406
 #, fuzzy
 msgid "Mark as Spam"
-msgstr "यस रुपमा पृष्ठहरू खोल्नुहोस्"
+msgstr "मास्टरको रूपमा कार्य गर्नुहोस्"
 
 #: wp-admin/edit-comments.php:313
 #: wp-admin/edit-comments.php:414
@@ -1536,7 +1536,7 @@ msgstr "नमस्कार, <a href=\"%1$s\" title=\"तपाईको प�
 #: wp-admin/includes/meta-boxes.php:548
 #, fuzzy
 msgid "Update Link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-admin/edit-link-form.php:19
 #, php-format
@@ -1547,7 +1547,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:550
 #, fuzzy
 msgid "Add Link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-admin/edit-link-form.php:27
 #: wp-admin/includes/image-edit.php:71
@@ -1570,7 +1570,7 @@ msgstr "लक्ष्य"
 #: wp-admin/edit-link-form.php:30
 #, fuzzy
 msgid "Link Relationship (XFN)"
-msgstr "हालै अनुपस्थित लिङ्क गर्नुहोस्"
+msgstr "*** %s मा %s लिङ्क असफल भयो"
 
 #: wp-admin/edit-link-form.php:31
 #: wp-content/themes/default/functions.php:410
@@ -1672,7 +1672,7 @@ msgstr "समुह स्लग"
 #: wp-admin/edit-page-form.php:84
 #, fuzzy
 msgid "Page Image"
-msgstr "पृष्ठभूमि छवि"
+msgstr "छवि समायोजन"
 
 #: wp-admin/edit-page-form.php:90
 msgid "Page Author"
@@ -1728,7 +1728,7 @@ msgstr "तपाईलाई यो पृष्ठ सम्पादन ग�
 #: wp-admin/upload.php:116
 #, fuzzy
 msgid "Error in deleting..."
-msgstr "ढाँचामा त्रुटि"
+msgstr "%s कुराकानीमा त्रुटि"
 
 #: wp-admin/edit-pages.php:104
 #: wp-admin/includes/template.php:3278
@@ -1791,7 +1791,6 @@ msgstr[0] "मेरो लेख <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: wp-admin/edit-pages.php:112
-#, fuzzy
 msgctxt "page"
 msgid "Draft"
 msgstr "रफ"
@@ -2223,7 +2222,7 @@ msgstr ""
 #: wp-admin/import.php:45
 #, fuzzy
 msgid "No importers are available."
-msgstr "%s: %s जगेडा फाइल उपलब्ध छैन"
+msgstr "दैनिकी सन्देश उपलब्ध छैन"
 
 #: wp-admin/import/blogger.php:50
 #, fuzzy
@@ -2258,7 +2257,7 @@ msgstr ""
 #: wp-admin/import/blogger.php:151
 #, fuzzy
 msgid "Trouble signing in"
-msgstr "वीचमा विवरण"
+msgstr "बजाउने सूचीमा %i वस्तु"
 
 #: wp-admin/import/blogger.php:152
 msgid "We were not able to gain access to your account. Try starting over."
@@ -2318,7 +2317,7 @@ msgstr "ब्लगको वेवसाइट"
 #: wp-admin/import/blogger.php:204
 #, fuzzy
 msgid "The Magic Button"
-msgstr "गोलो बटन..."
+msgstr "ट्रिगर बटन"
 
 #: wp-admin/import/blogger.php:205
 #: wp-admin/includes/template.php:875
@@ -2404,7 +2403,7 @@ msgstr ""
 #: wp-admin/import/blogger.php:841
 #, fuzzy
 msgid "Clear account information"
-msgstr "छुटेको अपवाद सुचना"
+msgstr "प्रवाह जानकारी प्राप्त गर्नुहोस्"
 
 #: wp-admin/import/blogger.php:891
 msgid "Blogger"
@@ -2689,7 +2688,7 @@ msgstr "HTTP होस्ट ठेगाना"
 #: wp-admin/import/dotclear.php:618
 #, fuzzy
 msgid "DotClear Table prefix:"
-msgstr "छवि नाम उपसर्ग"
+msgstr "खराब नेमस्पेस उपसर्ग"
 
 #: wp-admin/import/dotclear.php:619
 #, fuzzy
@@ -2947,7 +2946,7 @@ msgstr ""
 #: wp-admin/import/livejournal.php:392
 #, fuzzy
 msgid "Failed to create post."
-msgstr "डाइरेक्टरी सिर्जना गर्न असफल"
+msgstr "FILE* सिर्जना गर्न असफल"
 
 #: wp-admin/import/livejournal.php:437
 msgid "Could not get a cookie from LiveJournal. Please try again soon."
@@ -3293,7 +3292,7 @@ msgstr ""
 #: wp-admin/import/stp.php:20
 #, fuzzy
 msgid "Import Simple Tagging"
-msgstr "साधारण वस्तुहरू रेखाङ्कन गर्दै"
+msgstr "साधारण थप्ने फाइल..."
 
 #: wp-admin/import/stp.php:30
 msgid "Howdy! This imports tags from Simple Tagging 1.6.2 into WordPress tags."
@@ -3567,7 +3566,7 @@ msgstr "लेख <em>%s</em> उपस्थित छ ।"
 #: wp-admin/import/wordpress.php:630
 #, fuzzy, php-format
 msgid "Remote file error: %s"
-msgstr "फाइल खोल्दा त्रुटि"
+msgstr "फाइल सञ्चालन त्रुटि"
 
 #: wp-admin/import/wordpress.php:641
 #: wp-includes/functions.php:2176
@@ -3623,7 +3622,7 @@ msgstr "आयात गर्न समूहहरु छैन ।"
 #, fuzzy, php-format
 msgid "Convert Category to Tag."
 msgid_plural "Convert Categories (%d) to Tags."
-msgstr[0] "चयनलाई ब्रुसमा रुपान्तरण गर्नुहोस्"
+msgstr[0] "ग्रेस्केलमा छवि रूपान्तरण गर्नुहोस्"
 msgstr[1] ""
 
 #: wp-admin/import/wp-cat2tag.php:70
@@ -3666,7 +3665,7 @@ msgstr "आयात गर्न समूहहरु छैन ।"
 #, fuzzy, php-format
 msgid "Convert Tag to Category."
 msgid_plural "Convert Tags (%d) to Categories."
-msgstr[0] "चयनलाई ब्रुसमा रुपान्तरण गर्नुहोस्"
+msgstr[0] "ग्रेस्केलमा छवि रूपान्तरण गर्नुहोस्"
 msgstr[1] ""
 
 #: wp-admin/import/wp-cat2tag.php:146
@@ -3766,7 +3765,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-filesystem-base.php:200
 #, fuzzy, php-format
 msgid "Changing to %s"
-msgstr "% लाई फिका पार्नुहोस्"
+msgstr "%s मा जडान गरिदैछ"
 
 #: wp-admin/includes/class-wp-filesystem-base.php:209
 #, php-format
@@ -3911,12 +3910,12 @@ msgstr "संग्रह दूषित भयो"
 #: wp-admin/includes/class-wp-upgrader.php:59
 #, fuzzy
 msgid "Enabling Maintenance mode."
-msgstr "अवैध अद्यावधिक मोड"
+msgstr "मेगाबास मोड सक्षम पार्नुहोस्"
 
 #: wp-admin/includes/class-wp-upgrader.php:60
 #, fuzzy
 msgid "Disabling Maintenance mode."
-msgstr "अवैध अद्यावधिक मोड"
+msgstr "मेगाबास मोड सक्षम पार्नुहोस्"
 
 #: wp-admin/includes/class-wp-upgrader.php:367
 #, fuzzy
@@ -3984,7 +3983,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-upgrader.php:606
 #, fuzzy
 msgid "Unpacking the package."
-msgstr " प्याकेज `%.255s'"
+msgstr "प्याकेज पिन:"
 
 #: wp-admin/includes/class-wp-upgrader.php:382
 #, fuzzy
@@ -4180,7 +4179,7 @@ msgstr "विषयवस्तु बाट"
 #: wp-admin/includes/class-wp-upgrader.php:1139
 #, fuzzy
 msgid "Please select a file"
-msgstr "HTML फाइल चयन गर्नुहोस्"
+msgstr "फाइल प्रकार (%s) चयन गर्नुहोस्"
 
 #: wp-admin/includes/class-wp-upgrader.php:1153
 #: wp-admin/includes/file.php:313
@@ -4427,7 +4426,7 @@ msgstr "रिसेट गर्नुहोस्"
 #: wp-admin/press-this.php:487
 #, fuzzy
 msgid "Submit for Review"
-msgstr "GIF का लागि तयार गर्नुहोस्"
+msgstr " %s हटाउन तयार गरिदैछ"
 
 #: wp-admin/includes/dashboard.php:463
 msgid "There are no drafts at the moment"
@@ -4909,7 +4908,7 @@ msgstr ""
 #: wp-admin/includes/file.php:835
 #, fuzzy
 msgid "Connection Type"
-msgstr "अस्पष्ट प्रकार"
+msgstr "डिक्स प्रकार"
 
 #: wp-admin/includes/file.php:858
 msgid "Proceed"
@@ -4963,7 +4962,7 @@ msgstr ""
 #: wp-admin/includes/image-edit.php:81
 #, fuzzy, php-format
 msgid "Original dimensions %s"
-msgstr "छवि आयामहरू: %d x %d "
+msgstr "पिक्सेल आयामहरू:"
 
 #: wp-admin/includes/image-edit.php:85
 #: wp-includes/js/tinymce/langs/wp-langs.php:320
@@ -4987,7 +4986,7 @@ msgstr ""
 #: wp-admin/includes/image-edit.php:102
 #, fuzzy
 msgid "Restore image"
-msgstr "पृष्ठभूमि छवि"
+msgstr "छवि समायोजन"
 
 #: wp-admin/includes/image-edit.php:113
 #, fuzzy
@@ -5050,7 +5049,7 @@ msgstr ""
 #: wp-admin/includes/image-edit.php:135
 #, fuzzy
 msgid "Aspect ratio:"
-msgstr "आकार अनुपात:"
+msgstr "रूप अनुपात:"
 
 #: wp-admin/includes/image-edit.php:144
 msgid "Selection:"
@@ -5201,7 +5200,7 @@ msgstr "सञ्चारमाध्यम खोज्नुहोस"
 #: wp-includes/js/tinymce/langs/wp-langs.php:413
 #, fuzzy
 msgid "Add an Image"
-msgstr "छवि वरिपरि किनारा थप्नुहोस्"
+msgstr "छविमा स्टारब्रुर्ट थप्नुहोस्"
 
 #: wp-admin/includes/media.php:361
 #: wp-includes/js/tinymce/langs/wp-langs.php:414
@@ -5258,7 +5257,7 @@ msgstr "टूलो"
 #: wp-admin/includes/media.php:822
 #, fuzzy
 msgid "Full size"
-msgstr "खण्ड साइज"
+msgstr "साइज मेल खाएन"
 
 #: wp-admin/includes/media.php:851
 #, fuzzy, php-format
@@ -5345,12 +5344,12 @@ msgstr "लुकाउनुहोस्"
 #: wp-admin/includes/media.php:1201
 #, fuzzy
 msgid "Edit image"
-msgstr "पृष्ठभूमि छवि"
+msgstr "छवि समायोजन"
 
 #: wp-admin/includes/media.php:1213
 #, fuzzy
 msgid "File name:"
-msgstr "फाइल नाम"
+msgstr "फाइल नाम:"
 
 #: wp-admin/includes/media.php:1215
 #, fuzzy
@@ -5549,7 +5548,7 @@ msgstr "संग्राहलय घुसाउनुहोस्"
 #: wp-admin/includes/media.php:1776
 #, fuzzy
 msgid "Update gallery settings"
-msgstr "पूर्वनिर्धारित बम्पम्याप सेटिङ"
+msgstr "क्रोमा मोड्युल सेटिङ"
 
 #: wp-admin/includes/media.php:1819
 #: wp-admin/includes/media.php:1821
@@ -5565,12 +5564,12 @@ msgstr "सबै प्रकारको"
 #: wp-admin/includes/media.php:1908
 #, fuzzy
 msgid "Filter &#187;"
-msgstr "फिल्टर (regexp)"
+msgstr "भिडियो फिल्टर"
 
 #: wp-admin/includes/media.php:1958
 #, fuzzy
 msgid "Image Caption"
-msgstr "पृष्ठभूमि छवि"
+msgstr "छवि समायोजन"
 
 #: wp-admin/includes/media.php:1972
 msgid "Insert an image from another web site"
@@ -5595,12 +5594,12 @@ msgstr "शब्दहरु लुकाउनुहोस"
 #: wp-admin/includes/media.php:2014
 #, fuzzy
 msgid "Link Image To:"
-msgstr "काट्नु पर्ने छवि "
+msgstr "छविमा क्लिप गरिएको"
 
 #: wp-admin/includes/media.php:2019
 #, fuzzy
 msgid "Link to image"
-msgstr "काट्नु पर्ने छवि "
+msgstr "छविमा क्लिप गरिएको"
 
 #: wp-admin/includes/media.php:2046
 #, fuzzy
@@ -5642,7 +5641,7 @@ msgstr ""
 #: wp-includes/script-loader.php:297
 #, fuzzy
 msgid "Save as Pending"
-msgstr "एनिमेसनको रुपमा बचत गर्नुहोस्"
+msgstr "यस रूपमा सन्देश बचत गर्नुहोस्..."
 
 #: wp-admin/includes/meta-boxes.php:40
 msgid "Preview Changes"
@@ -5824,7 +5823,7 @@ msgstr "पहिले नै अवस्थित छ"
 #: wp-admin/includes/meta-boxes.php:338
 #, fuzzy
 msgid "Send trackbacks to:"
-msgstr "पछाडि पठाउनुहोस्"
+msgstr "%s मा %s पठाउन प्रस्ताव गरिदैछ"
 
 #: wp-admin/includes/meta-boxes.php:338
 msgid "Separate multiple URLs with spaces"
@@ -5914,7 +5913,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:523
 #, fuzzy
 msgid "Visit Link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-admin/includes/meta-boxes.php:531
 msgid "Keep this link private"
@@ -6350,7 +6349,7 @@ msgstr "अनुचित प्लगिन पृष्ठ"
 #: wp-admin/includes/plugin-install.php:521
 #, fuzzy
 msgid "Average Rating"
-msgstr "किनार औसत"
+msgstr "नमूना औसत"
 
 #: wp-admin/includes/plugin-install.php:536
 msgid "<strong>Warning:</strong> This plugin has <strong>not been tested</strong> with your current version of WordPress."
@@ -6727,7 +6726,7 @@ msgstr "फाइल"
 #, fuzzy
 msgctxt "column name"
 msgid "Attached to"
-msgstr "% लाई फिका पार्नुहोस्"
+msgstr "%s मा जडान गरिदैछ"
 
 #. translators: column name
 #: wp-admin/includes/template.php:791
@@ -7101,7 +7100,7 @@ msgstr "सञ्चारमाध्यम खोज्नुहोस"
 #: wp-admin/includes/template.php:3287
 #, fuzzy
 msgid "New Link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-admin/includes/template.php:3290
 #: wp-admin/link-manager.php:44
@@ -7184,7 +7183,7 @@ msgstr "मेगाबास मोड सक्षम पार्नुहो
 #: wp-admin/includes/template.php:3547
 #, fuzzy
 msgid "Disable accessibility mode"
-msgstr "अवैध अद्यावधिक मोड"
+msgstr "मेगाबास मोड सक्षम पार्नुहोस्"
 
 #: wp-admin/includes/template.php:3559
 #, fuzzy
@@ -7329,7 +7328,7 @@ msgstr "चिनारीको नाम"
 #: wp-admin/includes/theme-install.php:176
 #, fuzzy
 msgid "Feature Filter"
-msgstr "फिल्टर (regexp)"
+msgstr "भिडियो फिल्टर"
 
 #: wp-admin/includes/theme-install.php:178
 msgid "Find a theme based on specific features"
@@ -7431,12 +7430,12 @@ msgstr "चौडाइ"
 #: wp-admin/includes/theme-install.php:187
 #, fuzzy
 msgid "Fixed Width"
-msgstr "बेभेल चौडाइ"
+msgstr "किनारा चौडाइ"
 
 #: wp-admin/includes/theme-install.php:187
 #, fuzzy
 msgid "Flexible Width"
-msgstr "बेभेल चौडाइ"
+msgstr "किनारा चौडाइ"
 
 #: wp-admin/includes/theme-install.php:188
 msgid "Features"
@@ -7445,7 +7444,7 @@ msgstr "विशेषताहरु"
 #: wp-admin/includes/theme-install.php:188
 #, fuzzy
 msgid "Custom Colors"
-msgstr "सक्रिय रङहरू"
+msgstr "रङहरू उल्टाउनुहोस्"
 
 #: wp-admin/includes/theme-install.php:188
 #, fuzzy
@@ -7610,7 +7609,7 @@ msgstr ""
 #: wp-admin/includes/update.php:143
 #, fuzzy, php-format
 msgid "Update to %s"
-msgstr "% लाई फिका पार्नुहोस्"
+msgstr "%s मा जडान गरिदैछ"
 
 #: wp-admin/includes/update.php:143
 #, fuzzy
@@ -7959,7 +7958,7 @@ msgstr "%d लाइनको %d क्यारेक्टरमा त्र�
 #: wp-admin/link.php:102
 #, fuzzy
 msgid "Edit Link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-admin/link.php:107
 #, fuzzy
@@ -8120,7 +8119,7 @@ msgstr "नयाँ एकाइ थप गर्नुहोस्"
 #: wp-admin/menu.php:98
 #, fuzzy
 msgid "Your Profile"
-msgstr "मोनिटर प्रोफाइल:"
+msgstr "प्रोफाइल URL"
 
 #: wp-admin/menu.php:101
 #: wp-admin/menu.php:102
@@ -8146,12 +8145,14 @@ msgstr "साधारण"
 #: wp-admin/menu.php:109
 #, fuzzy
 msgid "Writing"
-msgstr "लेख्दै गर्दा त्रुटि `%s'"
+msgstr "लेख्ने अनुप्रयोग"
 
 #: wp-admin/menu.php:110
 #, fuzzy
 msgid "Reading"
-msgstr "%s बाट पढ्दैछ"
+msgstr ""
+"%s पढ्दा त्रुटि: \n"
+"%s.\n"
 
 #: wp-admin/menu.php:113
 msgid "Privacy"
@@ -8371,7 +8372,7 @@ msgstr ""
 #: wp-admin/options-discussion.php:192
 #, fuzzy
 msgid "Mystery Man"
-msgstr "Man'o'war"
+msgstr "मानव द्वीप"
 
 #: wp-admin/options-discussion.php:193
 #, fuzzy
@@ -8447,7 +8448,7 @@ msgstr "सदस्यता"
 #: wp-admin/options-general.php:91
 #, fuzzy
 msgid "Anyone can register"
-msgstr "debconf: ले मोड परिवर्तन गर्न सक्दैन: %s"
+msgstr "क्यानभास साइज..."
 
 #: wp-admin/options-general.php:95
 #, fuzzy
@@ -8564,7 +8565,7 @@ msgstr ""
 #: wp-admin/options-media.php:34
 #, fuzzy
 msgid "Thumbnail size"
-msgstr "खण्ड साइज"
+msgstr "साइज मेल खाएन"
 
 #: wp-admin/options-media.php:38
 #: wp-admin/options-media.php:93
@@ -8581,25 +8582,25 @@ msgstr ""
 #: wp-admin/options-media.php:47
 #, fuzzy
 msgid "Medium size"
-msgstr "खण्ड साइज"
+msgstr "साइज मेल खाएन"
 
 #: wp-admin/options-media.php:48
 #: wp-admin/options-media.php:58
 #, fuzzy
 msgid "Max Width"
-msgstr "बेभेल चौडाइ"
+msgstr "किनारा चौडाइ"
 
 #: wp-admin/options-media.php:50
 #: wp-admin/options-media.php:60
 #, fuzzy
 msgid "Max Height"
-msgstr "पट्टी उचाइ"
+msgstr "किनारा उचाइ"
 
 #: wp-admin/options-media.php:56
 #: wp-admin/options-media.php:57
 #, fuzzy
 msgid "Large size"
-msgstr "खण्ड साइज"
+msgstr "साइज मेल खाएन"
 
 #: wp-admin/options-media.php:68
 msgid "Embeds"
@@ -8741,12 +8742,12 @@ msgstr ""
 #: wp-admin/options-permalink.php:211
 #, fuzzy
 msgid "Category base"
-msgstr "आधार रङ"
+msgstr "बेस सक्षम पार्नुहोस्"
 
 #: wp-admin/options-permalink.php:215
 #, fuzzy
 msgid "Tag base"
-msgstr "आधार रङ"
+msgstr "बेस सक्षम पार्नुहोस्"
 
 #: wp-admin/options-permalink.php:230
 msgid "If your <code>web.config</code> file were <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">writable</a>, we could do this automatically, but it isn&#8217;t so this is the url rewrite rule you should have in your <code>web.config</code> file. Click in the field and press <kbd>CTRL + a</kbd> to select all. Then insert this rule inside of the <code>/&lt;configuration&gt;/&lt;system.webServer&gt;/&lt;rewrite&gt;/&lt;rules&gt;</code> element in <code>web.config</code> file."
@@ -8875,7 +8876,7 @@ msgstr "हरफहरू"
 #: wp-admin/options-writing.php:36
 #, fuzzy
 msgid "Formatting"
-msgstr "डेटा ढाँचा"
+msgstr "पूर्वनिर्धारित ढाँचा"
 
 #: wp-admin/options-writing.php:39
 msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display"
@@ -8936,7 +8937,7 @@ msgstr ""
 #: wp-admin/options-writing.php:89
 #, fuzzy
 msgid "Mail Server"
-msgstr "सर्भर लग फाइल:"
+msgstr "CDDB सर्भर"
 
 #: wp-admin/options-writing.php:91
 msgid "Port"
@@ -9034,12 +9035,12 @@ msgstr ""
 #: wp-admin/plugin-editor.php:144
 #, fuzzy, php-format
 msgid "Editing <strong>%s</strong> (active)"
-msgstr "तल्लो रङ (सक्रिय)"
+msgstr "सक्रिय ब्रुस सम्पादन गर्नुहोस्"
 
 #: wp-admin/plugin-editor.php:146
 #, fuzzy, php-format
 msgid "Browsing <strong>%s</strong> (active)"
-msgstr "तल्लो रङ (सक्रिय)"
+msgstr "सक्रिय ब्रुस सम्पादन गर्नुहोस्"
 
 #: wp-admin/plugin-editor.php:149
 #, fuzzy, php-format
@@ -9084,7 +9085,7 @@ msgstr ""
 #: wp-admin/theme-editor.php:218
 #, fuzzy
 msgid "Update File"
-msgstr "फाइल नाम"
+msgstr "CRL फाइल"
 
 #: wp-admin/plugin-editor.php:223
 #: wp-admin/theme-editor.php:222
@@ -9336,7 +9337,7 @@ msgstr ""
 #: wp-admin/press-this.php:122
 #, fuzzy
 msgid "Embed Code"
-msgstr "स्रोत सङ्केत"
+msgstr "हुलाकी संकेत"
 
 #: wp-admin/press-this.php:125
 #, fuzzy
@@ -9372,7 +9373,7 @@ msgstr "BG बाट रङहरू थप्नुहोस्"
 #: wp-admin/press-this.php:305
 #, fuzzy
 msgid "Refresh"
-msgstr "स्क्रिप्ट ताजा पार्नुहोस्"
+msgstr "ताजा पार्ने सूची"
 
 #: wp-admin/press-this.php:413
 #, fuzzy
@@ -9484,7 +9485,7 @@ msgstr "चिनारीहरुलाई कम्मा(,)ले छुट�
 #: wp-admin/sidebar.php:119
 #, fuzzy
 msgid "Save as Draft"
-msgstr "एनिमेसनको रुपमा बचत गर्नुहोस्"
+msgstr "यस रूपमा सन्देश बचत गर्नुहोस्..."
 
 #: wp-admin/theme-editor.php:13
 msgid "You do not have sufficient permissions to edit templates for this blog."
@@ -9671,7 +9672,7 @@ msgstr "टर्बो:"
 #: wp-admin/tools.php:27
 #, fuzzy
 msgid "Speed up WordPress"
-msgstr "माथि बटन गियर"
+msgstr "अडियो विलम्ब बढाउनुहोस्"
 
 #: wp-admin/tools.php:28
 msgid "WordPress now has support for Gears, which adds new features to your web browser."
@@ -9694,7 +9695,7 @@ msgstr ""
 #: wp-admin/tools.php:60
 #, fuzzy
 msgid "Gears Status"
-msgstr "%s -  वस्तुस्थिति %s छ"
+msgstr "वस्तुस्थिति द्वारा"
 
 #: wp-admin/tools.php:37
 msgid "Gears is installed on this computer, but is not enabled for use with WordPress."
@@ -9813,7 +9814,7 @@ msgstr ""
 #: wp-admin/update-core.php:50
 #, fuzzy
 msgid "Hide this update"
-msgstr "अवैध अद्यावधिक मोड"
+msgstr "मेनु अद्यावधिक अन्तराल"
 
 #: wp-admin/update-core.php:52
 msgid "Bring back this update"
@@ -10138,7 +10139,7 @@ msgstr "व्यक्तिगत विकल्पहरू"
 #: wp-admin/user-edit.php:140
 #, fuzzy
 msgid "Visual Editor"
-msgstr "एकाइ सम्पादक"
+msgstr "ब्रुस सम्पादक"
 
 #: wp-admin/user-edit.php:141
 msgid "Disable the visual editor when writing"
@@ -10204,7 +10205,7 @@ msgstr "सार्वजनिक रुपमा देखिने नाम
 #: wp-admin/user-edit.php:257
 #, fuzzy
 msgid "Contact Info"
-msgstr "सूचना निकाल्नुहोस्"
+msgstr "मिडिया सूचना..."
 
 #: wp-admin/user-edit.php:266
 #: wp-admin/user-new.php:113
@@ -10224,7 +10225,7 @@ msgstr "प्रयोगकर्ता बारेमा"
 #: wp-admin/user-edit.php:286
 #, fuzzy
 msgid "Biographical Info"
-msgstr "सूचना निकाल्नुहोस्"
+msgstr "मिडिया सूचना..."
 
 #: wp-admin/user-edit.php:288
 msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
@@ -10258,12 +10259,12 @@ msgstr ""
 #: wp-admin/user-edit.php:318
 #, fuzzy
 msgid "Additional Capabilities"
-msgstr "थप सूचना"
+msgstr "अतिरिक्त डिबग"
 
 #: wp-admin/user-edit.php:337
 #, fuzzy
 msgid "Update Profile"
-msgstr "मोनिटर प्रोफाइल:"
+msgstr "प्रोफाइल URL"
 
 #: wp-admin/user-edit.php:337
 msgid "Update User"
@@ -10364,7 +10365,7 @@ msgstr ""
 #: wp-admin/users.php:173
 #, fuzzy
 msgid "Confirm Deletion"
-msgstr "बचत यकिन गर्नुहोस्"
+msgstr "खाता यकिन गर्नुहोस्"
 
 #: wp-admin/users.php:175
 msgid "There are no valid users selected for deletion."
@@ -10494,7 +10495,7 @@ msgstr ""
 #: wp-admin/widgets.php:343
 #, fuzzy
 msgid "Available Widgets"
-msgstr "उपलब्ध छविहरू:"
+msgstr "उपलब्ध छैन"
 
 #: wp-admin/widgets.php:345
 msgid "Drag widgets from here to a sidebar on the right to activate them. Drag widgets back here to deactivate them and delete their settings."
@@ -10668,7 +10669,7 @@ msgstr "थप प्रवाह विकल्प"
 #: wp-content/plugins/akismet/akismet.php:156
 #, fuzzy
 msgid "Server Connectivity"
-msgstr "सर्भर लग फाइल:"
+msgstr "CDDB सर्भर"
 
 #: wp-content/plugins/akismet/akismet.php:163
 msgid "Unable to reach some Akismet servers."
@@ -10718,12 +10719,12 @@ msgstr ""
 #: wp-content/plugins/akismet/akismet.php:192
 #, fuzzy
 msgid "Akismet server"
-msgstr "सर्भर लग फाइल:"
+msgstr "CDDB सर्भर"
 
 #: wp-content/plugins/akismet/akismet.php:192
 #, fuzzy
 msgid "Network Status"
-msgstr "%s -  वस्तुस्थिति %s छ"
+msgstr "वस्तुस्थिति द्वारा"
 
 #: wp-content/plugins/akismet/akismet.php:201
 #, fuzzy
@@ -11147,7 +11148,7 @@ msgstr ""
 #: wp-content/themes/default/functions.php:171
 #, fuzzy
 msgid "Close Color Picker"
-msgstr "सुपरनोभा रङ पिकर"
+msgstr "रङ पिकर सूचना"
 
 #: wp-content/themes/default/functions.php:377
 #, fuzzy
@@ -11540,12 +11541,12 @@ msgstr "%s स्लेभ लिङ्क नाम नक्कल बना�
 #: wp-includes/default-widgets.php:159
 #, fuzzy
 msgid "Show Link Description"
-msgstr "वर्णनद्वारा खोजी गर्दैछ"
+msgstr "वर्णन प्रवाह निर्गत"
 
 #: wp-includes/default-widgets.php:161
 #, fuzzy
 msgid "Show Link Rating"
-msgstr "हालै अनुपस्थित लिङ्क गर्नुहोस्"
+msgstr "*** %s मा %s लिङ्क असफल भयो"
 
 #: wp-includes/default-widgets.php:175
 msgid "A search form for your blog"
@@ -11621,7 +11622,7 @@ msgstr "समूह चयन गर्नुहोस"
 #: wp-includes/default-widgets.php:494
 #, fuzzy
 msgid "Show as dropdown"
-msgstr "यस रुपमा पृष्ठहरू खोल्नुहोस्"
+msgstr "मास्टरको रूपमा कार्य गर्नुहोस्"
 
 #: wp-includes/default-widgets.php:500
 #, fuzzy
@@ -11640,7 +11641,7 @@ msgstr "हालैको लेखहरु"
 #: wp-includes/default-widgets.php:589
 #, fuzzy
 msgid "Number of posts to show:"
-msgstr "घुम्नु पर्ने पटकहरूको सङ्ख्या"
+msgstr "प्रयोगका लागि असंख्य प्रक्रियाहरू:"
 
 #: wp-includes/default-widgets.php:591
 #: wp-includes/default-widgets.php:675
@@ -11663,7 +11664,7 @@ msgstr "खुला"
 #: wp-includes/default-widgets.php:673
 #, fuzzy
 msgid "Number of comments to show:"
-msgstr "घुम्नु पर्ने पटकहरूको सङ्ख्या"
+msgstr "प्रयोगका लागि असंख्य प्रक्रियाहरू:"
 
 #: wp-includes/default-widgets.php:688
 msgid "Entries from any RSS or Atom feed"
@@ -11726,7 +11727,7 @@ msgstr "ट्यागको नाम"
 #: wp-includes/deprecated.php:126
 #, fuzzy
 msgid "new WordPress Loop"
-msgstr "ग्रेडिएन्ट: लुप सटुथ"
+msgstr "लुप फिल्टर फड्काउनुहोस्"
 
 #: wp-includes/deprecated.php:1015
 #, fuzzy
@@ -12044,11 +12045,7 @@ msgstr "फर्कनुहोस"
 #: wp-load.php:50
 #, fuzzy
 msgid "WordPress &rsaquo; Error"
-msgstr ""
-"कार्यान्वयन गर्ने क्रममा त्रुटि\n"
-"%s\n"
-"\n"
-"%s"
+msgstr "सामग्री %sप्रक्रिया गर्दा त्रुटि"
 
 #: wp-includes/functions.php:2966
 #: wp-includes/functions.php:3002
@@ -12069,7 +12066,7 @@ msgstr "शहर चयन गर्नुहोस"
 #: wp-includes/functions.php:3451
 #, fuzzy
 msgid "Manual offsets"
-msgstr "अफसेट (पिक्सेल * २)"
+msgstr "छवि अफसेट"
 
 #: wp-includes/general-template.php:125
 #, fuzzy
@@ -12196,7 +12193,7 @@ msgstr ""
 #: wp-includes/http.php:1367
 #, fuzzy
 msgid "Too many redirects."
-msgstr "%s: धेरै तर्कहरू"
+msgstr "अति धेरै समूहहरू"
 
 #: wp-includes/http.php:824
 #: wp-includes/http.php:951
@@ -12255,7 +12252,7 @@ msgstr ""
 #: wp-includes/js/tinymce/langs/wp-langs.php:244
 #, fuzzy
 msgid "More colors"
-msgstr "सक्रिय रङहरू"
+msgstr "रङहरू उल्टाउनुहोस्"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:46
 msgid "Full"
@@ -12501,12 +12498,12 @@ msgstr "मुद्रण गर्नुहोस्..."
 #: wp-includes/js/tinymce/langs/wp-langs.php:65
 #, fuzzy
 msgid "Direction left to right"
-msgstr "भर्नुहोस् (दायाँबाट बायाँमा)"
+msgstr "बायाँबाट दायाँ"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:66
 #, fuzzy
 msgid "Direction right to left"
-msgstr "भर्नुहोस् (दायाँबाट बायाँमा)"
+msgstr "बायाँबाट दायाँ"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:69
 #, fuzzy
@@ -12521,7 +12518,7 @@ msgstr "Y अगाडि सार्नुहोस्"
 #: wp-includes/js/tinymce/langs/wp-langs.php:71
 #, fuzzy
 msgid "Move backward"
-msgstr "सुधारात्मक (पछाडि)"
+msgstr "चरण पछाडि"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:72
 #, fuzzy
@@ -12566,7 +12563,7 @@ msgstr "फेला पार्नुहोस्"
 #: wp-includes/js/tinymce/langs/wp-langs.php:94
 #, fuzzy
 msgid "Find/Replace"
-msgstr "ब्याकड्रप फेला पार्नुहोस्"
+msgstr "/वार्तालाप/फेला पार्नुहोस्..."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:97
 #: wp-includes/js/tinymce/langs/wp-langs.php:219
@@ -12631,7 +12628,7 @@ msgstr ""
 #: wp-includes/js/tinymce/langs/wp-langs.php:120
 #, fuzzy
 msgid "Keep linebreaks"
-msgstr "पृष्ठभूमि राख्नुहोस्"
+msgstr "माथि राख्नुहोस्"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:124
 #, fuzzy
@@ -12711,7 +12708,7 @@ msgstr "छविको पहिलो पङ्क्ति"
 #: wp-includes/js/tinymce/langs/wp-langs.php:140
 #, fuzzy
 msgid "Delete table"
-msgstr "HTML तालिका"
+msgstr "  संस्करण तालिका:"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:141
 msgid "Row"
@@ -12821,7 +12818,6 @@ msgstr "अनुचित प्लगिन पृष्ठ"
 
 #. translators: TinyMCE font styles
 #: wp-includes/js/tinymce/langs/wp-langs.php:182
-#, fuzzy
 msgctxt "TinyMCE font styles"
 msgid "Styles"
 msgstr "स्टाइलहरु"
@@ -12889,7 +12885,7 @@ msgstr ""
 #: wp-includes/js/tinymce/langs/wp-langs.php:197
 #, fuzzy
 msgid "Code"
-msgstr "स्रोत सङ्केत"
+msgstr "हुलाकी संकेत"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:198
 #, fuzzy
@@ -12903,7 +12899,7 @@ msgstr ""
 #: wp-includes/js/tinymce/langs/wp-langs.php:200
 #, fuzzy
 msgid "Definition description"
-msgstr "वर्णन द्वारा"
+msgstr "कोडेक वर्णन"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:201
 #: wp-includes/js/tinymce/wp-mce-help.php:212
@@ -13020,7 +13016,7 @@ msgstr "तेर्सो मार्गदर्शक थप्नुहो�
 #: wp-includes/js/tinymce/langs/wp-langs.php:227
 #, fuzzy
 msgid "Remove formatting"
-msgstr "डेटा ढाँचा"
+msgstr "पूर्वनिर्धारित ढाँचा"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:228
 #, fuzzy
@@ -13035,7 +13031,7 @@ msgstr "पृष्ठभूमि रङ् चयन गर्नुहोस
 #: wp-includes/js/tinymce/langs/wp-langs.php:230
 #, fuzzy
 msgid "Insert custom character"
-msgstr "अनुकूल रङ रङिन पार्नुहोस्"
+msgstr "अनुकूल प्याडिङ रङ:"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:231
 msgid "Toggle guidelines/invisible elements"
@@ -13070,7 +13066,7 @@ msgstr "छवि गुण"
 #: wp-includes/js/tinymce/langs/wp-langs.php:237
 #, fuzzy
 msgid "New document"
-msgstr "PDF कागजात"
+msgstr "कागजातको इतिहास"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:241
 msgid "Path"
@@ -13119,12 +13115,12 @@ msgstr "समुहको नाम"
 #: wp-includes/js/tinymce/langs/wp-langs.php:261
 #, fuzzy
 msgid "HTML Source Editor"
-msgstr "ग्रेडियन्ट फ्लेयर सम्पादक"
+msgstr "ब्रुस सम्पादक मेनु"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:262
 #, fuzzy
 msgid "Word wrap"
-msgstr "वरिपरि बेर्नुहोस्"
+msgstr "बेरेको खुम्च्याउनुहोस्"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:263
 msgid "Select a color"
@@ -13158,7 +13154,7 @@ msgstr "नाम दिइएको प्रतिलिपि बनाउन
 #: wp-includes/js/tinymce/langs/wp-langs.php:269
 #, fuzzy
 msgid "Named colors"
-msgstr "सक्रिय रङहरू"
+msgstr "रङहरू उल्टाउनुहोस्"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:270
 msgid "Color:"
@@ -13172,7 +13168,7 @@ msgstr "अनुकूल रङ चयन गर्नुहोस्..."
 #: wp-includes/js/tinymce/langs/wp-langs.php:275
 #, fuzzy
 msgid "Image description"
-msgstr "वर्णन द्वारा"
+msgstr "कोडेक वर्णन"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:276
 #, fuzzy
@@ -13324,7 +13320,7 @@ msgstr "पृष्ठभूमि"
 #: wp-includes/js/tinymce/langs/wp-langs.php:325
 #, fuzzy
 msgid "Base"
-msgstr "आधार रङ"
+msgstr "बेस सक्षम पार्नुहोस्"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:326
 msgid "Flashvars"
@@ -13356,12 +13352,12 @@ msgstr "नियन्त्रक"
 #: wp-includes/js/tinymce/langs/wp-langs.php:332
 #, fuzzy
 msgid "Kiosk mode"
-msgstr "मिसाउने मोड"
+msgstr "बजेट मोड"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:333
 #, fuzzy
 msgid "Play every frame"
-msgstr "गती (पिक्सेल/फ्रेम)"
+msgstr "अनुकूलता B-फ्रेम निर्णय"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:334
 #, fuzzy
@@ -13396,7 +13392,7 @@ msgstr "समुह <a href=\"#%s\">%s</a> थपिएको छ ।"
 #: wp-includes/js/tinymce/langs/wp-langs.php:340
 #, fuzzy
 msgid "Choke speed"
-msgstr "गति पाठ..."
+msgstr "फिडको गति"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:342
 #, fuzzy
@@ -13438,7 +13434,7 @@ msgstr "क्रिप्ट भिडियो"
 #: wp-includes/js/tinymce/langs/wp-langs.php:350
 #, fuzzy
 msgid "Balance"
-msgstr "क्रोम सन्तुलन"
+msgstr "रङ सन्तुलन"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:351
 #, fuzzy
@@ -13453,12 +13449,12 @@ msgstr "पृष्ठ परिचय"
 #: wp-includes/js/tinymce/langs/wp-langs.php:353
 #, fuzzy
 msgid "Current marker"
-msgstr "हालको वृद्धिदर"
+msgstr "हालका अनुवादकहरू"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:354
 #, fuzzy
 msgid "Current position"
-msgstr "अवस्था (% मा)"
+msgstr "लोगो स्थान"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:355
 #, fuzzy
@@ -13477,7 +13473,7 @@ msgstr "दर"
 #: wp-includes/js/tinymce/langs/wp-langs.php:358
 #, fuzzy
 msgid "UI Mode"
-msgstr "मिसाउने मोड"
+msgstr "बजेट मोड"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:359
 #, fuzzy
@@ -13512,7 +13508,7 @@ msgstr "अडियो निर्गत URL"
 #: wp-includes/js/tinymce/langs/wp-langs.php:366
 #, fuzzy
 msgid "Image status"
-msgstr "%s -  वस्तुस्थिति %s छ"
+msgstr "वस्तुस्थिति द्वारा"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:367
 #, fuzzy
@@ -13550,12 +13546,12 @@ msgstr "नियन्त्रणहरू"
 #: wp-includes/js/tinymce/langs/wp-langs.php:374
 #, fuzzy
 msgid "Script callbacks"
-msgstr "स्क्रिप्ट-फु: %s"
+msgstr "नयाँ %s स्क्रिप्ट"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:375
 #, fuzzy
 msgid "Stretch style"
-msgstr "शैली जाँच गर्नुहोस्"
+msgstr "लाइन शैली:"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:376
 #, fuzzy
@@ -13608,7 +13604,7 @@ msgstr "थप प्रवाह विकल्प"
 #: wp-includes/js/tinymce/langs/wp-langs.php:392
 #, fuzzy
 msgid "Scale mode"
-msgstr "मिसाउने मोड"
+msgstr "बजेट मोड"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:393
 #, fuzzy
@@ -13618,7 +13614,7 @@ msgstr "बफर"
 #: wp-includes/js/tinymce/langs/wp-langs.php:394
 #, fuzzy
 msgid "Start image"
-msgstr "पृष्ठभूमि छवि"
+msgstr "छवि समायोजन"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:396
 #, fuzzy
@@ -13678,7 +13674,7 @@ msgstr "सङग्रहालय मेट्नुहोस्"
 #: wp-includes/js/tinymce/langs/wp-langs.php:421
 #, fuzzy
 msgid "Edit Image"
-msgstr "पृष्ठभूमि छवि"
+msgstr "छवि समायोजन"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:422
 #, fuzzy
@@ -13693,17 +13689,17 @@ msgstr "उन्नत सेटिङ..."
 #: wp-includes/js/tinymce/langs/wp-langs.php:428
 #, fuzzy
 msgid "Full Size"
-msgstr "खण्ड साइज"
+msgstr "साइज मेल खाएन"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:429
 #, fuzzy
 msgid "Current Link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:430
 #, fuzzy
 msgid "Link to Image"
-msgstr "काट्नु पर्ने छवि "
+msgstr "छविमा क्लिप गरिएको"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:432
 #, fuzzy
@@ -13734,7 +13730,7 @@ msgstr "अन्य उन्नत सेटिङ"
 #: wp-includes/js/tinymce/langs/wp-langs.php:439
 #, fuzzy
 msgid "Link Rel"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:443
 msgid "60%"
@@ -13786,7 +13782,7 @@ msgstr "अक्षरको रङ छान्नुहोस ।"
 #: wp-includes/js/tinymce/wp-mce-help.php:16
 #, fuzzy
 msgid "Rich Editor Help"
-msgstr "मद्दत द्वारा खोजी गर्दैछ"
+msgstr "मद्दत उपलब्ध छैन"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:174
 #, fuzzy
@@ -13930,7 +13926,7 @@ msgstr ""
 #: wp-includes/js/tinymce/wp-mce-help.php:227
 #, fuzzy
 msgid "Check Spelling"
-msgstr "साइज जाँच गर्नुहोस्"
+msgstr "साइज जाँच्नुहोस्:"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:227
 #, fuzzy
@@ -13960,7 +13956,7 @@ msgstr "लिङ्क घुसाउनुहोस्"
 #: wp-includes/js/tinymce/wp-mce-help.php:231
 #, fuzzy
 msgid "Remove link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:232
 msgid "Quote"
@@ -14029,7 +14025,7 @@ msgstr "चिनारी सम्पादन गर्नुहोस्"
 #: wp-includes/link-template.php:878
 #, fuzzy
 msgid "Edit link"
-msgstr "पढ्न अयोग्य लिङ्क - %s"
+msgstr "पोडकास्ट लिङ्क"
 
 #: wp-includes/link-template.php:999
 #: wp-includes/link-template.php:1263
@@ -14131,7 +14127,7 @@ msgstr ""
 #: wp-includes/media.php:362
 #, fuzzy
 msgid "Could not read image size"
-msgstr "'%s' बाट शिर्ष पढ्न सकेन"
+msgstr "%d बाइट्स पढ्न सकेन '%s' बाट: %s"
 
 #: wp-includes/media.php:395
 #: wp-includes/media.php:398
@@ -14326,9 +14322,9 @@ msgid "E-mail: %s"
 msgstr "इ-मेल: %s"
 
 #: wp-includes/pluggable.php:1157
-#, fuzzy, php-format
+#, php-format
 msgid "[%s] New User Registration"
-msgstr "नयाँ प्रयोगकर्ता थप गर्नुहोस्"
+msgstr "[%s] नयाँ प्रयोगकर्ता दर्ता"
 
 #: wp-includes/pluggable.php:1163
 #: wp-login.php:212
@@ -14395,7 +14391,7 @@ msgstr ""
 #: wp-includes/post-template.php:1204
 #, fuzzy, php-format
 msgid "%1$s [Current Revision]"
-msgstr "हालको वृद्धिदर"
+msgstr "हालका अनुवादकहरू"
 
 #. translators: post revision: 1: when, 2: author name
 #: wp-includes/post-template.php:1270
@@ -14410,9 +14406,8 @@ msgid "Compare Revisions"
 msgstr "--compare-संस्करणहरू खराब सम्बन्ध"
 
 #: wp-includes/post-template.php:1334
-#, fuzzy
 msgid "Date Created"
-msgstr "मिति/समय"
+msgstr "रचिएको मिति"
 
 #: wp-includes/post.php:1614
 msgid "Content, title, and excerpt are empty."
@@ -14442,19 +14437,16 @@ msgid "You do not have permission to preview drafts."
 msgstr "तपाइलाई फाइल राख्ने अनुमति छैन ।"
 
 #: wp-includes/registration.php:312
-#, fuzzy
 msgid "AIM"
-msgstr "AIM प्रत्यक्ष IM"
+msgstr "AIM"
 
 #: wp-includes/registration.php:313
-#, fuzzy
 msgid "Yahoo IM"
-msgstr "छवि"
+msgstr "याहु IM"
 
 #: wp-includes/registration.php:314
-#, fuzzy
 msgid "Jabber / Google Talk"
-msgstr "अरुले कुरा गर्दा"
+msgstr "ज्याबर / गुगल टक"
 
 #: wp-includes/rss.php:883
 msgid "An error has occurred, which probably means the feed is down. Try again later."
@@ -14469,7 +14461,7 @@ msgstr ""
 #: wp-includes/script-loader.php:76
 #, fuzzy
 msgid "(Quick Links)"
-msgstr "शिघ्र स्क्रिप्ट:"
+msgstr "छिटो लोड"
 
 #: wp-includes/script-loader.php:77
 msgid "Enter a word to look up:"
@@ -14643,9 +14635,8 @@ msgid "Tags used on this post:"
 msgstr "यो लेखमा प्रयोग भएका चिनारीहरु:"
 
 #: wp-includes/script-loader.php:288
-#, fuzzy
 msgid "Publish on:"
-msgstr "<b>%1$s</b> मा सम्प्रेषित"
+msgstr "प्रकाशित :"
 
 #: wp-includes/script-loader.php:289
 #, fuzzy
@@ -14657,17 +14648,14 @@ msgid "Published on:"
 msgstr "प्रकाशित"
 
 #: wp-includes/script-loader.php:291
-#, fuzzy
 msgid "Show more comments"
-msgstr "प्रति पृष्ठ टिप्पणीहरु:"
+msgstr "थप प्रतिकृयाहरु देखाउनुहोस"
 
 #: wp-includes/script-loader.php:292
-#, fuzzy
 msgid "No more comments found."
-msgstr " %s संग मिल्ने कुनै पनि प्याकेजहरू फेला परेन ।\n"
+msgstr "थप प्रतिकृया भेटिएन ।"
 
 #: wp-includes/script-loader.php:302
-#, fuzzy
 msgid "Password Protected"
 msgstr "पासवर्ड सुरक्षित भयो"
 
@@ -14799,9 +14787,8 @@ msgid "<strong>ERROR</strong>: Incorrect password. <a href=\"%s\" title=\"Passwo
 msgstr ""
 
 #: wp-includes/user.php:124
-#, fuzzy
 msgid "Please log in again."
-msgstr "जवाफ दिन प्रवेश गर्नुहोस"
+msgstr "कृपया पुनः प्रवेश गर्नुहोस ।"
 
 #: wp-includes/widgets.php:487
 #: wp-includes/widgets.php:549
@@ -14815,9 +14802,8 @@ msgid "<strong>ERROR</strong>: WordPress %s requires MySQL 4.0.0 or higher"
 msgstr ""
 
 #: wp-login.php:78
-#, fuzzy
 msgid "Powered by WordPress"
-msgstr "नामद्वारा क्रमबद्द गर्नुहोस  "
+msgstr "वर्डप्रेसमा गरिएको"
 
 #: wp-login.php:121
 msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
@@ -14850,9 +14836,8 @@ msgstr "सबै पुन: सेट गर्नुहोस्"
 
 #: wp-login.php:176
 #: wp-login.php:221
-#, fuzzy
 msgid "The e-mail could not be sent."
-msgstr "स्रोतहरुको सूचि पढ्न सकिएन ।"
+msgstr "ई-मेल पठाउन सकिएन ।"
 
 #: wp-login.php:176
 #: wp-login.php:221
@@ -14862,9 +14847,8 @@ msgstr ""
 #: wp-login.php:195
 #: wp-login.php:198
 #: wp-login.php:202
-#, fuzzy
 msgid "Invalid key"
-msgstr "सार्वजनिक साँचो"
+msgstr " साँचो"
 
 #: wp-login.php:215
 #, fuzzy, php-format
@@ -15014,7 +14998,7 @@ msgstr "<strong>मौलिक:</strong> %s"
 #: wp-mail.php:214
 #, fuzzy, php-format
 msgid "<strong>Posted title:</strong> %s"
-msgstr "वेब शीर्षकको हेडर..."
+msgstr "CD-पाठ शीर्षक"
 
 #: wp-mail.php:217
 #, php-format
@@ -15346,7 +15330,7 @@ msgstr ""
 #: wp-includes/wp-db.php:430
 #, fuzzy
 msgid "Invalid database prefix"
-msgstr "छवि नाम उपसर्ग"
+msgstr "खराब नेमस्पेस उपसर्ग"
 
 #. Not gettexted string WP_I18N_DB_SELECT_DB
 #: wp-includes/wp-db.php:469
