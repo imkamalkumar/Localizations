@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 2.8.*\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2009-12-12 12:56+0000\n"
-"PO-Revision-Date: 2010-01-12 10:15+0530\n"
+"PO-Revision-Date: 2010-01-13 16:48+0530\n"
 "Last-Translator: Sagar <reddevilsagar@gmail.com>\n"
 "Language-Team: Nepali <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2974,7 +2974,7 @@ msgstr ""
 #: wp-includes/comment-template.php:29
 #: wp-includes/theme.php:225
 msgid "Anonymous"
-msgstr ""
+msgstr "अज्ञात"
 
 #: wp-admin/import/livejournal.php:661
 msgid "LiveJournal is not responding to authentication requests. Please wait a while and then try again."
@@ -5192,9 +5192,8 @@ msgstr "संग्राहलय घुसाउनुहोस्"
 
 #: wp-admin/includes/media.php:357
 #: wp-includes/js/tinymce/langs/wp-langs.php:412
-#, fuzzy
 msgid "Add Media"
-msgstr "सञ्चारमाध्यम खोज्नुहोस"
+msgstr "सञ्चारमाध्यम थप्नुहोस"
 
 #: wp-admin/includes/media.php:359
 #: wp-includes/js/tinymce/langs/wp-langs.php:413
@@ -6158,14 +6157,14 @@ msgid "You may also browse based on the most popular tags in the Plugin Director
 msgstr ""
 
 #: wp-admin/includes/plugin-install.php:148
-#, fuzzy, php-format
+#, php-format
 msgid "%d plugin"
-msgstr "सामान्य प्लगइन"
+msgstr "%d प्लगइन"
 
 #: wp-admin/includes/plugin-install.php:148
-#, fuzzy, php-format
+#, php-format
 msgid "%d plugins"
-msgstr "प्लगइनहरू"
+msgstr "%d प्लगइनहरू"
 
 #: wp-admin/includes/plugin-install.php:163
 #: wp-admin/includes/theme-install.php:157
@@ -6487,7 +6486,6 @@ msgstr[0] "मेरो लेख <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: wp-admin/includes/post.php:822
-#, fuzzy
 msgctxt "post"
 msgid "Draft"
 msgstr "रफ"
@@ -6516,10 +6514,9 @@ msgstr[0] "निजि <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: wp-admin/includes/post.php:824
-#, fuzzy
 msgctxt "post"
 msgid "Trash"
-msgstr "नचाहिने"
+msgstr "रद्दीटोकरी"
 
 #: wp-admin/includes/post.php:824
 #, fuzzy
@@ -7680,11 +7677,11 @@ msgstr "श्री वर्डप्रेस"
 
 #: wp-admin/includes/upgrade.php:188
 msgid "Hi, this is a comment.<br />To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them."
-msgstr ""
+msgstr "नमस्कार, यो एउटा प्रतिकृया हो।<br /> प्रतिकृया सम्पादन गर्न अथवा मेट्न, प्रवेश गर्नुहोस अनि लेखका प्रतिकृयाहरु हेर्नुहोस।"
 
 #: wp-admin/includes/upgrade.php:196
 msgid "This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress."
-msgstr ""
+msgstr "यो वर्डप्रेस पृष्ठको नमुना हो, यसमा तपाईले आफ्नो सामाग्री राख्न सक्नुहुन्छ साथै यो जस्तै अरु पृष्ठ तथा उप-पृष्ठहरु बनाउन सक्नुहुन्छ ।"
 
 #: wp-admin/includes/upgrade.php:198
 #: wp-includes/js/tinymce/langs/wp-langs.php:251
@@ -7737,9 +7734,8 @@ msgid "<strong>ERROR</strong>: You entered your new password only once."
 msgstr "<strong>त्रुटि भयो</strong>: तपाईले अाफ्नो नयाँ पासवर्ड एकपटक मात्र दिनुभयो ।"
 
 #: wp-admin/includes/user.php:143
-#, fuzzy
 msgid "<strong>ERROR</strong>: Please enter your password."
-msgstr "<strong>त्रुटि भयो</strong>: कृपया नयाँ पासवर्ड दुईपटक दिनुहोस ।"
+msgstr "<strong>त्रुटि भयो</strong>: कृपया पासवर्ड दिनुहोस ।"
 
 #: wp-admin/includes/user.php:145
 msgid "<strong>ERROR</strong>: Please enter your password twice."
@@ -7784,6 +7780,8 @@ msgid ""
 "Notice: you're using the auto-generated password for your account. Would you like to change it to something you'll remember easier?<br />\n"
 "\t\t\t  <a href='%s'>Yes, Take me to my profile page</a> | <a href='%s' id='default-password-nag-no'>No Thanks, Do not remind me again.</a>"
 msgstr ""
+"सुचना : तपाई वर्डप्रेस स्वयम सिर्जित पासवर्डले चलाउदै हुनुहुन्छ । के तापई पासवर्ड फेर्न चाहनुहुन्छ ?<br />\n"
+"\t\t\t  <a href='%s'>हुन्छ।</a> | <a href='%s' id='default-password-nag-no'>अहिलेलाई यही ठिक छ ।</a>"
 
 #: wp-admin/includes/widgets.php:189
 #: wp-admin/widgets.php:260
@@ -7797,9 +7795,8 @@ msgid "Dashboard"
 msgstr "ड्यासबोर्ड"
 
 #: wp-admin/install.php:42
-#, fuzzy
 msgid "WordPress &rsaquo; Installation"
-msgstr "गिम्प प्रयोगकर्ता स्थापना"
+msgstr "वर्डप्रेस &rsaquo; स्थापना"
 
 #: wp-admin/install.php:60
 #, php-format
@@ -7822,7 +7819,7 @@ msgstr "तपाइको ई-मेल पुनः विचार गरि 
 
 #: wp-admin/install.php:74
 msgid "Allow my blog to appear in search engines like Google and Technorati."
-msgstr ""
+msgstr "मेरो ब्लगलाई गुगल र टेक्नोरातिजस्ता खोज वेव-साइटबाट देखिने बनाउनुहोस । "
 
 #: wp-admin/install.php:77
 msgid "Install WordPress"
@@ -7846,9 +7843,8 @@ msgid "Welcome to the famous five minute WordPress installation process! You may
 msgstr ""
 
 #: wp-admin/install.php:92
-#, fuzzy
 msgid "First Step"
-msgstr "चरण पछाडि"
+msgstr "प्रथम चरण"
 
 #: wp-admin/install.php:94
 #, fuzzy
@@ -7882,9 +7878,8 @@ msgid "Log In"
 msgstr "प्रवेश गर्नुहोस"
 
 #: wp-admin/link-add.php:13
-#, fuzzy
 msgid "You do not have sufficient permissions to add links to this blog."
-msgstr "यस ब्लगको सामग्री निर्यात गर्न आवश्यक इजाजत  तपाइ सँग छैन ।"
+msgstr "यस ब्लगमा लिङ्क थप्न आवश्यक इजाजत तपाइ सँग छैन ।"
 
 #: wp-admin/link-add.php:15
 #, fuzzy
@@ -7895,7 +7890,7 @@ msgstr "नयाँ चिनारी थप गर्नुहोस्"
 #: wp-admin/link-manager.php:49
 #: wp-admin/link.php:18
 msgid "You do not have sufficient permissions to edit the links for this blog."
-msgstr ""
+msgstr "तपाईसँग यो ब्लगका लिङ्कहरु साम्पादन गर्ने स्वीकृति छैन ।"
 
 #: wp-admin/link-manager.php:75
 msgid "Add New"
@@ -7915,7 +7910,6 @@ msgid "Search Links"
 msgstr "खोजी समुह"
 
 #: wp-admin/link-manager.php:112
-#, fuzzy
 msgid "View all Categories"
 msgstr "सबै समुहहरु हेर्नुहोस"
 
@@ -7941,9 +7935,9 @@ msgid "Yes"
 msgstr "हो"
 
 #: wp-admin/link-manager.php:214
-#, fuzzy, php-format
+#, php-format
 msgid "Visit %s"
-msgstr "पृष्ठ हेर्नुहोस् ।"
+msgstr "%s भ्रमण गर्नुहोस ।"
 
 #: wp-admin/link-manager.php:255
 #, fuzzy
@@ -8057,9 +8051,9 @@ msgid "Add New"
 msgstr "नयाँ गर्नुहोस्"
 
 #: wp-admin/menu.php:64
-#, fuzzy, php-format
+#, php-format
 msgid "Comments %s"
-msgstr "टिप्पणीहरु"
+msgstr "%s प्रतिकृयाहरु"
 
 #: wp-admin/menu.php:70
 #, fuzzy
@@ -8083,9 +8077,9 @@ msgid "Add New Themes"
 msgstr "नयाँ चिनारी थप गर्नुहोस्"
 
 #: wp-admin/menu.php:80
-#, fuzzy, php-format
+#, php-format
 msgid "Plugins %s"
-msgstr "प्लगइनहरू"
+msgstr "%s प्लगइनहरू"
 
 #: wp-admin/menu.php:81
 msgid "Installed"
@@ -8105,9 +8099,8 @@ msgid "Profile"
 msgstr "प्रोफाइल"
 
 #: wp-admin/menu.php:93
-#, fuzzy
 msgid "Authors &amp; Users"
-msgstr "सबै प्रयोगकर्ताहरुलाई रोक्नुहोस्"
+msgstr "लेखक तथा प्रयोगकर्ताहरु"
 
 #: wp-admin/menu.php:94
 #: wp-admin/users.php:242
@@ -8246,14 +8239,12 @@ msgid "Break comments into pages with %1$s top level comments per page and the %
 msgstr ""
 
 #: wp-admin/options-discussion.php:97
-#, fuzzy
 msgid "older"
-msgstr "पुरातन: %s"
+msgstr "पुरानो"
 
 #: wp-admin/options-discussion.php:99
-#, fuzzy
 msgid "newer"
-msgstr "पृथक: %s"
+msgstr "नयाँ"
 
 #: wp-admin/options-discussion.php:101
 #, php-format
@@ -8586,15 +8577,13 @@ msgstr "साइज मेल खाएन"
 
 #: wp-admin/options-media.php:48
 #: wp-admin/options-media.php:58
-#, fuzzy
 msgid "Max Width"
-msgstr "किनारा चौडाइ"
+msgstr "अधिकतम चौडाइ"
 
 #: wp-admin/options-media.php:50
 #: wp-admin/options-media.php:60
-#, fuzzy
 msgid "Max Height"
-msgstr "किनारा उचाइ"
+msgstr "अधिकतम उचाइ"
 
 #: wp-admin/options-media.php:56
 #: wp-admin/options-media.php:57
@@ -8944,9 +8933,8 @@ msgid "Port"
 msgstr "पोर्ट"
 
 #: wp-admin/options-writing.php:96
-#, fuzzy
 msgid "Login Name"
-msgstr "समुहको नाम"
+msgstr "प्रवेश गर्ने नाम"
 
 #: wp-admin/options-writing.php:106
 #, fuzzy
@@ -10000,9 +9988,8 @@ msgid "Upgrade WordPress Database"
 msgstr "डाटावेस जडान त्रुटि"
 
 #: wp-admin/upgrade.php:77
-#, fuzzy
 msgid "Upgrade Complete"
-msgstr "स्वचालित रूपमा स्तर बृद्धि गर्नुहोस"
+msgstr "स्तर बृद्धि सम्पन्न भयो"
 
 #: wp-admin/upgrade.php:78
 msgid "Your WordPress database has been successfully upgraded!"
@@ -11736,7 +11723,7 @@ msgstr "अन्तिम अद्यावधिक"
 
 #: wp-includes/feed-atom-comments.php:19
 #: wp-includes/feed-rss2-comments.php:22
-#, fuzzy, php-format
+#, php-format
 msgid "Comments on: %s"
 msgstr "%s का टिप्पणीहरु"
 
@@ -12176,14 +12163,12 @@ msgid "%1$s %2$s Search Results for &#8220;%3$s&#8221; Feed"
 msgstr ""
 
 #: wp-includes/general-template.php:1807
-#, fuzzy
 msgid "&laquo; Previous"
-msgstr "अघिल्लो अध्याय"
+msgstr "&laquo; अघिल्लो"
 
 #: wp-includes/general-template.php:1808
-#, fuzzy
 msgid "Next &raquo;"
-msgstr "पछिल्लो शीर्षक"
+msgstr "आगामी &raquo;"
 
 #: wp-includes/http.php:250
 msgid "User has blocked requests through HTTP."
@@ -14352,14 +14337,12 @@ msgid "There is no excerpt because this is a protected post."
 msgstr ""
 
 #: wp-includes/post-template.php:562
-#, fuzzy
 msgid "Next page"
-msgstr "पृष्ठका लेखक"
+msgstr "आगामी पृष्ठ"
 
 #: wp-includes/post-template.php:563
-#, fuzzy
 msgid "Previous page"
-msgstr "पृष्ठका लेखक"
+msgstr "पूर्व पृष्ठ"
 
 #: wp-includes/post-template.php:815
 msgid "Home"
