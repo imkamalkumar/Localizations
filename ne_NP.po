@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 2.8.*\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2009-12-12 12:56+0000\n"
-"PO-Revision-Date: 2010-01-13 16:48+0530\n"
+"PO-Revision-Date: 2010-01-15 12:42+0530\n"
 "Last-Translator: Sagar <reddevilsagar@gmail.com>\n"
 "Language-Team: Nepali <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1055,9 +1055,8 @@ msgstr ""
 #: wp-admin/edit-category-form.php:80
 #: wp-admin/edit-link-category-form.php:27
 #: wp-admin/includes/template.php:266
-#, fuzzy
 msgid "Update Category"
-msgstr "अभिभावक समुह ।"
+msgstr "समुह परिमार्जन गर्नुहोस"
 
 #: wp-admin/edit-comments.php:114
 #, php-format
@@ -1104,11 +1103,11 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wp-admin/edit-comments.php:164
-#, fuzzy, php-format
+#, php-format
 msgid "%s comment moved to the trash."
 msgid_plural "%s comments moved to the trash."
-msgstr[0] "टिप्पणीका बारेमा जवाफ दिनुहोस"
-msgstr[1] ""
+msgstr[0] "%s प्रतिकृया रद्दीटोकरीमा हालियो ।"
+msgstr[1] "%s प्रतिकृयाहरु रद्दीटोकरीमा हालियो ।"
 
 #: wp-admin/edit-comments.php:169
 #, php-format
@@ -1118,11 +1117,11 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wp-admin/edit-comments.php:173
-#, fuzzy, php-format
+#, php-format
 msgid "%s comment permanently deleted"
 msgid_plural "%s comments permanently deleted"
-msgstr[0] "यो टिप्पणीलाई स्वीकार गर्नुहोस"
-msgstr[1] ""
+msgstr[0] "%s प्रतिकृया मेटियो ।"
+msgstr[1] "%s प्रतिकृयाहरु मेटियो।"
 
 #: wp-admin/edit-comments.php:190
 #: wp-content/plugins/akismet/akismet.php:753
@@ -1443,9 +1442,8 @@ msgstr "<b>%1$s</b> मा सम्प्रेषित"
 
 #: wp-admin/edit-form-comment.php:74
 #: wp-admin/includes/template.php:2349
-#, fuzzy
 msgid "Update Comment"
-msgstr "टिप्पणी सम्पादन गर्नुहोस"
+msgstr "टिप्पणी परिमार्जन गर्नुहोस"
 
 #: wp-admin/edit-form-comment.php:91
 #: wp-includes/js/tinymce/langs/wp-langs.php:271
@@ -1545,9 +1543,8 @@ msgstr ""
 
 #: wp-admin/edit-link-form.php:20
 #: wp-admin/includes/meta-boxes.php:550
-#, fuzzy
 msgid "Add Link"
-msgstr "पोडकास्ट लिङ्क"
+msgstr "लिङ्क थप्नुहोस"
 
 #: wp-admin/edit-link-form.php:27
 #: wp-admin/includes/image-edit.php:71
@@ -1580,9 +1577,8 @@ msgid "Advanced"
 msgstr "उन्नत"
 
 #: wp-admin/edit-link-form.php:45
-#, fuzzy
 msgid "Link added."
-msgstr "समुह थपियो ।"
+msgstr "लिङ्क थपियो ।"
 
 #: wp-admin/edit-link-form.php:72
 #: wp-admin/includes/plugin-install.php:301
@@ -1624,14 +1620,14 @@ msgid "This will be shown when someone hovers over the link in the blogroll, or 
 msgstr ""
 
 #: wp-admin/edit-page-form.php:29
-#, fuzzy, php-format
+#, php-format
 msgid "Page updated. <a target=\"_blank\" href=\"%s\">View page</a>"
-msgstr "लेख सम्पादित भयो । <a target=\"_blank\" href=\"%s\">लेख हेर्नुहोस</a>"
+msgstr "पृष्ठ परिमार्जित भयो ।<a target=\"_blank\" href=\"%s\">पृष्ठ हेर्नुहोस</a>"
 
 #: wp-admin/edit-page-form.php:38
-#, fuzzy, php-format
+#, php-format
 msgid "Page published. <a target=\"_blank\" href=\"%s\">View page</a>"
-msgstr "लेख प्रकाशित भयो । <a target=\"_blank\" href=\"%s\">लेख हेर्नुहोस</a>"
+msgstr "पृष्ठ प्रकाशित भयो । <a target=\"_blank\" href=\"%s\">पृष्ठ हेर्नुहोस</a>"
 
 #: wp-admin/edit-page-form.php:42
 #, php-format
@@ -1639,9 +1635,9 @@ msgid "Page restored to revision from %s"
 msgstr ""
 
 #: wp-admin/edit-page-form.php:45
-#, fuzzy, php-format
+#, php-format
 msgid "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
-msgstr "लेख सम्प्रेषित भयो । <a target=\"_blank\" href=\"%s\">लेख पूर्वावलोकन गर्नुहोस</a>"
+msgstr "पृष्ठ सम्प्रेषित भयो । <a target=\"_blank\" href=\"%s\">पृष्ठ पूर्वावलोकन गर्नुहोस</a>"
 
 #. translators: Publish box date formt, see http://php.net/date - Same as in meta-boxes.php
 #: wp-admin/edit-page-form.php:49
@@ -3708,9 +3704,8 @@ msgstr "समुह <a href=\"#%s\">%s</a> थपिएको छ ।"
 #: wp-admin/import/wp-cat2tag.php:278
 #: wp-admin/import/wp-cat2tag.php:321
 #: wp-admin/import/wp-cat2tag.php:406
-#, fuzzy
 msgid "Converted successfully."
-msgstr "तपाईले सफलतापूर्वक प्रवेश गर्नुभएको छ ।"
+msgstr "परिवर्तन सफलतापूर्वक भएको छ ।"
 
 #: wp-admin/import/wp-cat2tag.php:297
 msgid "Tag added to all posts in this category."
@@ -4376,14 +4371,14 @@ msgid "Theme <span class=\"b\">%1$s</span>"
 msgstr "प्रकाशित <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/dashboard.php:364
-#, fuzzy, php-format
+#, php-format
 msgid "Post Published. <a href=\"%s\">View post</a> | <a href=\"%s\">Edit post</a>"
-msgstr "लेख प्रकाशित भयो । <a target=\"_blank\" href=\"%s\">लेख हेर्नुहोस</a>"
+msgstr "लेख प्रकाशित भयो । <a href=\"%s\">लेख हेर्नुहोस</a> | <a href=\"%s\">लेख सम्पादन गर्नुहोस</a>"
 
 #: wp-admin/includes/dashboard.php:366
-#, fuzzy, php-format
+#, php-format
 msgid "Post submitted. <a href=\"%s\">Preview post</a> | <a href=\"%s\">Edit post</a>"
-msgstr "लेख सम्प्रेषित भयो । <a target=\"_blank\" href=\"%s\">लेख पूर्वावलोकन गर्नुहोस</a>"
+msgstr "लेख सम्प्रेषित भयो । <a href=\"%s\">लेख पूर्वावलोकन गर्नुहोस</a> | <a href=\"%s\">लेख सम्पादन गर्नुहोस</a>"
 
 #: wp-admin/includes/dashboard.php:368
 #, php-format
@@ -4436,9 +4431,8 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:398
 #: wp-content/themes/classic/comments-popup.php:58
 #: wp-content/themes/classic/comments.php:32
-#, fuzzy
 msgid "No comments yet."
-msgstr "प्रति पृष्ठ टिप्पणीहरु:"
+msgstr "प्रतिकृयाहरु छैनन"
 
 #: wp-admin/includes/dashboard.php:552
 #: wp-admin/includes/template.php:2177
@@ -5758,7 +5752,6 @@ msgstr "तपाईँले हटाउनुहुन्छ कि पर्
 
 #: wp-admin/includes/meta-boxes.php:250
 #: wp-includes/script-loader.php:283
-#, fuzzy
 msgid "Add new tag"
 msgstr "नयाँ चिनारी थप गर्नुहोस्"
 
@@ -6443,11 +6436,11 @@ msgid "Published posts"
 msgstr "प्रकाशित लेखहरु"
 
 #: wp-admin/includes/post.php:819
-#, fuzzy, php-format
+#, php-format
 msgid "Published <span class=\"count\">(%s)</span>"
 msgid_plural "Published <span class=\"count\">(%s)</span>"
 msgstr[0] "प्रकाशित <span class=\"count\">(%s)</span>"
-msgstr[1] ""
+msgstr[1] "प्रकाशित <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/post.php:820
 #, fuzzy
@@ -6838,25 +6831,21 @@ msgstr "यो लेखमा प्रयोग भएका चिनार�
 
 #: wp-admin/includes/template.php:1260
 #: wp-includes/script-loader.php:296
-#, fuzzy
 msgid "Update Page"
-msgstr "पृष्ठका लेखक"
+msgstr "पृष्ठ परिमार्जन गर्नुहोस"
 
 #: wp-admin/includes/template.php:1260
 #: wp-includes/script-loader.php:295
-#, fuzzy
 msgid "Update Post"
-msgstr "लेख सम्पादित भयो ।"
+msgstr "लेख परिमार्जन गर्नुहोस"
 
 #: wp-admin/includes/template.php:1265
-#, fuzzy
 msgid "Update Pages"
-msgstr "पृष्ठहरु सम्पादन गर्नुहोस"
+msgstr "पृष्ठहरु परिमार्जन गर्नुहोस"
 
 #: wp-admin/includes/template.php:1265
-#, fuzzy
 msgid "Update Posts"
-msgstr "लेख सम्पादन गर्नुहोस"
+msgstr "लेखहरु परिमार्जन गर्नुहोस"
 
 #: wp-admin/includes/template.php:1429
 #: wp-admin/includes/template.php:1652
@@ -6883,14 +6872,12 @@ msgid "Restore this post from the Trash"
 msgstr ""
 
 #: wp-admin/includes/template.php:1455
-#, fuzzy
 msgid "Move this post to the Trash"
-msgstr "यो सञ्झ्याललाई पर्दा %s मा सार्नुहोस्"
+msgstr "यो लेखलाई रद्दीटोकरीमा लैजानुहोस "
 
 #: wp-admin/includes/template.php:1457
-#, fuzzy
 msgid "Delete this post permanently"
-msgstr "यो लेखमा प्रयोग भएका चिनारीहरु:"
+msgstr "यो लेखलाई मेट्नुहोस"
 
 #: wp-admin/includes/template.php:1492
 #: wp-admin/includes/upgrade.php:99
@@ -6981,9 +6968,8 @@ msgid "Add new custom field:"
 msgstr "नयाँ पाठ प्रतिस्थापन थप्नुहोस्"
 
 #: wp-admin/includes/template.php:2563
-#, fuzzy
 msgid "Enter new"
-msgstr "नया थप्नुहोस"
+msgstr "नयाँ थप गर्नुहोस्"
 
 #: wp-admin/includes/template.php:2573
 #, fuzzy
@@ -9797,7 +9783,7 @@ msgstr ""
 #: wp-admin/update-core.php:35
 #, php-format
 msgid "Download %s"
-msgstr ""
+msgstr "%s डाउनलोड गर्नुहोस"
 
 #: wp-admin/update-core.php:50
 #, fuzzy
@@ -14033,14 +14019,12 @@ msgid "Last Post"
 msgstr "अन्तिम लेख"
 
 #: wp-includes/link-template.php:1606
-#, fuzzy
 msgid "Newer Comments &raquo;"
-msgstr "प्रति पृष्ठ टिप्पणीहरु:"
+msgstr "नयाँ प्रतिकृयाहरु &raquo;"
 
 #: wp-includes/link-template.php:1643
-#, fuzzy
 msgid "&laquo; Older Comments"
-msgstr "प्रति पृष्ठ टिप्पणीहरु:"
+msgstr "&laquo; पुराना प्रतिकृयाहरु"
 
 #: wp-includes/locale.php:118
 #, fuzzy
@@ -14834,9 +14818,9 @@ msgid "Invalid key"
 msgstr " साँचो"
 
 #: wp-login.php:215
-#, fuzzy, php-format
+#, php-format
 msgid "[%s] Your new password"
-msgstr "कृपया तपाईँको नयाँ पासवर्ड प्रविष्टि गराउनुहोस्"
+msgstr "[%s] तपाईँको नयाँ पासवर्ड"
 
 #: wp-login.php:245
 #, fuzzy
