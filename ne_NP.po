@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Wordpress 2.8.*\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2009-12-12 12:56+0000\n"
-"PO-Revision-Date: 2010-01-15 12:42+0530\n"
+"PO-Revision-Date: 2010-01-18 15:46+0530\n"
 "Last-Translator: Sagar <reddevilsagar@gmail.com>\n"
 "Language-Team: Nepali <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -8076,7 +8076,7 @@ msgstr "स्थापना भयो"
 #: wp-admin/plugins.php:278
 msgctxt "plugin"
 msgid "Add New"
-msgstr "नयाँ एकाइ थप गर्नुहोस्"
+msgstr "नयाँ थप गर्नुहोस्"
 
 #: wp-admin/menu.php:89
 #: wp-admin/user-edit.php:18
@@ -9839,9 +9839,8 @@ msgstr ""
 #: wp-admin/update-core.php:151
 #: wp-admin/update-core.php:190
 #: wp-admin/update-core.php:319
-#, fuzzy
 msgid "Upgrade Plugins"
-msgstr "स्वचालित रूपमा स्तर बृद्धि गर्नुहोस"
+msgstr "प्लगइनहरुको स्तर बृद्धि गर्नुहोस"
 
 #: wp-admin/update-core.php:156
 #: wp-admin/update-core.php:163
@@ -10033,12 +10032,12 @@ msgid "Unattached"
 msgstr ""
 
 #: wp-admin/upload.php:247
-#, fuzzy, php-format
+#, php-format
 msgctxt "uploaded files"
 msgid "Trash <span class=\"count\">(%s)</span>"
 msgid_plural "Trash <span class=\"count\">(%s)</span>"
-msgstr[0] "प्रकाशित <span class=\"count\">(%s)</span>"
-msgstr[1] ""
+msgstr[0] "रद्दीटोकरी<span class=\"count\">(%s)</span>"
+msgstr[1] "रद्दीटोकरी<span class=\"count\">(%s)</span>"
 
 #: wp-admin/upload.php:296
 #: wp-admin/upload.php:462
@@ -10067,10 +10066,9 @@ msgstr "लेखक"
 #. translators: column name in media
 #: wp-admin/upload.php:357
 #: wp-admin/upload.php:367
-#, fuzzy
 msgctxt "media column name"
 msgid "Date Added"
-msgstr "समुह थपियो ।"
+msgstr "थपिएको मिति"
 
 #: wp-admin/user-edit.php:18
 msgid "Edit User"
@@ -10176,16 +10174,14 @@ msgid "Display name publicly as"
 msgstr "सार्वजनिक रुपमा देखिने नाम"
 
 #: wp-admin/user-edit.php:257
-#, fuzzy
 msgid "Contact Info"
-msgstr "मिडिया सूचना..."
+msgstr "सम्पर्क जानकारी"
 
 #: wp-admin/user-edit.php:266
 #: wp-admin/user-new.php:113
 #: wp-content/themes/classic/comments.php:63
-#, fuzzy
 msgid "Website"
-msgstr "भिडियो LAN वेबसाइट"
+msgstr "वेबसाइट"
 
 #: wp-admin/user-edit.php:282
 msgid "About Yourself"
@@ -10244,9 +10240,8 @@ msgid "Update User"
 msgstr "प्रयोगकर्ता परिमार्जन गर्नुहोस"
 
 #: wp-admin/user-new.php:22
-#, fuzzy
 msgid "You can&#8217;t create users."
-msgstr "तपाइँले प्रयोगकर्तालाई त्यो भुमिका दिन मिल्दैन ।"
+msgstr "तपाइँले प्रयोगकर्ता सृजना गर्न मिल्दैन ।"
 
 #: wp-admin/user-new.php:36
 #: wp-admin/user-new.php:48
@@ -10272,9 +10267,8 @@ msgid "Last Name"
 msgstr "थर"
 
 #: wp-admin/user-new.php:119
-#, fuzzy
 msgid "(twice, required)"
-msgstr "पासफ्रेज आवश्यक भयो"
+msgstr "(दुइपटक, आवश्यक)"
 
 #: wp-admin/user-new.php:129
 #, fuzzy
@@ -10791,9 +10785,8 @@ msgstr ""
 
 #: wp-content/plugins/akismet/akismet.php:713
 #: wp-content/plugins/akismet/akismet.php:891
-#, fuzzy
 msgid "Delete all"
-msgstr "सबै लेखक"
+msgstr "सबै मेट्नुहोस"
 
 #: wp-content/plugins/akismet/akismet.php:722
 msgid "These are the latest comments identified as spam by Akismet. If you see any mistakes, simply mark the comment as \"not spam\" and Akismet will learn from the submission. If you wish to recover a comment from spam, simply select the comment, and click Not Spam. After 15 days we clean out the junk for you."
@@ -10807,16 +10800,14 @@ msgstr "मोड्युल खोजी मार्ग"
 #: wp-content/plugins/akismet/akismet.php:783
 #: wp-content/plugins/akismet/akismet.php:850
 #: wp-includes/link-template.php:1504
-#, fuzzy
 msgid "&laquo; Previous Page"
-msgstr "अनुचित प्लगिन पृष्ठ"
+msgstr "&laquo;  पूर्व पृष्ठ"
 
 #: wp-content/plugins/akismet/akismet.php:804
 #: wp-content/plugins/akismet/akismet.php:871
 #: wp-includes/link-template.php:1505
-#, fuzzy
 msgid "Next Page &raquo;"
-msgstr "अनुचित प्लगिन पृष्ठ"
+msgstr "आगामी पृष्ठ &raquo; "
 
 #: wp-content/plugins/akismet/akismet.php:826
 #, fuzzy
@@ -11006,9 +10997,9 @@ msgid "TrackBack <abbr title=\"Universal Resource Locator\">URL</abbr>"
 msgstr ""
 
 #: wp-content/themes/classic/comments.php:45
-#, fuzzy, php-format
+#, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr "माफ गर्नुहोस, तपाइल टिप्पणी गर्न लग गर्नु पर्छ ।"
+msgstr "प्रतिकृया दिन तपाइँले <a href=\"%s\">प्रवेश</a> गर्नुपर्छ ।"
 
 #: wp-content/themes/classic/comments.php:60
 #, fuzzy
@@ -11061,14 +11052,12 @@ msgid "Sorry, no posts matched your criteria."
 msgstr ""
 
 #: wp-content/themes/classic/index.php:34
-#, fuzzy
 msgid "&laquo; Newer Posts"
-msgstr "लेख भेटिएन ।"
+msgstr "&laquo; नयाँ लेखहरु"
 
 #: wp-content/themes/classic/index.php:34
-#, fuzzy
 msgid "Older Posts &raquo;"
-msgstr "लेख भेटिएन ।"
+msgstr "पुराना लेखहरु &raquo;"
 
 #: wp-content/themes/classic/sidebar.php:13
 #: wp-includes/post-template.php:560
@@ -11720,9 +11709,9 @@ msgstr " &#8220;%s&#8221; टिप्पणीमा सम्पादन ग�
 
 #: wp-includes/feed-atom-comments.php:23
 #: wp-includes/feed-rss2-comments.php:26
-#, fuzzy, php-format
+#, php-format
 msgid "Comments for %s"
-msgstr "%sका लागि जानकारी"
+msgstr "%s का प्रतिकृयाहरु"
 
 #: wp-includes/feed-atom-comments.php:54
 #: wp-includes/feed-rss2-comments.php:46
@@ -14000,15 +13989,13 @@ msgstr "पोडकास्ट लिङ्क"
 
 #: wp-includes/link-template.php:999
 #: wp-includes/link-template.php:1263
-#, fuzzy
 msgid "Previous Post"
-msgstr "लेख सम्पादित भयो ।"
+msgstr "पूर्व लेख"
 
 #: wp-includes/link-template.php:999
 #: wp-includes/link-template.php:1263
-#, fuzzy
 msgid "Next Post"
-msgstr "लेख सम्पादित भयो ।"
+msgstr "आगामी लेख"
 
 #: wp-includes/link-template.php:1123
 msgid "First Post"
@@ -14118,9 +14105,9 @@ msgstr ""
 #. translators: 1: comment author, 2: author IP, 3: author domain
 #: wp-includes/pluggable.php:988
 #: wp-includes/pluggable.php:1090
-#, fuzzy, php-format
+#, php-format
 msgid "Author : %1$s (IP: %2$s , %3$s)"
-msgstr "IP ठेगाना"
+msgstr "लेखक : %1$s (IP: %2$s , %3$s)"
 
 #: wp-includes/pluggable.php:989
 #: wp-includes/pluggable.php:1091
@@ -14155,9 +14142,9 @@ msgstr ""
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:995
-#, fuzzy, php-format
+#, php-format
 msgid "[%1$s] Comment: \"%2$s\""
-msgstr "टिप्पणी"
+msgstr "[%1$s] प्रतिकृया: \"%2$s\""
 
 #. translators: 1: post id, 2: post title
 #: wp-includes/pluggable.php:998
@@ -14268,9 +14255,9 @@ msgid "Password Lost and Changed for user: %s"
 msgstr ""
 
 #: wp-includes/pluggable.php:1133
-#, fuzzy, php-format
+#, php-format
 msgid "[%s] Password Lost/Changed"
-msgstr "पासवर्ड हराएमा ।"
+msgstr "[%s]  पासवर्ड हराएमा/फेरिएमा"
 
 #: wp-includes/pluggable.php:1153
 #, php-format
@@ -14302,9 +14289,9 @@ msgid "Password: %s"
 msgstr "पासवर्ड: %s"
 
 #: wp-includes/pluggable.php:1166
-#, fuzzy, php-format
+#, php-format
 msgid "[%s] Your username and password"
-msgstr "कृपया तपाईँको नयाँ पासवर्ड प्रविष्टि गराउनुहोस्"
+msgstr "[%s] तपाईँको प्रयोगकर्तानाम तथा पासवर्ड"
 
 #: wp-includes/post-template.php:113
 #, php-format
@@ -14469,9 +14456,8 @@ msgstr "तपाइको हेडर तस्बिर "
 
 #: wp-includes/script-loader.php:97
 #: wp-includes/script-loader.php:243
-#, fuzzy
 msgid "You do not have permission to do that."
-msgstr "तपाइलाई फाइल राख्ने अनुमति छैन ।"
+msgstr "तपाइँलाई अनुमति छैन ।"
 
 #: wp-includes/script-loader.php:98
 #: wp-includes/script-loader.php:244
@@ -14480,14 +14466,12 @@ msgid "An unidentified error has occurred."
 msgstr " %s प्रक्रिया गर्दा त्रुटि देखा पर्यो (संकलन फाइलले उपलब्ध गर्दछ)"
 
 #: wp-includes/script-loader.php:171
-#, fuzzy
 msgid "Next &gt;"
-msgstr "पछिल्लो शीर्षक"
+msgstr "आगामी &gt;"
 
 #: wp-includes/script-loader.php:172
-#, fuzzy
 msgid "&lt; Prev"
-msgstr "अघिल्लो शीर्षक"
+msgstr "&lt; पूर्व"
 
 #: wp-includes/script-loader.php:173
 msgid "Image"
@@ -14557,9 +14541,8 @@ msgid "File cancelled."
 msgstr "फाइल स्थानान्तरण रद्द भयो"
 
 #: wp-includes/script-loader.php:214
-#, fuzzy
 msgid "Upload stopped."
-msgstr "नया हेडर तस्बिर अपलोड गर्नुहोस"
+msgstr "अपलोड रोकियो"
 
 #: wp-includes/script-loader.php:215
 #, fuzzy
@@ -14881,9 +14864,8 @@ msgid "&larr; Back to %s"
 msgstr "पछाडि पठाउनुहोस्"
 
 #: wp-login.php:412
-#, fuzzy
 msgid "Registration Form"
-msgstr "फारम खोजी गर्नुहोस"
+msgstr "दर्ता फारम"
 
 #: wp-login.php:412
 #, fuzzy
@@ -14891,9 +14873,8 @@ msgid "Register For This Site"
 msgstr "यस मानचित्र फाइलका लागि सेटिङ"
 
 #: wp-login.php:425
-#, fuzzy
 msgid "A password will be e-mailed to you."
-msgstr "टिप्पणी गर्नका लागि तपाइ दर्ता हुनुपर्दछ ।"
+msgstr "पासवर्ड तपाइँलाई मेल गरिने छ ।"
 
 #: wp-login.php:432
 #: wp-login.php:554
