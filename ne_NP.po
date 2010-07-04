@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: Wordpress 2.8.*\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2009-12-12 12:56+0000\n"
-"PO-Revision-Date: 2010-06-10 00:09+0545\n"
-"Last-Translator: home <rojansinha@gmail.com>\n"
-"Language-Team: foss-nepal\n"
+"PO-Revision-Date: 2010-07-04 22:00+0545\n"
+"Last-Translator: rojan <rojansinha@gmail.com>\n"
+"Language-Team: Nepali Localization\n"
 "Language: ne\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -876,31 +876,35 @@ msgid "Reset Header Image and Color"
 msgstr "सिर्शको तस्बिर र रङ्ग पुन: तयार गर्नुस"
 
 #: wp-admin/custom-header.php:313
-msgid "This will restore the original header image and color. You will not be able to retrieve any customizations."
+msgid ""
+"This will restore the original header image and color. You will not be able "
+"to retrieve any customizations."
 msgstr ""
+"यसले तपाइको सिर्शकको तस्बीर र रङ्ग पूर्वावस्थामा ल्याउनेछ । तपाइले छानेर "
+"तयार पार्नु भएको अवस्तालाई पन: प्राप्त गर्न पाउनु हुनेछैन ।"
 
 #: wp-admin/custom-header.php:316
 #, fuzzy
 msgid "Restore Original Header"
-msgstr "तपाइको हेडर तस्बिर "
+msgstr "प्रारम्भीक सिर्श राख्नुहोस्"
 
 #: wp-admin/custom-header.php:377
 msgid "Choose the part of the image you want to use as your header."
-msgstr ""
+msgstr "सिर्शमा प्रयोग गर्न तस्बीरको कुनै भग छान्नुहोस ।"
 
 #: wp-admin/custom-header.php:392
 #, fuzzy
 msgid "Crop Header"
-msgstr "हेडर"
+msgstr "सिर्श काटछाँट गर्नुहोस"
 
 #: wp-admin/custom-header.php:454
 #, fuzzy
 msgid "Header complete!"
-msgstr "हेडर"
+msgstr "सिर्श समाप्त !"
 
 #: wp-admin/custom-header.php:456
 msgid "Visit your site and you should see the new header now."
-msgstr ""
+msgstr "आफ्नो वेब साइट खोल्नुहोस, अब तपाइले नया सिर्श देख्न सक्नुहुन्छ ।"
 
 #: wp-admin/edit-attachment-rows.php:74
 #: wp-admin/edit-attachment-rows.php:87
@@ -971,7 +975,7 @@ msgstr "पूर्वावस्थामा ल्याउनुहोस�
 #: wp-admin/includes/template.php:1675
 #: wp-admin/upload.php:396
 msgid "Trash"
-msgstr "नचाहिने"
+msgstr "रद्दी"
 
 #: wp-admin/edit-attachment-rows.php:100
 #: wp-admin/edit-comments.php:316
@@ -992,7 +996,7 @@ msgstr "नचाहिने"
 #: wp-admin/upload.php:458
 #, fuzzy
 msgid "Delete Permanently"
-msgstr "टिप्पणी मेट्नुहोस"
+msgstr "स्थायीरुपले मेट्नुहोस"
 
 #: wp-admin/edit-attachment-rows.php:103
 #: wp-admin/includes/template.php:1463
@@ -1020,7 +1024,7 @@ msgstr "चिनारीहरु छैन"
 #: wp-admin/includes/template.php:1631
 #: wp-admin/upload.php:413
 msgid "Unpublished"
-msgstr "सम्प्रेषण  नगरिएको"
+msgstr "प्रकाशित नगरिएको"
 
 #: wp-admin/edit-attachment-rows.php:150
 #: wp-admin/includes/dashboard.php:451
@@ -1049,12 +1053,12 @@ msgstr "%s पहिले"
 
 #: wp-admin/edit-attachment-rows.php:177
 msgid "(Unattached)"
-msgstr ""
+msgstr "(संलग्न नगरिएको )"
 
 #: wp-admin/edit-attachment-rows.php:178
 #: wp-admin/upload.php:401
 msgid "Attach"
-msgstr "जोड्नुहोस"
+msgstr "संलग्न गर्नुहोस"
 
 #: wp-admin/edit-attachment-rows.php:190
 #: wp-admin/includes/template.php:1518
@@ -1062,7 +1066,7 @@ msgstr "जोड्नुहोस"
 #: wp-admin/includes/template.php:2269
 #, php-format
 msgid "%s pending"
-msgstr "%s बाँकी"
+msgstr "%s अनिर्णीत"
 
 #. translators: comment count link
 #: wp-admin/edit-attachment-rows.php:193
@@ -1094,17 +1098,18 @@ msgstr "%"
 #: wp-admin/edit-attachment-rows.php:205
 #, fuzzy
 msgid "Get permalink"
-msgstr "फाइल प्राप्त गर्नुहोस्"
+msgstr "पर्मालीङ्क प्राप्त गर्नुहोस्"
 
 #: wp-admin/edit-attachment-rows.php:224
 #: wp-admin/upload.php:432
 #, fuzzy
 msgid "No media attachments found."
-msgstr "'%s' मा बाटोहरू फेला परेन।"
+msgstr "कुनै मीडिया भेटिएन"
 
 #: wp-admin/edit-category-form.php:14
-msgid "You do not have sufficient permissions to edit categories for this blog."
-msgstr ""
+msgid ""
+"You do not have sufficient permissions to edit categories for this blog."
+msgstr "तपाईसँग यो ब्लगका समुहहरु साम्पादन गर्ने स्वीकृति छैन ।"
 
 #: wp-admin/edit-category-form.php:80
 #: wp-admin/edit-link-category-form.php:27
@@ -1132,8 +1137,8 @@ msgstr[1] "%s टिप्पणीहरू स्वीकृत"
 #, php-format
 msgid "%s comment marked as spam."
 msgid_plural "%s comments marked as spam."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s टिप्पणीलाई स्प्याम चिन्न लगाइयो ।"
+msgstr[1] "%s टिप्पणीहरु लाई स्प्याम चिन्न लगाइयो ।"
 
 #: wp-admin/edit-comments.php:157
 #: wp-admin/edit-comments.php:166
@@ -1147,35 +1152,35 @@ msgstr[1] ""
 #: wp-includes/js/tinymce/langs/wp-langs.php:213
 #: wp-includes/js/tinymce/wp-mce-help.php:209
 msgid "Undo"
-msgstr "नगर्ने"
+msgstr "खारिज गर्नु"
 
 #: wp-admin/edit-comments.php:160
 #, php-format
 msgid "%s comment restored from the spam"
 msgid_plural "%s comments restored from the spam"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s टिप्पणी स्प्यामबाट पूर्वावस्थामा ल्याइयो।"
+msgstr[1] "%s टिप्पणीहरु स्प्यामबाट पूर्वावस्थामा ल्याइयो ।"
 
 #: wp-admin/edit-comments.php:164
 #, php-format
 msgid "%s comment moved to the trash."
 msgid_plural "%s comments moved to the trash."
-msgstr[0] "%s प्रतिकृया रद्दीटोकरीमा हालियो ।"
-msgstr[1] "%s प्रतिकृयाहरु रद्दीटोकरीमा हालियो ।"
+msgstr[0] "%s प्रतिकृया रद्दीमा हालियो ।"
+msgstr[1] "%s प्रतिकृयाहरु रद्दीमा हालियो ।"
 
 #: wp-admin/edit-comments.php:169
 #, php-format
 msgid "%s comment restored from the trash"
 msgid_plural "%s comments restored from the trash"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s टिप्पणी रद्दिबाट पूर्वावस्थामा ल्याइयो ।"
+msgstr[1] "%s टिप्पणीहरु रद्दिबाट पूर्वावस्थामा ल्याइयो ।"
 
 #: wp-admin/edit-comments.php:173
 #, php-format
 msgid "%s comment permanently deleted"
 msgid_plural "%s comments permanently deleted"
-msgstr[0] "%s प्रतिकृया मेटियो ।"
-msgstr[1] "%s प्रतिकृयाहरु मेटियो।"
+msgstr[0] "%s प्रतिकृया स्थाइरुपमा मेटियो ।"
+msgstr[1] "%s प्रतिकृयाहरु स्थाइरुपमा मेटियो।"
 
 #: wp-admin/edit-comments.php:190
 #: wp-content/plugins/akismet/akismet.php:753
@@ -1186,10 +1191,14 @@ msgstr[1] "सबै"
 
 #: wp-admin/edit-comments.php:191
 #, fuzzy, php-format
-msgid "Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
-msgid_plural "Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
-msgstr[0] "प्रकाशित <span class=\"count\">(%s)</span>"
+msgid ""
+"Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgid_plural ""
+"Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[0] ""
+"अनिर्णीत <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
 msgstr[1] ""
+"अनिर्णीत <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
 
 #: wp-admin/edit-comments.php:192
 msgid "Approved"
