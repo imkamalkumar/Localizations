@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-05-13 15:35+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2010-07-08 22:11+0530\n"
+"Last-Translator: Sagar Chalise <contact@sagarchalise.com.np>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,63 +14,64 @@ msgstr ""
 
 #: conf/global_settings.py:44
 msgid "Arabic"
-msgstr ""
+msgstr "अरबिक"
 
 #: conf/global_settings.py:45
 msgid "Bulgarian"
-msgstr ""
+msgstr "बुल्गेरियाली"
 
 #: conf/global_settings.py:46
 msgid "Bengali"
-msgstr ""
+msgstr "बंगाली"
 
 #: conf/global_settings.py:47
 msgid "Bosnian"
-msgstr ""
+msgstr "बोस्नियाली"
 
 #: conf/global_settings.py:48
 msgid "Catalan"
-msgstr ""
+msgstr "क्याटालान"
 
 #: conf/global_settings.py:49
 msgid "Czech"
-msgstr ""
+msgstr "चेक"
 
 #: conf/global_settings.py:50
 msgid "Welsh"
-msgstr ""
+msgstr "वेल्स"
 
 #: conf/global_settings.py:51
 msgid "Danish"
-msgstr ""
+msgstr "डेनिस"
 
 #: conf/global_settings.py:52
 msgid "German"
-msgstr ""
+msgstr "जर्मन"
 
 #: conf/global_settings.py:53
 msgid "Greek"
-msgstr ""
+msgstr "ग्रिक"
 
 #: conf/global_settings.py:54
 msgid "English"
-msgstr ""
+msgstr "अंग्रेजी"
 
 #: conf/global_settings.py:55
+#, fuzzy
 msgid "British English"
-msgstr ""
+msgstr "ब्रिटीश अंग्रेजी"
 
 #: conf/global_settings.py:56
 msgid "Spanish"
-msgstr ""
+msgstr "स्पेनिस"
 
 #: conf/global_settings.py:57
 msgid "Argentinean Spanish"
-msgstr ""
+msgstr "अर्जेन्टिनाली"
 
 #: conf/global_settings.py:58
 msgid "Estonian"
-msgstr ""
+msgstr "इस्टोनियन"
 
 #: conf/global_settings.py:59
 msgid "Basque"
@@ -81,12 +82,14 @@ msgid "Persian"
 msgstr ""
 
 #: conf/global_settings.py:61
+#, fuzzy
 msgid "Finnish"
-msgstr ""
+msgstr "फिन्नीस"
 
 #: conf/global_settings.py:62
+#, fuzzy
 msgid "French"
-msgstr ""
+msgstr "फ्रान्सेली"
 
 #: conf/global_settings.py:63
 msgid "Frisian"
@@ -97,24 +100,27 @@ msgid "Irish"
 msgstr ""
 
 #: conf/global_settings.py:65
+#, fuzzy
 msgid "Galician"
-msgstr ""
+msgstr "ग्यलिसियन"
 
 #: conf/global_settings.py:66
+#, fuzzy
 msgid "Hebrew"
-msgstr ""
+msgstr "हिब्रु"
 
 #: conf/global_settings.py:67
 msgid "Hindi"
-msgstr ""
+msgstr "हिन्दि "
 
 #: conf/global_settings.py:68
 msgid "Croatian"
 msgstr ""
 
 #: conf/global_settings.py:69
+#, fuzzy
 msgid "Hungarian"
-msgstr ""
+msgstr "हन्गेरियन"
 
 #: conf/global_settings.py:70
 msgid "Indonesian"
@@ -125,16 +131,19 @@ msgid "Icelandic"
 msgstr ""
 
 #: conf/global_settings.py:72
+#, fuzzy
 msgid "Italian"
-msgstr ""
+msgstr "ईटालियन"
 
 #: conf/global_settings.py:73
+#, fuzzy
 msgid "Japanese"
-msgstr ""
+msgstr "जापनिज"
 
 #: conf/global_settings.py:74
+#, fuzzy
 msgid "Georgian"
-msgstr ""
+msgstr "जर्जीयन"
 
 #: conf/global_settings.py:75
 msgid "Khmer"
@@ -145,20 +154,23 @@ msgid "Kannada"
 msgstr ""
 
 #: conf/global_settings.py:77
+#, fuzzy
 msgid "Korean"
-msgstr ""
+msgstr "कोरियाली"
 
 #: conf/global_settings.py:78
+#, fuzzy
 msgid "Lithuanian"
-msgstr ""
+msgstr "लिथुवानियाली"
 
 #: conf/global_settings.py:79
 msgid "Latvian"
 msgstr ""
 
 #: conf/global_settings.py:80
+#, fuzzy
 msgid "Macedonian"
-msgstr ""
+msgstr "म्यासिडोनियन"
 
 #: conf/global_settings.py:81
 msgid "Mongolian"
@@ -181,48 +193,58 @@ msgid "Norwegian Nynorsk"
 msgstr ""
 
 #: conf/global_settings.py:86
+#, fuzzy
 msgid "Polish"
-msgstr ""
+msgstr "पोलिस"
 
 #: conf/global_settings.py:87
+#, fuzzy
 msgid "Portuguese"
-msgstr ""
+msgstr "पोर्तुगाली"
 
 #: conf/global_settings.py:88
+#, fuzzy
 msgid "Brazilian Portuguese"
-msgstr ""
+msgstr "प्रोचुगिज-ब्राजिल"
 
 #: conf/global_settings.py:89
+#, fuzzy
 msgid "Romanian"
-msgstr ""
+msgstr "रोमानियन"
 
 #: conf/global_settings.py:90
+#, fuzzy
 msgid "Russian"
-msgstr ""
+msgstr "रसियाली"
 
 #: conf/global_settings.py:91
+#, fuzzy
 msgid "Slovak"
-msgstr ""
+msgstr "स्लोभाक"
 
 #: conf/global_settings.py:92
+#, fuzzy
 msgid "Slovenian"
-msgstr ""
+msgstr "स्लोभेनिया"
 
 #: conf/global_settings.py:93
+#, fuzzy
 msgid "Albanian"
-msgstr ""
+msgstr "अल्वानियन"
 
 #: conf/global_settings.py:94
+#, fuzzy
 msgid "Serbian"
-msgstr ""
+msgstr "सेर्वियन"
 
 #: conf/global_settings.py:95
 msgid "Serbian Latin"
 msgstr ""
 
 #: conf/global_settings.py:96
+#, fuzzy
 msgid "Swedish"
-msgstr ""
+msgstr "स्विडिस"
 
 #: conf/global_settings.py:97
 msgid "Tamil"
@@ -237,33 +259,39 @@ msgid "Thai"
 msgstr ""
 
 #: conf/global_settings.py:100
+#, fuzzy
 msgid "Turkish"
-msgstr ""
+msgstr "टर्कीस"
 
 #: conf/global_settings.py:101
 msgid "Ukrainian"
 msgstr ""
 
 #: conf/global_settings.py:102
+#, fuzzy
 msgid "Vietnamese"
-msgstr ""
+msgstr "भियतनामिज"
 
 #: conf/global_settings.py:103
+#, fuzzy
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "सरलीकृत चिनियाँ"
 
 #: conf/global_settings.py:104
+#, fuzzy
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "परम्परागत चिनियाँ"
 
 #: contrib/admin/actions.py:48
 #, python-format
 msgid "Successfully deleted %(count)d %(items)s."
 msgstr ""
 
-#: contrib/admin/actions.py:55 contrib/admin/options.py:1125
+#: contrib/admin/actions.py:55
+#: contrib/admin/options.py:1125
+#, fuzzy
 msgid "Are you sure?"
-msgstr ""
+msgstr "तपाईँ %s बाट निषेधित हुनु भएको छ ।"
 
 #: contrib/admin/actions.py:73
 #, python-format
@@ -271,100 +299,126 @@ msgid "Delete selected %(verbose_name_plural)s"
 msgstr ""
 
 #: contrib/admin/filterspecs.py:44
-#, python-format
+#, fuzzy, python-format
 msgid ""
 "<h3>By %s:</h3>\n"
 "<ul>\n"
-msgstr ""
+msgstr "नामद्वारा क्रमबद्द गर्नुहोस  "
 
-#: contrib/admin/filterspecs.py:75 contrib/admin/filterspecs.py:92
-#: contrib/admin/filterspecs.py:147 contrib/admin/filterspecs.py:173
+#: contrib/admin/filterspecs.py:75
+#: contrib/admin/filterspecs.py:92
+#: contrib/admin/filterspecs.py:147
+#: contrib/admin/filterspecs.py:173
+#, fuzzy
 msgid "All"
-msgstr ""
+msgstr "सबे"
 
 #: contrib/admin/filterspecs.py:113
+#, fuzzy
 msgid "Any date"
-msgstr ""
+msgstr "मिति/समय"
 
 #: contrib/admin/filterspecs.py:114
 msgid "Today"
 msgstr ""
 
 #: contrib/admin/filterspecs.py:117
+#, fuzzy
 msgid "Past 7 days"
-msgstr ""
+msgstr "पूर्व अनुवादकहरू"
 
 #: contrib/admin/filterspecs.py:119
+#, fuzzy
 msgid "This month"
-msgstr ""
+msgstr "महिना चयन गर्नुहोस"
 
 #: contrib/admin/filterspecs.py:121
+#, fuzzy
 msgid "This year"
-msgstr ""
+msgstr "जन्म वर्ष"
 
-#: contrib/admin/filterspecs.py:147 forms/widgets.py:469
+#: contrib/admin/filterspecs.py:147
+#: forms/widgets.py:469
+#, fuzzy
 msgid "Yes"
-msgstr ""
+msgstr "हो"
 
-#: contrib/admin/filterspecs.py:147 forms/widgets.py:469
+#: contrib/admin/filterspecs.py:147
+#: forms/widgets.py:469
+#, fuzzy
 msgid "No"
-msgstr ""
+msgstr "होइन"
 
-#: contrib/admin/filterspecs.py:154 forms/widgets.py:469
+#: contrib/admin/filterspecs.py:154
+#: forms/widgets.py:469
+#, fuzzy
 msgid "Unknown"
-msgstr ""
+msgstr "अज्ञात"
 
 #: contrib/admin/helpers.py:20
+#, fuzzy
 msgid "Action:"
-msgstr ""
+msgstr "कार्य"
 
 #: contrib/admin/models.py:19
+#, fuzzy
 msgid "action time"
-msgstr ""
+msgstr "मिति/समय"
 
 #: contrib/admin/models.py:22
+#, fuzzy
 msgid "object id"
-msgstr ""
+msgstr "पृष्ठ परिचय"
 
 #: contrib/admin/models.py:23
+#, fuzzy
 msgid "object repr"
-msgstr ""
+msgstr "वस्तु काट्नुहोस्"
 
 #: contrib/admin/models.py:24
+#, fuzzy
 msgid "action flag"
-msgstr ""
+msgstr "अज्ञात कर्य"
 
 #: contrib/admin/models.py:25
+#, fuzzy
 msgid "change message"
-msgstr ""
+msgstr "अनुकूल सन्देश"
 
 #: contrib/admin/models.py:28
+#, fuzzy
 msgid "log entry"
-msgstr ""
+msgstr "बहिरगमन गर्नुहोस"
 
 #: contrib/admin/models.py:29
+#, fuzzy
 msgid "log entries"
-msgstr ""
+msgstr "बहिरगमन गर्नुहोस"
 
-#: contrib/admin/options.py:138 contrib/admin/options.py:153
+#: contrib/admin/options.py:138
+#: contrib/admin/options.py:153
+#, fuzzy
 msgid "None"
-msgstr ""
+msgstr "खाली"
 
 #: contrib/admin/options.py:559
-#, python-format
+#, fuzzy, python-format
 msgid "Changed %s."
-msgstr ""
+msgstr "पासवर्ड परिवर्तन गरियो"
 
-#: contrib/admin/options.py:559 contrib/admin/options.py:569
-#: contrib/comments/templates/comments/preview.html:16 db/models/base.py:845
+#: contrib/admin/options.py:559
+#: contrib/admin/options.py:569
+#: contrib/comments/templates/comments/preview.html:16
+#: db/models/base.py:845
 #: forms/models.py:568
+#, fuzzy
 msgid "and"
-msgstr ""
+msgstr ", र"
 
 #: contrib/admin/options.py:564
-#, python-format
+#, fuzzy, python-format
 msgid "Added %(name)s \"%(object)s\"."
-msgstr ""
+msgstr "एउटा लाइन वस्तु सिर्जना गर्नुहोस्"
 
 #: contrib/admin/options.py:568
 #, python-format
@@ -372,24 +426,27 @@ msgid "Changed %(list)s for %(name)s \"%(object)s\"."
 msgstr ""
 
 #: contrib/admin/options.py:573
-#, python-format
+#, fuzzy, python-format
 msgid "Deleted %(name)s \"%(object)s\"."
-msgstr ""
+msgstr "एउटा लाइन वस्तु सिर्जना गर्नुहोस्"
 
 #: contrib/admin/options.py:577
+#, fuzzy
 msgid "No fields changed."
-msgstr ""
+msgstr "[%s]  पासवर्ड हराएमा/फेरिएमा"
 
 #: contrib/admin/options.py:643
 #, python-format
 msgid "The %(name)s \"%(obj)s\" was added successfully."
 msgstr ""
 
-#: contrib/admin/options.py:647 contrib/admin/options.py:680
+#: contrib/admin/options.py:647
+#: contrib/admin/options.py:680
 msgid "You may edit it again below."
 msgstr ""
 
-#: contrib/admin/options.py:657 contrib/admin/options.py:690
+#: contrib/admin/options.py:657
+#: contrib/admin/options.py:690
 #, python-format
 msgid "You may add another %s below."
 msgstr ""
@@ -401,38 +458,39 @@ msgstr ""
 
 #: contrib/admin/options.py:686
 #, python-format
-msgid ""
-"The %(name)s \"%(obj)s\" was added successfully. You may edit it again below."
+msgid "The %(name)s \"%(obj)s\" was added successfully. You may edit it again below."
 msgstr ""
 
-#: contrib/admin/options.py:740 contrib/admin/options.py:997
-msgid ""
-"Items must be selected in order to perform actions on them. No items have "
-"been changed."
+#: contrib/admin/options.py:740
+#: contrib/admin/options.py:997
+msgid "Items must be selected in order to perform actions on them. No items have been changed."
 msgstr ""
 
 #: contrib/admin/options.py:759
+#, fuzzy
 msgid "No action selected."
-msgstr ""
+msgstr "<b>खाता चयन गरिएको छैन</b>"
 
 #: contrib/admin/options.py:840
-#, python-format
+#, fuzzy, python-format
 msgid "Add %s"
-msgstr ""
+msgstr "थप्नुहोस"
 
-#: contrib/admin/options.py:866 contrib/admin/options.py:1105
+#: contrib/admin/options.py:866
+#: contrib/admin/options.py:1105
 #, python-format
 msgid "%(name)s object with primary key %(key)r does not exist."
 msgstr ""
 
 #: contrib/admin/options.py:931
-#, python-format
+#, fuzzy, python-format
 msgid "Change %s"
-msgstr ""
+msgstr "परिवर्तन गर्नुहोस्"
 
 #: contrib/admin/options.py:977
+#, fuzzy
 msgid "Database error"
-msgstr ""
+msgstr "डाटावेस जडान त्रुटि"
 
 #: contrib/admin/options.py:1039
 #, python-format
@@ -442,16 +500,16 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: contrib/admin/options.py:1066
-#, python-format
+#, fuzzy, python-format
 msgid "%(total_count)s selected"
 msgid_plural "All %(total_count)s selected"
-msgstr[0] ""
+msgstr[0] "<b>खाता चयन गरिएको छैन</b>"
 msgstr[1] ""
 
 #: contrib/admin/options.py:1071
-#, python-format
+#, fuzzy, python-format
 msgid "0 of %(cnt)s selected"
-msgstr ""
+msgstr "<b>खाता चयन गरिएको छैन</b>"
 
 #: contrib/admin/options.py:1118
 #, python-format
@@ -459,80 +517,91 @@ msgid "The %(name)s \"%(obj)s\" was deleted successfully."
 msgstr ""
 
 #: contrib/admin/options.py:1155
-#, python-format
+#, fuzzy, python-format
 msgid "Change history: %s"
-msgstr ""
+msgstr "विषय परिवर्तन गर्नुहोस्..."
 
-#: contrib/admin/sites.py:18 contrib/admin/views/decorators.py:14
+#: contrib/admin/sites.py:18
+#: contrib/admin/views/decorators.py:14
 #: contrib/auth/forms.py:81
-msgid ""
-"Please enter a correct username and password. Note that both fields are case-"
-"sensitive."
+msgid "Please enter a correct username and password. Note that both fields are case-sensitive."
 msgstr ""
 
-#: contrib/admin/sites.py:307 contrib/admin/views/decorators.py:40
+#: contrib/admin/sites.py:307
+#: contrib/admin/views/decorators.py:40
 msgid "Please log in again, because your session has expired."
 msgstr ""
 
-#: contrib/admin/sites.py:314 contrib/admin/views/decorators.py:47
-msgid ""
-"Looks like your browser isn't configured to accept cookies. Please enable "
-"cookies, reload this page, and try again."
+#: contrib/admin/sites.py:314
+#: contrib/admin/views/decorators.py:47
+msgid "Looks like your browser isn't configured to accept cookies. Please enable cookies, reload this page, and try again."
 msgstr ""
 
-#: contrib/admin/sites.py:330 contrib/admin/sites.py:336
+#: contrib/admin/sites.py:330
+#: contrib/admin/sites.py:336
 #: contrib/admin/views/decorators.py:66
 msgid "Usernames cannot contain the '@' character."
 msgstr ""
 
-#: contrib/admin/sites.py:333 contrib/admin/views/decorators.py:62
+#: contrib/admin/sites.py:333
+#: contrib/admin/views/decorators.py:62
 #, python-format
 msgid "Your e-mail address is not your username. Try '%s' instead."
 msgstr ""
 
 #: contrib/admin/sites.py:389
+#, fuzzy
 msgid "Site administration"
-msgstr ""
+msgstr "पृष्ठ हेर्नुहोस् ।"
 
-#: contrib/admin/sites.py:403 contrib/admin/templates/admin/login.html:26
+#: contrib/admin/sites.py:403
+#: contrib/admin/templates/admin/login.html:26
 #: contrib/admin/templates/registration/password_reset_complete.html:14
 #: contrib/admin/views/decorators.py:20
+#, fuzzy
 msgid "Log in"
-msgstr ""
+msgstr "प्रवेश गर्नुहोस"
 
 #: contrib/admin/sites.py:448
-#, python-format
+#, fuzzy, python-format
 msgid "%s administration"
-msgstr ""
+msgstr "प्रशासन"
 
 #: contrib/admin/widgets.py:75
+#, fuzzy
 msgid "Date:"
-msgstr ""
+msgstr "मिति"
 
 #: contrib/admin/widgets.py:75
+#, fuzzy
 msgid "Time:"
-msgstr ""
+msgstr "%s समय"
 
 #: contrib/admin/widgets.py:99
+#, fuzzy
 msgid "Currently:"
-msgstr ""
+msgstr "हालसालै"
 
 #: contrib/admin/widgets.py:99
+#, fuzzy
 msgid "Change:"
-msgstr ""
+msgstr "परिवर्तन गर्नुहोस्"
 
 #: contrib/admin/widgets.py:129
+#, fuzzy
 msgid "Lookup"
-msgstr ""
+msgstr "खोजी गर्नुहोस्"
 
 #: contrib/admin/widgets.py:244
+#, fuzzy
 msgid "Add Another"
-msgstr ""
+msgstr "समुह थप्नुहोस"
 
 #: contrib/admin/templates/admin/404.html:4
 #: contrib/admin/templates/admin/404.html:8
+#, fuzzy
 msgid "Page not found"
-msgstr ""
+msgstr "dpkg: %s फेला परेन ।\n"
 
 #: contrib/admin/templates/admin/404.html:10
 msgid "We're sorry, but the requested page could not be found."
@@ -556,34 +625,38 @@ msgstr ""
 #: contrib/admin/templates/registration/password_reset_done.html:4
 #: contrib/admin/templates/registration/password_reset_form.html:4
 #: contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+#, fuzzy
 msgid "Home"
-msgstr ""
+msgstr "गृह"
 
 #: contrib/admin/templates/admin/500.html:4
+#, fuzzy
 msgid "Server error"
-msgstr ""
+msgstr "डेटावे सर्भर त्रुटि"
 
 #: contrib/admin/templates/admin/500.html:6
+#, fuzzy
 msgid "Server error (500)"
-msgstr ""
+msgstr "डेटावे सर्भर त्रुटि"
 
 #: contrib/admin/templates/admin/500.html:9
+#, fuzzy
 msgid "Server Error <em>(500)</em>"
-msgstr ""
+msgstr "सर्भरबाट त्रुटि पढिदैछ"
 
 #: contrib/admin/templates/admin/500.html:10
-msgid ""
-"There's been an error. It's been reported to the site administrators via e-"
-"mail and should be fixed shortly. Thanks for your patience."
+msgid "There's been an error. It's been reported to the site administrators via e-mail and should be fixed shortly. Thanks for your patience."
 msgstr ""
 
 #: contrib/admin/templates/admin/actions.html:4
+#, fuzzy
 msgid "Run the selected action"
-msgstr ""
+msgstr "एउटा कार्य विकल्प आवश्यक"
 
 #: contrib/admin/templates/admin/actions.html:4
+#, fuzzy
 msgid "Go"
-msgstr ""
+msgstr "फर्कनुहोस"
 
 #: contrib/admin/templates/admin/actions.html:11
 msgid "Click here to select the objects across all pages"
@@ -595,39 +668,44 @@ msgid "Select all %(total_count)s %(module_name)s"
 msgstr ""
 
 #: contrib/admin/templates/admin/actions.html:13
+#, fuzzy
 msgid "Clear selection"
-msgstr ""
+msgstr "चयनको वरिपरि किनारा खाली गर्नुहोस्"
 
 #: contrib/admin/templates/admin/app_index.html:10
 #: contrib/admin/templates/admin/index.html:19
-#, python-format
+#, fuzzy, python-format
 msgid "%(name)s"
-msgstr ""
+msgstr "नाम:"
 
 #: contrib/admin/templates/admin/base.html:28
+#, fuzzy
 msgid "Welcome,"
-msgstr ""
+msgstr "स्वागतम"
 
 #: contrib/admin/templates/admin/base.html:33
 #: contrib/admin/templates/registration/password_change_done.html:3
 #: contrib/admin/templates/registration/password_change_form.html:4
 #: contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+#, fuzzy
 msgid "Documentation"
-msgstr ""
+msgstr "मिसिलीकरण"
 
 #: contrib/admin/templates/admin/base.html:41
 #: contrib/admin/templates/admin/auth/user/change_password.html:15
 #: contrib/admin/templates/admin/auth/user/change_password.html:48
 #: contrib/admin/templates/registration/password_change_done.html:3
 #: contrib/admin/templates/registration/password_change_form.html:4
+#, fuzzy
 msgid "Change password"
-msgstr ""
+msgstr "पासवर्ड परिवर्तन गर्नुहोस्"
 
 #: contrib/admin/templates/admin/base.html:48
 #: contrib/admin/templates/registration/password_change_done.html:3
 #: contrib/admin/templates/registration/password_change_form.html:4
+#, fuzzy
 msgid "Log out"
-msgstr ""
+msgstr "बहिरगमन"
 
 #: contrib/admin/templates/admin/base_site.html:4
 msgid "Django site admin"
@@ -639,86 +717,85 @@ msgstr ""
 
 #: contrib/admin/templates/admin/change_form.html:21
 #: contrib/admin/templates/admin/index.html:29
+#, fuzzy
 msgid "Add"
-msgstr ""
+msgstr "थप्नुहोस"
 
 #: contrib/admin/templates/admin/change_form.html:28
 #: contrib/admin/templates/admin/object_history.html:10
+#, fuzzy
 msgid "History"
-msgstr ""
+msgstr "इतिहास"
 
 #: contrib/admin/templates/admin/change_form.html:29
 #: contrib/admin/templates/admin/edit_inline/stacked.html:9
 #: contrib/admin/templates/admin/edit_inline/tabular.html:28
+#, fuzzy
 msgid "View on site"
-msgstr ""
+msgstr "साता सुरु हुने दिन"
 
 #: contrib/admin/templates/admin/change_form.html:39
 #: contrib/admin/templates/admin/change_list.html:71
 #: contrib/admin/templates/admin/auth/user/change_password.html:24
 #: contrib/admin/templates/registration/password_change_form.html:15
+#, fuzzy
 msgid "Please correct the error below."
 msgid_plural "Please correct the errors below."
-msgstr[0] ""
+msgstr[0] "त्रुटि : कृपया टिप्पणि लेख्नुहोस ।"
 msgstr[1] ""
 
 #: contrib/admin/templates/admin/change_list.html:63
-#, python-format
+#, fuzzy, python-format
 msgid "Add %(name)s"
-msgstr ""
+msgstr "समुहको नाम"
 
 #: contrib/admin/templates/admin/change_list.html:82
+#, fuzzy
 msgid "Filter"
-msgstr ""
+msgstr "छान्नुहोस"
 
 #: contrib/admin/templates/admin/delete_confirmation.html:10
-#: contrib/admin/templates/admin/submit_line.html:4 forms/formsets.py:302
+#: contrib/admin/templates/admin/submit_line.html:4
+#: forms/formsets.py:302
+#, fuzzy
 msgid "Delete"
-msgstr ""
+msgstr "मेट्नुहोस"
 
 #: contrib/admin/templates/admin/delete_confirmation.html:16
 #, python-format
-msgid ""
-"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
-"related objects, but your account doesn't have permission to delete the "
-"following types of objects:"
+msgid "Deleting the %(object_name)s '%(escaped_object)s' would result in deleting related objects, but your account doesn't have permission to delete the following types of objects:"
 msgstr ""
 
 #: contrib/admin/templates/admin/delete_confirmation.html:23
 #, python-format
-msgid ""
-"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
-"All of the following related items will be deleted:"
+msgid "Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? All of the following related items will be deleted:"
 msgstr ""
 
 #: contrib/admin/templates/admin/delete_confirmation.html:28
 #: contrib/admin/templates/admin/delete_selected_confirmation.html:33
+#, fuzzy
 msgid "Yes, I'm sure"
-msgstr ""
+msgstr "हो: %@ @ %@ kb/s"
 
 #: contrib/admin/templates/admin/delete_selected_confirmation.html:9
+#, fuzzy
 msgid "Delete multiple objects"
-msgstr ""
+msgstr "बहुविध संस्करण विशीष्टता। %d मानेर"
 
 #: contrib/admin/templates/admin/delete_selected_confirmation.html:15
 #, python-format
-msgid ""
-"Deleting the %(object_name)s would result in deleting related objects, but "
-"your account doesn't have permission to delete the following types of "
-"objects:"
+msgid "Deleting the %(object_name)s would result in deleting related objects, but your account doesn't have permission to delete the following types of objects:"
 msgstr ""
 
 #: contrib/admin/templates/admin/delete_selected_confirmation.html:22
 #, python-format
-msgid ""
-"Are you sure you want to delete the selected %(object_name)s objects? All of "
-"the following objects and their related items will be deleted:"
+msgid "Are you sure you want to delete the selected %(object_name)s objects? All of the following objects and their related items will be deleted:"
 msgstr ""
 
 #: contrib/admin/templates/admin/filter.html:2
-#, python-format
+#, fuzzy, python-format
 msgid " By %(filter_title)s "
-msgstr ""
+msgstr "पूर्वनिर्धारित शीर्षक मुद्रण"
 
 #: contrib/admin/templates/admin/index.html:18
 #, python-format
@@ -726,80 +803,88 @@ msgid "Models available in the %(name)s application."
 msgstr ""
 
 #: contrib/admin/templates/admin/index.html:35
+#, fuzzy
 msgid "Change"
-msgstr ""
+msgstr "परिवर्तन गर्नुहोस्"
 
 #: contrib/admin/templates/admin/index.html:45
 msgid "You don't have permission to edit anything."
 msgstr ""
 
 #: contrib/admin/templates/admin/index.html:53
+#, fuzzy
 msgid "Recent Actions"
-msgstr ""
+msgstr "एकैचोटि"
 
 #: contrib/admin/templates/admin/index.html:54
+#, fuzzy
 msgid "My Actions"
-msgstr ""
+msgstr "एकैचोटि"
 
 #: contrib/admin/templates/admin/index.html:58
+#, fuzzy
 msgid "None available"
-msgstr ""
+msgstr "<b>उपलब्ध नामहरू</b>"
 
 #: contrib/admin/templates/admin/index.html:72
+#, fuzzy
 msgid "Unknown content"
-msgstr ""
+msgstr "अज्ञात कर्य"
 
 #: contrib/admin/templates/admin/invalid_setup.html:7
-msgid ""
-"Something's wrong with your database installation. Make sure the appropriate "
-"database tables have been created, and make sure the database is readable by "
-"the appropriate user."
+msgid "Something's wrong with your database installation. Make sure the appropriate database tables have been created, and make sure the database is readable by the appropriate user."
 msgstr ""
 
 #: contrib/admin/templates/admin/login.html:19
+#, fuzzy
 msgid "Username:"
-msgstr ""
+msgstr "प्रयोगकर्ता नाम"
 
 #: contrib/admin/templates/admin/login.html:22
+#, fuzzy
 msgid "Password:"
-msgstr ""
+msgstr "पासवर्ड:"
 
 #: contrib/admin/templates/admin/object_history.html:22
+#, fuzzy
 msgid "Date/time"
-msgstr ""
+msgstr "मिति/समय"
 
 #: contrib/admin/templates/admin/object_history.html:23
+#, fuzzy
 msgid "User"
-msgstr ""
+msgstr "प्रयोगकर्ता"
 
 #: contrib/admin/templates/admin/object_history.html:24
+#, fuzzy
 msgid "Action"
-msgstr ""
+msgstr "कार्य"
 
 #: contrib/admin/templates/admin/object_history.html:38
-msgid ""
-"This object doesn't have a change history. It probably wasn't added via this "
-"admin site."
+msgid "This object doesn't have a change history. It probably wasn't added via this admin site."
 msgstr ""
 
 #: contrib/admin/templates/admin/pagination.html:10
+#, fuzzy
 msgid "Show all"
-msgstr ""
+msgstr "सबै देखाउनुहोस्"
 
 #: contrib/admin/templates/admin/pagination.html:11
 #: contrib/admin/templates/admin/submit_line.html:3
+#, fuzzy
 msgid "Save"
-msgstr ""
+msgstr "बचत गर्नुहोस्"
 
 #: contrib/admin/templates/admin/search_form.html:8
+#, fuzzy
 msgid "Search"
-msgstr ""
+msgstr "खोज"
 
 #: contrib/admin/templates/admin/search_form.html:10
-#, python-format
+#, fuzzy, python-format
 msgid "1 result"
 msgid_plural "%(counter)s results"
-msgstr[0] ""
+msgstr[0] "परिणाम"
 msgstr[1] ""
 
 #: contrib/admin/templates/admin/search_form.html:10
@@ -808,8 +893,9 @@ msgid "%(full_result_count)s total"
 msgstr ""
 
 #: contrib/admin/templates/admin/submit_line.html:5
+#, fuzzy
 msgid "Save as new"
-msgstr ""
+msgstr "छविको रूपमा बचत गर्नुहोस्"
 
 #: contrib/admin/templates/admin/submit_line.html:6
 msgid "Save and add another"
@@ -820,9 +906,7 @@ msgid "Save and continue editing"
 msgstr ""
 
 #: contrib/admin/templates/admin/auth/user/add_form.html:5
-msgid ""
-"First, enter a username and password. Then, you'll be able to edit more user "
-"options."
+msgid "First, enter a username and password. Then, you'll be able to edit more user options."
 msgstr ""
 
 #: contrib/admin/templates/admin/auth/user/change_password.html:28
@@ -831,15 +915,19 @@ msgid "Enter a new password for the user <strong>%(username)s</strong>."
 msgstr ""
 
 #: contrib/admin/templates/admin/auth/user/change_password.html:35
-#: contrib/auth/forms.py:17 contrib/auth/forms.py:61 contrib/auth/forms.py:186
+#: contrib/auth/forms.py:17
+#: contrib/auth/forms.py:61
+#: contrib/auth/forms.py:186
+#, fuzzy
 msgid "Password"
-msgstr ""
+msgstr "पासवर्ड"
 
 #: contrib/admin/templates/admin/auth/user/change_password.html:41
 #: contrib/admin/templates/registration/password_change_form.html:37
 #: contrib/auth/forms.py:187
+#, fuzzy
 msgid "Password (again)"
-msgstr ""
+msgstr "पासवर्ड(फेरि)"
 
 #: contrib/admin/templates/admin/auth/user/change_password.html:42
 #: contrib/auth/forms.py:19
@@ -855,57 +943,64 @@ msgstr ""
 #: contrib/admin/templates/admin/edit_inline/stacked.html:67
 #: contrib/admin/templates/admin/edit_inline/tabular.html:113
 #: contrib/comments/templates/comments/delete.html:12
+#, fuzzy
 msgid "Remove"
-msgstr ""
+msgstr "हटाउनुहोस्"
 
 #: contrib/admin/templates/admin/edit_inline/tabular.html:15
+#, fuzzy
 msgid "Delete?"
-msgstr ""
+msgstr "मेट्नुहोस"
 
 #: contrib/admin/templates/registration/logged_out.html:8
 msgid "Thanks for spending some quality time with the Web site today."
 msgstr ""
 
 #: contrib/admin/templates/registration/logged_out.html:10
+#, fuzzy
 msgid "Log in again"
-msgstr ""
+msgstr "कृपया पुनः प्रवेश गर्नुहोस ।"
 
 #: contrib/admin/templates/registration/password_change_done.html:4
 #: contrib/admin/templates/registration/password_change_form.html:5
 #: contrib/admin/templates/registration/password_change_form.html:7
 #: contrib/admin/templates/registration/password_change_form.html:19
+#, fuzzy
 msgid "Password change"
-msgstr ""
+msgstr "पासवर्ड परिवर्तन गर्नुहोस्"
 
 #: contrib/admin/templates/registration/password_change_done.html:6
 #: contrib/admin/templates/registration/password_change_done.html:10
+#, fuzzy
 msgid "Password change successful"
-msgstr ""
+msgstr "%s का लागि पासवर्ड परिवर्तन गर्नुहोस्"
 
 #: contrib/admin/templates/registration/password_change_done.html:12
+#, fuzzy
 msgid "Your password was changed."
-msgstr ""
+msgstr "तपाईं को पस्स्वोर्द अस्विकर गरिएको थियो। "
 
 #: contrib/admin/templates/registration/password_change_form.html:21
-msgid ""
-"Please enter your old password, for security's sake, and then enter your new "
-"password twice so we can verify you typed it in correctly."
+msgid "Please enter your old password, for security's sake, and then enter your new password twice so we can verify you typed it in correctly."
 msgstr ""
 
 #: contrib/admin/templates/registration/password_change_form.html:27
 #: contrib/auth/forms.py:170
+#, fuzzy
 msgid "Old password"
-msgstr ""
+msgstr "पासवर्ड सुरक्षित भयो"
 
 #: contrib/admin/templates/registration/password_change_form.html:32
 #: contrib/auth/forms.py:144
+#, fuzzy
 msgid "New password"
-msgstr ""
+msgstr "नयाँ पासवर्ड"
 
 #: contrib/admin/templates/registration/password_change_form.html:43
 #: contrib/admin/templates/registration/password_reset_confirm.html:21
+#, fuzzy
 msgid "Change my password"
-msgstr ""
+msgstr "%s का लागि पासवर्ड परिवर्तन गर्नुहोस्"
 
 #: contrib/admin/templates/registration/password_reset_complete.html:4
 #: contrib/admin/templates/registration/password_reset_confirm.html:6
@@ -913,59 +1008,61 @@ msgstr ""
 #: contrib/admin/templates/registration/password_reset_form.html:4
 #: contrib/admin/templates/registration/password_reset_form.html:6
 #: contrib/admin/templates/registration/password_reset_form.html:10
+#, fuzzy
 msgid "Password reset"
-msgstr ""
+msgstr "स्थायी रिसेट गर्नुहोस्"
 
 #: contrib/admin/templates/registration/password_reset_complete.html:6
 #: contrib/admin/templates/registration/password_reset_complete.html:10
+#, fuzzy
 msgid "Password reset complete"
-msgstr ""
+msgstr "फाइल स्थानान्तरण पूरा भयो ।"
 
 #: contrib/admin/templates/registration/password_reset_complete.html:12
 msgid "Your password has been set.  You may go ahead and log in now."
 msgstr ""
 
 #: contrib/admin/templates/registration/password_reset_confirm.html:4
+#, fuzzy
 msgid "Password reset confirmation"
-msgstr ""
+msgstr "खाता यकिन गर्न अनुरोध गरिएको छ"
 
 #: contrib/admin/templates/registration/password_reset_confirm.html:12
+#, fuzzy
 msgid "Enter new password"
-msgstr ""
+msgstr "कृपया तपाईँको नयाँ पासवर्ड प्रविष्टि गराउनुहोस्"
 
 #: contrib/admin/templates/registration/password_reset_confirm.html:14
-msgid ""
-"Please enter your new password twice so we can verify you typed it in "
-"correctly."
+msgid "Please enter your new password twice so we can verify you typed it in correctly."
 msgstr ""
 
 #: contrib/admin/templates/registration/password_reset_confirm.html:18
+#, fuzzy
 msgid "New password:"
-msgstr ""
+msgstr "नयाँ पासवर्ड"
 
 #: contrib/admin/templates/registration/password_reset_confirm.html:20
+#, fuzzy
 msgid "Confirm password:"
-msgstr ""
+msgstr "पासवर्ड सुरक्षित भयो"
 
 #: contrib/admin/templates/registration/password_reset_confirm.html:26
+#, fuzzy
 msgid "Password reset unsuccessful"
-msgstr ""
+msgstr "IM कुञ्जी रिसेट गर्नुहोस्"
 
 #: contrib/admin/templates/registration/password_reset_confirm.html:28
-msgid ""
-"The password reset link was invalid, possibly because it has already been "
-"used.  Please request a new password reset."
+msgid "The password reset link was invalid, possibly because it has already been used.  Please request a new password reset."
 msgstr ""
 
 #: contrib/admin/templates/registration/password_reset_done.html:6
 #: contrib/admin/templates/registration/password_reset_done.html:10
+#, fuzzy
 msgid "Password reset successful"
-msgstr ""
+msgstr "IM कुञ्जी रिसेट गर्नुहोस्"
 
 #: contrib/admin/templates/registration/password_reset_done.html:12
-msgid ""
-"We've e-mailed you instructions for setting your password to the e-mail "
-"address you submitted. You should be receiving it shortly."
+msgid "We've e-mailed you instructions for setting your password to the e-mail address you submitted. You should be receiving it shortly."
 msgstr ""
 
 #: contrib/admin/templates/registration/password_reset_email.html:2
@@ -990,65 +1087,75 @@ msgid "Thanks for using our site!"
 msgstr ""
 
 #: contrib/admin/templates/registration/password_reset_email.html:13
-#, python-format
+#, fuzzy, python-format
 msgid "The %(site_name)s team"
-msgstr ""
+msgstr "नामद्वारा क्रमबद्द गर्नुहोस  "
 
 #: contrib/admin/templates/registration/password_reset_form.html:12
-msgid ""
-"Forgotten your password? Enter your e-mail address below, and we'll e-mail "
-"instructions for setting a new one."
+msgid "Forgotten your password? Enter your e-mail address below, and we'll e-mail instructions for setting a new one."
 msgstr ""
 
 #: contrib/admin/templates/registration/password_reset_form.html:16
+#, fuzzy
 msgid "E-mail address:"
-msgstr ""
+msgstr "इमेल ठेगाना"
 
 #: contrib/admin/templates/registration/password_reset_form.html:16
+#, fuzzy
 msgid "Reset my password"
-msgstr ""
+msgstr "[%s]  पासवर्ड हराएमा/फेरिएमा"
 
 #: contrib/admin/templatetags/admin_list.py:257
+#, fuzzy
 msgid "All dates"
-msgstr ""
+msgstr "सबै "
 
 #: contrib/admin/views/main.py:65
-#, python-format
+#, fuzzy, python-format
 msgid "Select %s"
-msgstr ""
+msgstr "-छान्नुहोस-"
 
 #: contrib/admin/views/main.py:65
-#, python-format
+#, fuzzy, python-format
 msgid "Select %s to change"
-msgstr ""
+msgstr "%s मा परिवर्तन गर्न सकिदैन"
 
-#: contrib/admin/views/template.py:38 contrib/sites/models.py:38
+#: contrib/admin/views/template.py:38
+#: contrib/sites/models.py:38
+#, fuzzy
 msgid "site"
-msgstr ""
+msgstr "पृष्ठ हेर्नुहोस् ।"
 
 #: contrib/admin/views/template.py:40
+#, fuzzy
 msgid "template"
-msgstr ""
+msgstr "टेम्प्लेट"
 
-#: contrib/admindocs/views.py:61 contrib/admindocs/views.py:63
+#: contrib/admindocs/views.py:61
+#: contrib/admindocs/views.py:63
 #: contrib/admindocs/views.py:65
+#, fuzzy
 msgid "tag:"
-msgstr ""
+msgstr "चिनारी"
 
-#: contrib/admindocs/views.py:94 contrib/admindocs/views.py:96
+#: contrib/admindocs/views.py:94
+#: contrib/admindocs/views.py:96
 #: contrib/admindocs/views.py:98
+#, fuzzy
 msgid "filter:"
-msgstr ""
+msgstr "छान्नुहोस"
 
-#: contrib/admindocs/views.py:158 contrib/admindocs/views.py:160
+#: contrib/admindocs/views.py:158
+#: contrib/admindocs/views.py:160
 #: contrib/admindocs/views.py:162
+#, fuzzy
 msgid "view:"
-msgstr ""
+msgstr "हेर्नुहोस"
 
 #: contrib/admindocs/views.py:190
-#, python-format
+#, fuzzy, python-format
 msgid "App %r not found"
-msgstr ""
+msgstr "dpkg: %s फेला परेन ।\n"
 
 #: contrib/admindocs/views.py:197
 #, python-format
@@ -1060,31 +1167,38 @@ msgstr ""
 msgid "the related `%(app_label)s.%(data_type)s` object"
 msgstr ""
 
-#: contrib/admindocs/views.py:209 contrib/admindocs/views.py:228
-#: contrib/admindocs/views.py:233 contrib/admindocs/views.py:247
-#: contrib/admindocs/views.py:261 contrib/admindocs/views.py:266
+#: contrib/admindocs/views.py:209
+#: contrib/admindocs/views.py:228
+#: contrib/admindocs/views.py:233
+#: contrib/admindocs/views.py:247
+#: contrib/admindocs/views.py:261
+#: contrib/admindocs/views.py:266
+#, fuzzy
 msgid "model:"
-msgstr ""
+msgstr "नमूना"
 
-#: contrib/admindocs/views.py:224 contrib/admindocs/views.py:256
+#: contrib/admindocs/views.py:224
+#: contrib/admindocs/views.py:256
 #, python-format
 msgid "related `%(app_label)s.%(object_name)s` objects"
 msgstr ""
 
-#: contrib/admindocs/views.py:228 contrib/admindocs/views.py:261
-#, python-format
+#: contrib/admindocs/views.py:228
+#: contrib/admindocs/views.py:261
+#, fuzzy, python-format
 msgid "all %s"
-msgstr ""
+msgstr "सबे"
 
-#: contrib/admindocs/views.py:233 contrib/admindocs/views.py:266
-#, python-format
+#: contrib/admindocs/views.py:233
+#: contrib/admindocs/views.py:266
+#, fuzzy, python-format
 msgid "number of %s"
-msgstr ""
+msgstr "सङ्ख्या"
 
 #: contrib/admindocs/views.py:271
-#, python-format
+#, fuzzy, python-format
 msgid "Fields on %s objects"
-msgstr ""
+msgstr "साता सुरु हुने दिन"
 
 #: contrib/admindocs/views.py:361
 #, python-format
@@ -1111,23 +1225,21 @@ msgid ""
 msgstr ""
 
 #: contrib/admindocs/templates/admin_doc/bookmarklets.html:18
+#, fuzzy
 msgid "Documentation for this page"
-msgstr ""
+msgstr "यो पृष्ठको लागि मद्दत पाउनुहोस"
 
 #: contrib/admindocs/templates/admin_doc/bookmarklets.html:19
-msgid ""
-"Jumps you from any page to the documentation for the view that generates "
-"that page."
+msgid "Jumps you from any page to the documentation for the view that generates that page."
 msgstr ""
 
 #: contrib/admindocs/templates/admin_doc/bookmarklets.html:21
+#, fuzzy
 msgid "Show object ID"
-msgstr ""
+msgstr "अडियो ट्रयाक ID"
 
 #: contrib/admindocs/templates/admin_doc/bookmarklets.html:22
-msgid ""
-"Shows the content-type and unique ID for pages that represent a single "
-"object."
+msgid "Shows the content-type and unique ID for pages that represent a single object."
 msgstr ""
 
 #: contrib/admindocs/templates/admin_doc/bookmarklets.html:24
@@ -1147,218 +1259,251 @@ msgid "As above, but opens the admin page in a new window."
 msgstr ""
 
 #: contrib/auth/admin.py:29
+#, fuzzy
 msgid "Personal info"
-msgstr ""
+msgstr "सम्पर्क जानकारी"
 
 #: contrib/auth/admin.py:30
+#, fuzzy
 msgid "Permissions"
-msgstr ""
+msgstr "अनुमति"
 
 #: contrib/auth/admin.py:31
+#, fuzzy
 msgid "Important dates"
-msgstr ""
+msgstr "सबै "
 
 #: contrib/auth/admin.py:32
+#, fuzzy
 msgid "Groups"
-msgstr ""
+msgstr "<b>समूह</b>"
 
 #: contrib/auth/admin.py:114
+#, fuzzy
 msgid "Password changed successfully."
-msgstr ""
+msgstr "[%s]  पासवर्ड हराएमा/फेरिएमा"
 
 #: contrib/auth/admin.py:124
-#, python-format
+#, fuzzy, python-format
 msgid "Change password: %s"
-msgstr ""
+msgstr "पासवर्ड परिवर्तन गर्नुहोस्"
 
-#: contrib/auth/forms.py:14 contrib/auth/forms.py:48 contrib/auth/forms.py:60
+#: contrib/auth/forms.py:14
+#: contrib/auth/forms.py:48
+#: contrib/auth/forms.py:60
+#, fuzzy
 msgid "Username"
-msgstr ""
+msgstr "प्रयोगकर्ता नाम"
 
-#: contrib/auth/forms.py:15 contrib/auth/forms.py:49
+#: contrib/auth/forms.py:15
+#: contrib/auth/forms.py:49
 msgid "Required. 30 characters or fewer. Letters, digits and @/./+/-/_ only."
 msgstr ""
 
-#: contrib/auth/forms.py:16 contrib/auth/forms.py:50
+#: contrib/auth/forms.py:16
+#: contrib/auth/forms.py:50
 msgid "This value may contain only letters, numbers and @/./+/-/_ characters."
 msgstr ""
 
 #: contrib/auth/forms.py:18
+#, fuzzy
 msgid "Password confirmation"
-msgstr ""
+msgstr "पासवर्ड सुरक्षित भयो"
 
 #: contrib/auth/forms.py:31
+#, fuzzy
 msgid "A user with that username already exists."
-msgstr ""
+msgstr "त्यो नाम सहितको फोल्डर पहिल्यै अवस्थित छ"
 
-#: contrib/auth/forms.py:37 contrib/auth/forms.py:156
+#: contrib/auth/forms.py:37
+#: contrib/auth/forms.py:156
 #: contrib/auth/forms.py:198
 msgid "The two password fields didn't match."
 msgstr ""
 
 #: contrib/auth/forms.py:83
+#, fuzzy
 msgid "This account is inactive."
 msgstr ""
+"यो डिस्कको नाम:\n"
+"'%s'\n"
 
 #: contrib/auth/forms.py:88
-msgid ""
-"Your Web browser doesn't appear to have cookies enabled. Cookies are "
-"required for logging in."
+msgid "Your Web browser doesn't appear to have cookies enabled. Cookies are required for logging in."
 msgstr ""
 
 #: contrib/auth/forms.py:101
+#, fuzzy
 msgid "E-mail"
-msgstr ""
+msgstr "ई-मेल"
 
 #: contrib/auth/forms.py:110
-msgid ""
-"That e-mail address doesn't have an associated user account. Are you sure "
-"you've registered?"
+msgid "That e-mail address doesn't have an associated user account. Are you sure you've registered?"
 msgstr ""
 
 #: contrib/auth/forms.py:136
-#, python-format
+#, fuzzy, python-format
 msgid "Password reset on %s"
-msgstr ""
+msgstr "साता सुरु हुने दिन"
 
 #: contrib/auth/forms.py:145
+#, fuzzy
 msgid "New password confirmation"
-msgstr ""
+msgstr "[%s] तपाईँको नयाँ पासवर्ड"
 
 #: contrib/auth/forms.py:178
 msgid "Your old password was entered incorrectly. Please enter it again."
 msgstr ""
 
-#: contrib/auth/models.py:66 contrib/auth/models.py:94
+#: contrib/auth/models.py:66
+#: contrib/auth/models.py:94
+#, fuzzy
 msgid "name"
-msgstr ""
+msgstr "नाम:"
 
 #: contrib/auth/models.py:68
 msgid "codename"
 msgstr ""
 
 #: contrib/auth/models.py:72
+#, fuzzy
 msgid "permission"
-msgstr ""
+msgstr "अनुमति अस्वीकार गरियो"
 
-#: contrib/auth/models.py:73 contrib/auth/models.py:95
+#: contrib/auth/models.py:73
+#: contrib/auth/models.py:95
+#, fuzzy
 msgid "permissions"
-msgstr ""
+msgstr "<b>Permissions</b>"
 
 #: contrib/auth/models.py:98
+#, fuzzy
 msgid "group"
-msgstr ""
+msgstr "समूह"
 
-#: contrib/auth/models.py:99 contrib/auth/models.py:206
+#: contrib/auth/models.py:99
+#: contrib/auth/models.py:206
+#, fuzzy
 msgid "groups"
-msgstr ""
+msgstr "<b>समूह</b>"
 
 #: contrib/auth/models.py:196
+#, fuzzy
 msgid "username"
-msgstr ""
+msgstr "प्रयोगकर्ता नाम"
 
 #: contrib/auth/models.py:196
-msgid ""
-"Required. 30 characters or fewer. Letters, numbers and @/./+/-/_ characters"
+msgid "Required. 30 characters or fewer. Letters, numbers and @/./+/-/_ characters"
 msgstr ""
 
 #: contrib/auth/models.py:197
+#, fuzzy
 msgid "first name"
-msgstr ""
+msgstr "नाम"
 
 #: contrib/auth/models.py:198
+#, fuzzy
 msgid "last name"
-msgstr ""
+msgstr "थर"
 
 #: contrib/auth/models.py:199
+#, fuzzy
 msgid "e-mail address"
-msgstr ""
+msgstr "इमेल ठेगाना"
 
 #: contrib/auth/models.py:200
+#, fuzzy
 msgid "password"
-msgstr ""
+msgstr "पासवर्ड"
 
 #: contrib/auth/models.py:200
-msgid ""
-"Use '[algo]$[salt]$[hexdigest]' or use the <a href=\"password/\">change "
-"password form</a>."
+msgid "Use '[algo]$[salt]$[hexdigest]' or use the <a href=\"password/\">change password form</a>."
 msgstr ""
 
 #: contrib/auth/models.py:201
+#, fuzzy
 msgid "staff status"
-msgstr ""
+msgstr "वस्तुस्थिति द्वारा"
 
 #: contrib/auth/models.py:201
 msgid "Designates whether the user can log into this admin site."
 msgstr ""
 
 #: contrib/auth/models.py:202
+#, fuzzy
 msgid "active"
-msgstr ""
+msgstr "सक्रिय गर्नुहोस्"
 
 #: contrib/auth/models.py:202
-msgid ""
-"Designates whether this user should be treated as active. Unselect this "
-"instead of deleting accounts."
+msgid "Designates whether this user should be treated as active. Unselect this instead of deleting accounts."
 msgstr ""
 
 #: contrib/auth/models.py:203
+#, fuzzy
 msgid "superuser status"
-msgstr ""
+msgstr "वस्तुस्थिति द्वारा"
 
 #: contrib/auth/models.py:203
-msgid ""
-"Designates that this user has all permissions without explicitly assigning "
-"them."
+msgid "Designates that this user has all permissions without explicitly assigning them."
 msgstr ""
 
 #: contrib/auth/models.py:204
+#, fuzzy
 msgid "last login"
-msgstr ""
+msgstr "वर्डप्रेस प्रवेश गर्नुहोस "
 
 #: contrib/auth/models.py:205
+#, fuzzy
 msgid "date joined"
-msgstr ""
+msgstr "मिति/समय"
 
 #: contrib/auth/models.py:207
-msgid ""
-"In addition to the permissions manually assigned, this user will also get "
-"all permissions granted to each group he/she is in."
+msgid "In addition to the permissions manually assigned, this user will also get all permissions granted to each group he/she is in."
 msgstr ""
 
 #: contrib/auth/models.py:208
+#, fuzzy
 msgid "user permissions"
-msgstr ""
+msgstr "नया प्रयोगकर्ता"
 
-#: contrib/auth/models.py:212 contrib/comments/models.py:50
+#: contrib/auth/models.py:212
+#: contrib/comments/models.py:50
 #: contrib/comments/models.py:168
+#, fuzzy
 msgid "user"
-msgstr ""
+msgstr "प्रयोगकर्ता %s"
 
 #: contrib/auth/models.py:213
+#, fuzzy
 msgid "users"
-msgstr ""
+msgstr "प्रयोगकर्ताहरु"
 
 #: contrib/auth/models.py:394
+#, fuzzy
 msgid "message"
-msgstr ""
+msgstr "सन्देश:"
 
 #: contrib/auth/views.py:79
+#, fuzzy
 msgid "Logged out"
-msgstr ""
+msgstr "बहिरगमन गर्नुहोस"
 
 #: contrib/auth/management/commands/createsuperuser.py:23
-#: core/validators.py:120 forms/fields.py:428
+#: core/validators.py:120
+#: forms/fields.py:428
+#, fuzzy
 msgid "Enter a valid e-mail address."
-msgstr ""
+msgstr "<strong>त्रुटि भयो</strong>: कृपया ई-मेल ठेगाना दिनुहोस।"
 
 #: contrib/comments/admin.py:12
+#, fuzzy
 msgid "Content"
-msgstr ""
+msgstr "सामाग्री:"
 
 #: contrib/comments/admin.py:15
+#, fuzzy
 msgid "Metadata"
-msgstr ""
+msgstr "मेटाडाटा"
 
 #: contrib/comments/admin.py:40
 msgid "flagged"
@@ -1367,28 +1512,33 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: contrib/comments/admin.py:41
+#, fuzzy
 msgid "Flag selected comments"
-msgstr ""
+msgstr "चयन गरिएको कक्षको टिप्पणी खाली गर्नुहोस्"
 
 #: contrib/comments/admin.py:45
+#, fuzzy
 msgid "approved"
 msgid_plural "approved"
-msgstr[0] ""
+msgstr[0] "स्वीकृत"
 msgstr[1] ""
 
 #: contrib/comments/admin.py:46
+#, fuzzy
 msgid "Approve selected comments"
-msgstr ""
+msgstr "चयन गरिएको कक्षको टिप्पणी खाली गर्नुहोस्"
 
 #: contrib/comments/admin.py:50
+#, fuzzy
 msgid "removed"
 msgid_plural "removed"
-msgstr[0] ""
+msgstr[0] " %s हट्यो"
 msgstr[1] ""
 
 #: contrib/comments/admin.py:51
+#, fuzzy
 msgid "Remove selected comments"
-msgstr ""
+msgstr "चयन गरिएको कक्षको टिप्पणी खाली गर्नुहोस्"
 
 #: contrib/comments/admin.py:63
 #, python-format
@@ -1398,9 +1548,9 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: contrib/comments/feeds.py:13
-#, python-format
+#, fuzzy, python-format
 msgid "%(site_name)s comments"
-msgstr ""
+msgstr "प्रतिकृयाहरु छैनन"
 
 #: contrib/comments/feeds.py:23
 #, python-format
@@ -1408,21 +1558,27 @@ msgid "Latest comments on %(site_name)s"
 msgstr ""
 
 #: contrib/comments/forms.py:93
+#, fuzzy
 msgid "Name"
-msgstr ""
+msgstr "नाम"
 
 #: contrib/comments/forms.py:94
+#, fuzzy
 msgid "Email address"
-msgstr ""
+msgstr "इमेल ठेगाना:"
 
-#: contrib/comments/forms.py:95 contrib/flatpages/admin.py:8
-#: contrib/flatpages/models.py:7 db/models/fields/__init__.py:1101
+#: contrib/comments/forms.py:95
+#: contrib/flatpages/admin.py:8
+#: contrib/flatpages/models.py:7
+#: db/models/fields/__init__.py:1101
+#, fuzzy
 msgid "URL"
-msgstr ""
+msgstr "वेबसाईट"
 
 #: contrib/comments/forms.py:96
+#, fuzzy
 msgid "Comment"
-msgstr ""
+msgstr "टिप्पणी"
 
 #: contrib/comments/forms.py:175
 #, python-format
@@ -1432,76 +1588,82 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: contrib/comments/forms.py:182
-msgid ""
-"If you enter anything in this field your comment will be treated as spam"
+msgid "If you enter anything in this field your comment will be treated as spam"
 msgstr ""
 
-#: contrib/comments/models.py:22 contrib/contenttypes/models.py:81
+#: contrib/comments/models.py:22
+#: contrib/contenttypes/models.py:81
+#, fuzzy
 msgid "content type"
-msgstr ""
+msgstr "फाइल प्रकार:"
 
 #: contrib/comments/models.py:24
+#, fuzzy
 msgid "object ID"
-msgstr ""
+msgstr "पृष्ठ परिचय"
 
 #: contrib/comments/models.py:52
+#, fuzzy
 msgid "user's name"
-msgstr ""
+msgstr "प्रयोगकर्ता नाम: \t%s\n"
 
 #: contrib/comments/models.py:53
+#, fuzzy
 msgid "user's email address"
-msgstr ""
+msgstr "इ-मेल ठेगाना प्रतिलिपि गर्नुहोस्"
 
 #: contrib/comments/models.py:54
+#, fuzzy
 msgid "user's URL"
-msgstr ""
+msgstr "ब्लगको वेवसाइट"
 
-#: contrib/comments/models.py:56 contrib/comments/models.py:76
+#: contrib/comments/models.py:56
+#: contrib/comments/models.py:76
 #: contrib/comments/models.py:169
+#, fuzzy
 msgid "comment"
-msgstr ""
+msgstr "टिप्पणी"
 
 #: contrib/comments/models.py:59
+#, fuzzy
 msgid "date/time submitted"
-msgstr ""
+msgstr "मिति र समय प्रकार्य"
 
-#: contrib/comments/models.py:60 db/models/fields/__init__.py:896
+#: contrib/comments/models.py:60
+#: db/models/fields/__init__.py:896
+#, fuzzy
 msgid "IP address"
-msgstr ""
+msgstr "IP ठेगाना"
 
 #: contrib/comments/models.py:61
+#, fuzzy
 msgid "is public"
-msgstr ""
+msgstr "सार्वजनिक साँचो"
 
 #: contrib/comments/models.py:62
-msgid ""
-"Uncheck this box to make the comment effectively disappear from the site."
+msgid "Uncheck this box to make the comment effectively disappear from the site."
 msgstr ""
 
 #: contrib/comments/models.py:64
+#, fuzzy
 msgid "is removed"
-msgstr ""
+msgstr " %s पूर्ण रुपले हट्यो"
 
 #: contrib/comments/models.py:65
-msgid ""
-"Check this box if the comment is inappropriate. A \"This comment has been "
-"removed\" message will be displayed instead."
+msgid "Check this box if the comment is inappropriate. A \"This comment has been removed\" message will be displayed instead."
 msgstr ""
 
 #: contrib/comments/models.py:77
+#, fuzzy
 msgid "comments"
-msgstr ""
+msgstr "टिप्पणी"
 
 #: contrib/comments/models.py:119
-msgid ""
-"This comment was posted by an authenticated user and thus the name is read-"
-"only."
+msgid "This comment was posted by an authenticated user and thus the name is read-only."
 msgstr ""
 
 #: contrib/comments/models.py:128
-msgid ""
-"This comment was posted by an authenticated user and thus the email is read-"
-"only."
+msgid "This comment was posted by an authenticated user and thus the email is read-only."
 msgstr ""
 
 #: contrib/comments/models.py:153
@@ -1519,81 +1681,95 @@ msgid "flag"
 msgstr ""
 
 #: contrib/comments/models.py:171
+#, fuzzy
 msgid "date"
-msgstr ""
+msgstr "मिति"
 
 #: contrib/comments/models.py:181
+#, fuzzy
 msgid "comment flag"
-msgstr ""
+msgstr "टिप्पणी सम्पादन गर्नुहोस"
 
 #: contrib/comments/models.py:182
+#, fuzzy
 msgid "comment flags"
-msgstr ""
+msgstr "टिप्पणी सम्पादन गर्नुहोस"
 
 #: contrib/comments/templates/comments/approve.html:4
+#, fuzzy
 msgid "Approve a comment"
-msgstr ""
+msgstr "टिप्पणी स्वीकार गर्नुहोस"
 
 #: contrib/comments/templates/comments/approve.html:7
 msgid "Really make this comment public?"
 msgstr ""
 
 #: contrib/comments/templates/comments/approve.html:12
+#, fuzzy
 msgid "Approve"
-msgstr ""
+msgstr "स्वीकार गर्नुहोस"
 
 #: contrib/comments/templates/comments/approved.html:4
+#, fuzzy
 msgid "Thanks for approving"
-msgstr ""
+msgstr "शब्दका लागि सुझावहरू"
 
 #: contrib/comments/templates/comments/approved.html:7
 #: contrib/comments/templates/comments/deleted.html:7
 #: contrib/comments/templates/comments/flagged.html:7
-msgid ""
-"Thanks for taking the time to improve the quality of discussion on our site"
+msgid "Thanks for taking the time to improve the quality of discussion on our site"
 msgstr ""
 
 #: contrib/comments/templates/comments/delete.html:4
+#, fuzzy
 msgid "Remove a comment"
-msgstr ""
+msgstr "टिप्पणी सम्पादन गर्नुहोस"
 
 #: contrib/comments/templates/comments/delete.html:7
+#, fuzzy
 msgid "Really remove this comment?"
-msgstr ""
+msgstr "टिप्पणीका बारेमा जवाफ दिनुहोस"
 
 #: contrib/comments/templates/comments/deleted.html:4
+#, fuzzy
 msgid "Thanks for removing"
-msgstr ""
+msgstr "शब्दका लागि सुझावहरू"
 
 #: contrib/comments/templates/comments/flag.html:4
+#, fuzzy
 msgid "Flag this comment"
-msgstr ""
+msgstr "यो टिप्पणीलाई स्वीकार गर्नुहोस"
 
 #: contrib/comments/templates/comments/flag.html:7
+#, fuzzy
 msgid "Really flag this comment?"
-msgstr ""
+msgstr "टिप्पणीका बारेमा जवाफ दिनुहोस"
 
 #: contrib/comments/templates/comments/flag.html:12
 msgid "Flag"
 msgstr ""
 
 #: contrib/comments/templates/comments/flagged.html:4
+#, fuzzy
 msgid "Thanks for flagging"
-msgstr ""
+msgstr "शब्दका लागि सुझावहरू"
 
 #: contrib/comments/templates/comments/form.html:17
 #: contrib/comments/templates/comments/preview.html:32
+#, fuzzy
 msgid "Post"
-msgstr ""
+msgstr "लेख"
 
 #: contrib/comments/templates/comments/form.html:18
 #: contrib/comments/templates/comments/preview.html:33
+#, fuzzy
 msgid "Preview"
-msgstr ""
+msgstr "पूर्वावलोकन गर्नुहोस्"
 
 #: contrib/comments/templates/comments/posted.html:4
+#, fuzzy
 msgid "Thanks for commenting"
-msgstr ""
+msgstr "शब्दका लागि सुझावहरू"
 
 #: contrib/comments/templates/comments/posted.html:7
 msgid "Thank you for your comment"
@@ -1601,88 +1777,95 @@ msgstr ""
 
 #: contrib/comments/templates/comments/preview.html:4
 #: contrib/comments/templates/comments/preview.html:13
+#, fuzzy
 msgid "Preview your comment"
-msgstr ""
+msgstr "%s प्रतिकृया स्थाइरुपमा मेटियो ।"
 
 #: contrib/comments/templates/comments/preview.html:11
+#, fuzzy
 msgid "Please correct the error below"
 msgid_plural "Please correct the errors below"
-msgstr[0] ""
+msgstr[0] "त्रुटि : कृपया टिप्पणि लेख्नुहोस ।"
 msgstr[1] ""
 
 #: contrib/comments/templates/comments/preview.html:16
+#, fuzzy
 msgid "Post your comment"
-msgstr ""
+msgstr "लेख बचत भयो"
 
 #: contrib/comments/templates/comments/preview.html:16
+#, fuzzy
 msgid "or make changes"
-msgstr ""
+msgstr "त्रुटि अभिव्यक्ति बनाउनुहोस्"
 
 #: contrib/contenttypes/models.py:77
+#, fuzzy
 msgid "python model class name"
-msgstr ""
+msgstr "पाइथोन मोड्युल नाम दिइएको छैन।"
 
 #: contrib/contenttypes/models.py:82
+#, fuzzy
 msgid "content types"
-msgstr ""
+msgstr "सबै प्रकारको"
 
 #: contrib/flatpages/admin.py:9
-msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgid "Example: '/about/contact/'. Make sure to have leading and trailing slashes."
 msgstr ""
 
 #: contrib/flatpages/admin.py:11
-msgid ""
-"This value must contain only letters, numbers, underscores, dashes or "
-"slashes."
+msgid "This value must contain only letters, numbers, underscores, dashes or slashes."
 msgstr ""
 
 #: contrib/flatpages/admin.py:22
+#, fuzzy
 msgid "Advanced options"
-msgstr ""
+msgstr "उन्नत विकल्प"
 
 #: contrib/flatpages/models.py:8
+#, fuzzy
 msgid "title"
-msgstr ""
+msgstr "शीर्षक"
 
 #: contrib/flatpages/models.py:9
+#, fuzzy
 msgid "content"
-msgstr ""
+msgstr "सामाग्री:"
 
 #: contrib/flatpages/models.py:10
+#, fuzzy
 msgid "enable comments"
-msgstr ""
+msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
 
 #: contrib/flatpages/models.py:11
+#, fuzzy
 msgid "template name"
-msgstr ""
+msgstr "टेम्प्लेटको नाम"
 
 #: contrib/flatpages/models.py:12
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
+msgid "Example: 'flatpages/contact_page.html'. If this isn't provided, the system will use 'flatpages/default.html'."
 msgstr ""
 
 #: contrib/flatpages/models.py:13
+#, fuzzy
 msgid "registration required"
-msgstr ""
+msgstr "आवश्यक दर्ता "
 
 #: contrib/flatpages/models.py:13
 msgid "If this is checked, only logged-in users will be able to view the page."
 msgstr ""
 
 #: contrib/flatpages/models.py:18
+#, fuzzy
 msgid "flat page"
-msgstr ""
+msgstr "पृष्ठका लेखक"
 
 #: contrib/flatpages/models.py:19
+#, fuzzy
 msgid "flat pages"
-msgstr ""
+msgstr "पृष्ठहरु सम्पादन गर्नुहोस"
 
 #: contrib/formtools/wizard.py:140
-msgid ""
-"We apologize, but your form has expired. Please continue filling out the "
-"form from this page."
+msgid "We apologize, but your form has expired. Please continue filling out the form from this page."
 msgstr ""
 
 #: contrib/gis/db/models/fields.py:50
@@ -1690,103 +1873,123 @@ msgid "The base GIS field -- maps to the OpenGIS Specification Geometry type."
 msgstr ""
 
 #: contrib/gis/db/models/fields.py:270
+#, fuzzy
 msgid "Point"
-msgstr ""
+msgstr "बिन्दु"
 
 #: contrib/gis/db/models/fields.py:274
+#, fuzzy
 msgid "Line string"
-msgstr ""
+msgstr "स्ट्रिङ प्रकार्यहरू"
 
 #: contrib/gis/db/models/fields.py:278
+#, fuzzy
 msgid "Polygon"
-msgstr ""
+msgstr "स्क्रोलपट्टी गुण"
 
 #: contrib/gis/db/models/fields.py:282
+#, fuzzy
 msgid "Multi-point"
-msgstr ""
+msgstr "DiffServ कोड प्वाइंट"
 
 #: contrib/gis/db/models/fields.py:286
+#, fuzzy
 msgid "Multi-line string"
-msgstr ""
+msgstr "स्ट्रिङ मान बनाउनुहोस्"
 
 #: contrib/gis/db/models/fields.py:290
+#, fuzzy
 msgid "Multi polygon"
-msgstr ""
+msgstr "स्क्रोलपट्टी गुण"
 
 #: contrib/gis/db/models/fields.py:294
+#, fuzzy
 msgid "Geometry collection"
-msgstr ""
+msgstr "ज्यामिति काँटछाँट गर्नुहोस् (पिक्सेल)"
 
 #: contrib/gis/forms/fields.py:17
 msgid "No geometry value provided."
 msgstr ""
 
 #: contrib/gis/forms/fields.py:18
+#, fuzzy
 msgid "Invalid geometry value."
-msgstr ""
+msgstr "-%c ले एउटा मान लिन्छ"
 
 #: contrib/gis/forms/fields.py:19
+#, fuzzy
 msgid "Invalid geometry type."
-msgstr ""
+msgstr "अज्ञात सङ्कुचन प्रकार `%s'!"
 
 #: contrib/gis/forms/fields.py:20
-msgid ""
-"An error occurred when transforming the geometry to the SRID of the geometry "
-"form field."
+msgid "An error occurred when transforming the geometry to the SRID of the geometry form field."
 msgstr ""
 
 #: contrib/humanize/templatetags/humanize.py:19
+#, fuzzy
 msgid "th"
-msgstr ""
+msgstr "कुराकानी विषयवस्तु:"
 
 #: contrib/humanize/templatetags/humanize.py:19
+#, fuzzy
 msgid "st"
-msgstr ""
+msgstr "मान रोक्नुहोस्:"
 
 #: contrib/humanize/templatetags/humanize.py:19
 msgid "nd"
 msgstr ""
 
 #: contrib/humanize/templatetags/humanize.py:19
+#, fuzzy
 msgid "rd"
-msgstr ""
+msgstr "rd"
 
 #: contrib/humanize/templatetags/humanize.py:51
-#, python-format
+#, fuzzy, python-format
 msgid "%(value).1f million"
 msgid_plural "%(value).1f million"
 msgstr[0] ""
+"%.1f x %.1f pts\n"
+"%d x %d पिक्सेल"
 msgstr[1] ""
 
 #: contrib/humanize/templatetags/humanize.py:54
-#, python-format
+#, fuzzy, python-format
 msgid "%(value).1f billion"
 msgid_plural "%(value).1f billion"
 msgstr[0] ""
+"%.1f x %.1f pts\n"
+"%d x %d पिक्सेल"
 msgstr[1] ""
 
 #: contrib/humanize/templatetags/humanize.py:57
-#, python-format
+#, fuzzy, python-format
 msgid "%(value).1f trillion"
 msgid_plural "%(value).1f trillion"
 msgstr[0] ""
+"%.1f x %.1f pts\n"
+"%d x %d पिक्सेल"
 msgstr[1] ""
 
 #: contrib/humanize/templatetags/humanize.py:73
+#, fuzzy
 msgid "one"
-msgstr ""
+msgstr "एउटा स्तम्भ"
 
 #: contrib/humanize/templatetags/humanize.py:73
+#, fuzzy
 msgid "two"
-msgstr ""
+msgstr "दुइवटा स्तम्भहरु"
 
 #: contrib/humanize/templatetags/humanize.py:73
+#, fuzzy
 msgid "three"
-msgstr ""
+msgstr "तीनवटा स्तम्भहरु"
 
 #: contrib/humanize/templatetags/humanize.py:73
+#, fuzzy
 msgid "four"
-msgstr ""
+msgstr "चारवटा स्तम्भहरु"
 
 #: contrib/humanize/templatetags/humanize.py:73
 msgid "five"
@@ -1801,8 +2004,9 @@ msgid "seven"
 msgstr ""
 
 #: contrib/humanize/templatetags/humanize.py:73
+#, fuzzy
 msgid "eight"
-msgstr ""
+msgstr "उचाइ..."
 
 #: contrib/humanize/templatetags/humanize.py:73
 msgid "nine"
@@ -1824,8 +2028,10 @@ msgstr ""
 msgid "Enter a postal code in the format NNNN or ANNNNAAA."
 msgstr ""
 
-#: contrib/localflavor/ar/forms.py:50 contrib/localflavor/br/forms.py:92
-#: contrib/localflavor/br/forms.py:131 contrib/localflavor/pe/forms.py:24
+#: contrib/localflavor/ar/forms.py:50
+#: contrib/localflavor/br/forms.py:92
+#: contrib/localflavor/br/forms.py:131
+#: contrib/localflavor/pe/forms.py:24
 #: contrib/localflavor/pe/forms.py:52
 msgid "This field requires only numbers."
 msgstr ""
@@ -1839,8 +2045,9 @@ msgid "Enter a valid CUIT in XX-XXXXXXXX-X or XXXXXXXXXXXX format."
 msgstr ""
 
 #: contrib/localflavor/ar/forms.py:81
+#, fuzzy
 msgid "Invalid CUIT."
-msgstr ""
+msgstr "अस्विकृत आयातकर्ता  ।"
 
 #: contrib/localflavor/at/at_states.py:5
 msgid "Burgenland"
@@ -1851,12 +2058,14 @@ msgid "Carinthia"
 msgstr ""
 
 #: contrib/localflavor/at/at_states.py:7
+#, fuzzy
 msgid "Lower Austria"
-msgstr ""
+msgstr "अष्ट्रियाको गणराज्य"
 
 #: contrib/localflavor/at/at_states.py:8
+#, fuzzy
 msgid "Upper Austria"
-msgstr ""
+msgstr "अष्ट्रियाको गणराज्य"
 
 #: contrib/localflavor/at/at_states.py:9
 msgid "Salzburg"
@@ -1878,7 +2087,8 @@ msgstr ""
 msgid "Vienna"
 msgstr ""
 
-#: contrib/localflavor/at/forms.py:20 contrib/localflavor/ch/forms.py:17
+#: contrib/localflavor/at/forms.py:20
+#: contrib/localflavor/ch/forms.py:17
 #: contrib/localflavor/no/forms.py:13
 msgid "Enter a zip code in the format XXXX."
 msgstr ""
@@ -1888,8 +2098,9 @@ msgid "Enter a valid Austrian Social Security Number in XXXX XXXXXX format."
 msgstr ""
 
 #: contrib/localflavor/au/forms.py:17
+#, fuzzy
 msgid "Enter a 4 digit post code."
-msgstr ""
+msgstr "डिजिटल प्रदर्शन बाट ६ अङ्क संख्या प्रविष्ट गर्नुहोस् ।"
 
 #: contrib/localflavor/br/forms.py:17
 msgid "Enter a zip code in the format XXXXX-XXX."
@@ -1900,22 +2111,22 @@ msgid "Phone numbers must be in XX-XXXX-XXXX format."
 msgstr ""
 
 #: contrib/localflavor/br/forms.py:54
-msgid ""
-"Select a valid brazilian state. That state is not one of the available "
-"states."
+msgid "Select a valid brazilian state. That state is not one of the available states."
 msgstr ""
 
 #: contrib/localflavor/br/forms.py:90
+#, fuzzy
 msgid "Invalid CPF number."
-msgstr ""
+msgstr "तर्कको अवैध सङ्ख्या"
 
 #: contrib/localflavor/br/forms.py:91
 msgid "This field requires at most 11 digits or 14 characters."
 msgstr ""
 
 #: contrib/localflavor/br/forms.py:130
+#, fuzzy
 msgid "Invalid CNPJ number."
-msgstr ""
+msgstr "तर्कको अवैध सङ्ख्या"
 
 #: contrib/localflavor/br/forms.py:132
 msgid "This field requires at least 14 digits"
@@ -2002,8 +2213,9 @@ msgid "Solothurn"
 msgstr ""
 
 #: contrib/localflavor/ch/ch_states.py:23
+#, fuzzy
 msgid "St. Gallen"
-msgstr ""
+msgstr "मान रोक्नुहोस्:"
 
 #: contrib/localflavor/ch/ch_states.py:24
 msgid "Thurgau"
@@ -2014,8 +2226,9 @@ msgid "Ticino"
 msgstr ""
 
 #: contrib/localflavor/ch/ch_states.py:26
+#, fuzzy
 msgid "Uri"
-msgstr ""
+msgstr "URI"
 
 #: contrib/localflavor/ch/ch_states.py:27
 msgid "Valais"
@@ -2034,9 +2247,7 @@ msgid "Zurich"
 msgstr ""
 
 #: contrib/localflavor/ch/forms.py:65
-msgid ""
-"Enter a valid Swiss identity or passport card number in X1234567<0 or "
-"1234567890 format."
+msgid "Enter a valid Swiss identity or passport card number in X1234567<0 or 1234567890 format."
 msgstr ""
 
 #: contrib/localflavor/cl/forms.py:30
@@ -2048,66 +2259,81 @@ msgid "Enter a valid Chilean RUT. The format is XX.XXX.XXX-X."
 msgstr ""
 
 #: contrib/localflavor/cl/forms.py:32
+#, fuzzy
 msgid "The Chilean RUT is not valid."
-msgstr ""
+msgstr "%s वैध कोठा ह्यान्डल होइन"
 
 #: contrib/localflavor/cz/cz_regions.py:8
 msgid "Prague"
 msgstr ""
 
 #: contrib/localflavor/cz/cz_regions.py:9
+#, fuzzy
 msgid "Central Bohemian Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:10
+#, fuzzy
 msgid "South Bohemian Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:11
+#, fuzzy
 msgid "Pilsen Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:12
+#, fuzzy
 msgid "Carlsbad Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:13
+#, fuzzy
 msgid "Usti Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:14
+#, fuzzy
 msgid "Liberec Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:15
+#, fuzzy
 msgid "Hradec Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:16
+#, fuzzy
 msgid "Pardubice Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:17
+#, fuzzy
 msgid "Vysocina Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:18
+#, fuzzy
 msgid "South Moravian Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:19
+#, fuzzy
 msgid "Olomouc Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:20
+#, fuzzy
 msgid "Zlin Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/cz/cz_regions.py:21
+#, fuzzy
 msgid "Moravian-Silesian Region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
-#: contrib/localflavor/cz/forms.py:28 contrib/localflavor/sk/forms.py:30
+#: contrib/localflavor/cz/forms.py:28
+#: contrib/localflavor/sk/forms.py:30
 msgid "Enter a postal code in the format XXXXX or XXX XX."
 msgstr ""
 
@@ -2120,12 +2346,14 @@ msgid "Invalid optional parameter Gender, valid values are 'f' and 'm'"
 msgstr ""
 
 #: contrib/localflavor/cz/forms.py:50
+#, fuzzy
 msgid "Enter a valid birth number."
-msgstr ""
+msgstr "डिजिटल प्रदर्शन बाट ६ अङ्क संख्या प्रविष्ट गर्नुहोस् ।"
 
 #: contrib/localflavor/cz/forms.py:107
+#, fuzzy
 msgid "Enter a valid IC number."
-msgstr ""
+msgstr "डिजिटल प्रदर्शन बाट ६ अङ्क संख्या प्रविष्ट गर्नुहोस् ।"
 
 #: contrib/localflavor/de/de_states.py:5
 msgid "Baden-Wuerttemberg"
@@ -2160,8 +2388,9 @@ msgid "Mecklenburg-Western Pomerania"
 msgstr ""
 
 #: contrib/localflavor/de/de_states.py:13
+#, fuzzy
 msgid "Lower Saxony"
-msgstr ""
+msgstr "तल्लो सीमा:"
 
 #: contrib/localflavor/de/de_states.py:14
 msgid "North Rhine-Westphalia"
@@ -2191,15 +2420,14 @@ msgstr ""
 msgid "Thuringia"
 msgstr ""
 
-#: contrib/localflavor/de/forms.py:15 contrib/localflavor/fi/forms.py:13
+#: contrib/localflavor/de/forms.py:15
+#: contrib/localflavor/fi/forms.py:13
 #: contrib/localflavor/fr/forms.py:16
 msgid "Enter a zip code in the format XXXXX."
 msgstr ""
 
 #: contrib/localflavor/de/forms.py:42
-msgid ""
-"Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X "
-"format."
+msgid "Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X format."
 msgstr ""
 
 #: contrib/localflavor/es/es_provinces.py:5
@@ -2251,8 +2479,9 @@ msgid "Castello"
 msgstr ""
 
 #: contrib/localflavor/es/es_provinces.py:17
+#, fuzzy
 msgid "Ciudad Real"
-msgstr ""
+msgstr "वास्तविक नाम: \t%s\n"
 
 #: contrib/localflavor/es/es_provinces.py:18
 msgid "Cordoba"
@@ -2422,28 +2651,33 @@ msgid "Aragon"
 msgstr ""
 
 #: contrib/localflavor/es/es_regions.py:7
+#, fuzzy
 msgid "Principality of Asturias"
-msgstr ""
+msgstr "एनडोर्राको राष्ट्र"
 
 #: contrib/localflavor/es/es_regions.py:8
+#, fuzzy
 msgid "Balearic Islands"
-msgstr ""
+msgstr "सैम्यान टापु"
 
 #: contrib/localflavor/es/es_regions.py:9
+#, fuzzy
 msgid "Basque Country"
-msgstr ""
+msgstr "ट्युनर राष्ट्र कोड"
 
 #: contrib/localflavor/es/es_regions.py:10
+#, fuzzy
 msgid "Canary Islands"
-msgstr ""
+msgstr "सैम्यान टापु"
 
 #: contrib/localflavor/es/es_regions.py:12
 msgid "Castile-La Mancha"
 msgstr ""
 
 #: contrib/localflavor/es/es_regions.py:13
+#, fuzzy
 msgid "Castile and Leon"
-msgstr ""
+msgstr "दिन र नाम"
 
 #: contrib/localflavor/es/es_regions.py:14
 msgid "Catalonia"
@@ -2458,8 +2692,9 @@ msgid "Galicia"
 msgstr ""
 
 #: contrib/localflavor/es/es_regions.py:19
+#, fuzzy
 msgid "Region of Murcia"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/es/es_regions.py:20
 msgid "Foral Community of Navarre"
@@ -2474,9 +2709,7 @@ msgid "Enter a valid postal code in the range and format 01XXX - 52XXX."
 msgstr ""
 
 #: contrib/localflavor/es/forms.py:40
-msgid ""
-"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
-"9XXXXXXXX."
+msgid "Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or 9XXXXXXXX."
 msgstr ""
 
 #: contrib/localflavor/es/forms.py:67
@@ -2488,20 +2721,22 @@ msgid "Please enter a valid NIF or NIE."
 msgstr ""
 
 #: contrib/localflavor/es/forms.py:69
+#, fuzzy
 msgid "Invalid checksum for NIF."
-msgstr ""
+msgstr "--%s का लागि इन्जिटर अवैध: `%.250s'   "
 
 #: contrib/localflavor/es/forms.py:70
+#, fuzzy
 msgid "Invalid checksum for NIE."
-msgstr ""
+msgstr "--%s का लागि इन्जिटर अवैध: `%.250s'   "
 
 #: contrib/localflavor/es/forms.py:71
+#, fuzzy
 msgid "Invalid checksum for CIF."
-msgstr ""
+msgstr "--%s का लागि इन्जिटर अवैध: `%.250s'   "
 
 #: contrib/localflavor/es/forms.py:143
-msgid ""
-"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgid "Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
 msgstr ""
 
 #: contrib/localflavor/es/forms.py:144
@@ -2520,9 +2755,11 @@ msgstr ""
 msgid "Enter a valid post code"
 msgstr ""
 
-#: contrib/localflavor/id/forms.py:68 contrib/localflavor/nl/forms.py:53
+#: contrib/localflavor/id/forms.py:68
+#: contrib/localflavor/nl/forms.py:53
+#, fuzzy
 msgid "Enter a valid phone number"
-msgstr ""
+msgstr "तपाईँको घरको फोन नम्बर सेट गर्नुहोस् ।"
 
 #: contrib/localflavor/id/forms.py:107
 msgid "Enter a valid vehicle license plate number"
@@ -2637,12 +2874,14 @@ msgid "Nusa Tenggara Timur"
 msgstr ""
 
 #: contrib/localflavor/id/id_choices.py:31
+#, fuzzy
 msgid "Papua"
-msgstr ""
+msgstr "पपुवा न्यू जिनिया"
 
 #: contrib/localflavor/id/id_choices.py:32
+#, fuzzy
 msgid "Papua Barat"
-msgstr ""
+msgstr "पपुवा न्यू जिनिया"
 
 #: contrib/localflavor/id/id_choices.py:33
 #: contrib/localflavor/id/id_choices.py:60
@@ -2729,8 +2968,9 @@ msgid "Sulawesi Utara Daratan"
 msgstr ""
 
 #: contrib/localflavor/id/id_choices.py:72
+#, fuzzy
 msgid "NTT - Timor"
-msgstr ""
+msgstr "टिमोर-लेस्टे"
 
 #: contrib/localflavor/id/id_choices.py:74
 msgid "Sulawesi Utara Kepulauan"
@@ -2741,8 +2981,9 @@ msgid "NTB - Lombok"
 msgstr ""
 
 #: contrib/localflavor/id/id_choices.py:78
+#, fuzzy
 msgid "Papua dan Papua Barat"
-msgstr ""
+msgstr "पपुवा न्यू जिनिया"
 
 #: contrib/localflavor/id/id_choices.py:80
 msgid "Cirebon"
@@ -2797,8 +3038,9 @@ msgid "Banyumas"
 msgstr ""
 
 #: contrib/localflavor/id/id_choices.py:96
+#, fuzzy
 msgid "Federal Government"
-msgstr ""
+msgstr "जर्मनीको संघीय गणराज्य"
 
 #: contrib/localflavor/id/id_choices.py:97
 msgid "Bojonegoro"
@@ -2849,8 +3091,9 @@ msgid "Donegal"
 msgstr ""
 
 #: contrib/localflavor/ie/ie_counties.py:16
+#, fuzzy
 msgid "Down"
-msgstr ""
+msgstr "तल"
 
 #: contrib/localflavor/ie/ie_counties.py:17
 msgid "Dublin"
@@ -2949,8 +3192,7 @@ msgid "Enter a zip code in the format XXXXXXX."
 msgstr ""
 
 #: contrib/localflavor/is_/forms.py:18
-msgid ""
-"Enter a valid Icelandic identification number. The format is XXXXXX-XXXX."
+msgid "Enter a valid Icelandic identification number. The format is XXXXXX-XXXX."
 msgstr ""
 
 #: contrib/localflavor/is_/forms.py:19
@@ -2966,8 +3208,9 @@ msgid "Enter a valid Social Security number."
 msgstr ""
 
 #: contrib/localflavor/it/forms.py:69
+#, fuzzy
 msgid "Enter a valid VAT number."
-msgstr ""
+msgstr "डिजिटल प्रदर्शन बाट ६ अङ्क संख्या प्रविष्ट गर्नुहोस् ।"
 
 #: contrib/localflavor/jp/forms.py:16
 msgid "Enter a postal code in the format XXXXXXX or XXX-XXXX."
@@ -3198,8 +3441,9 @@ msgid "Colima"
 msgstr ""
 
 #: contrib/localflavor/mx/mx_states.py:20
+#, fuzzy
 msgid "Distrito Federal"
-msgstr ""
+msgstr "जर्मनीको संघीय गणराज्य"
 
 #: contrib/localflavor/mx/mx_states.py:21
 msgid "Durango"
@@ -3262,8 +3506,9 @@ msgid "Sinaloa"
 msgstr ""
 
 #: contrib/localflavor/mx/mx_states.py:36
+#, fuzzy
 msgid "San Luis Potosí"
-msgstr ""
+msgstr "सान मारिनोको गणराज्य"
 
 #: contrib/localflavor/mx/mx_states.py:37
 msgid "Sonora"
@@ -3298,8 +3543,9 @@ msgid "Enter a valid postal code"
 msgstr ""
 
 #: contrib/localflavor/nl/forms.py:79
+#, fuzzy
 msgid "Enter a valid SoFi number"
-msgstr ""
+msgstr "डिजिटल प्रदर्शन बाट ६ अङ्क संख्या प्रविष्ट गर्नुहोस् ।"
 
 #: contrib/localflavor/nl/nl_provinces.py:4
 msgid "Drenthe"
@@ -3354,8 +3600,9 @@ msgid "Enter a valid Norwegian social security number."
 msgstr ""
 
 #: contrib/localflavor/pe/forms.py:25
+#, fuzzy
 msgid "This field requires 8 digits."
-msgstr ""
+msgstr "यो फ्रन्टइन्डलाई नियन्त्रण tty आवश्यक पर्दछ ।"
 
 #: contrib/localflavor/pe/forms.py:53
 msgid "This field requires 11 digits."
@@ -3370,8 +3617,7 @@ msgid "Wrong checksum for the National Identification Number."
 msgstr ""
 
 #: contrib/localflavor/pl/forms.py:71
-msgid ""
-"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX or XX-XX-XXX-XXX."
+msgid "Enter a tax number field (NIP) in the format XXX-XXX-XX-XX or XX-XX-XXX-XXX."
 msgstr ""
 
 #: contrib/localflavor/pl/forms.py:72
@@ -3391,8 +3637,9 @@ msgid "Enter a postal code in the format XX-XXX."
 msgstr ""
 
 #: contrib/localflavor/pl/pl_voivodeships.py:8
+#, fuzzy
 msgid "Lower Silesia"
-msgstr ""
+msgstr "तल्लो सीमा:"
 
 #: contrib/localflavor/pl/pl_voivodeships.py:9
 msgid "Kuyavia-Pomerania"
@@ -3411,8 +3658,9 @@ msgid "Lodz"
 msgstr ""
 
 #: contrib/localflavor/pl/pl_voivodeships.py:13
+#, fuzzy
 msgid "Lesser Poland"
-msgstr ""
+msgstr "पोल्याण्डको गणराज्य"
 
 #: contrib/localflavor/pl/pl_voivodeships.py:14
 msgid "Masovia"
@@ -3447,8 +3695,9 @@ msgid "Warmia-Masuria"
 msgstr ""
 
 #: contrib/localflavor/pl/pl_voivodeships.py:22
+#, fuzzy
 msgid "Greater Poland"
-msgstr ""
+msgstr "पोल्याण्डको गणराज्य"
 
 #: contrib/localflavor/pl/pl_voivodeships.py:23
 msgid "West Pomerania"
@@ -3463,12 +3712,14 @@ msgid "Phone numbers must have 9 digits, or start by + or 00."
 msgstr ""
 
 #: contrib/localflavor/ro/forms.py:19
+#, fuzzy
 msgid "Enter a valid CIF."
-msgstr ""
+msgstr "बैध प्राथमिकता निम्न हुन्: %s"
 
 #: contrib/localflavor/ro/forms.py:56
+#, fuzzy
 msgid "Enter a valid CNP."
-msgstr ""
+msgstr "बैध प्राथमिकता निम्न हुन्: %s"
 
 #: contrib/localflavor/ro/forms.py:141
 msgid "Enter a valid IBAN in ROXX-XXXX-XXXX-XXXX-XXXX-XXXX format"
@@ -3607,8 +3858,9 @@ msgid "Bratislava I"
 msgstr ""
 
 #: contrib/localflavor/sk/sk_districts.py:14
+#, fuzzy
 msgid "Bratislava II"
-msgstr ""
+msgstr "गम्बेल (प्रकार २)"
 
 #: contrib/localflavor/sk/sk_districts.py:15
 msgid "Bratislava III"
@@ -3675,8 +3927,9 @@ msgid "Kosice I"
 msgstr ""
 
 #: contrib/localflavor/sk/sk_districts.py:31
+#, fuzzy
 msgid "Kosice II"
-msgstr ""
+msgstr "गम्बेल (प्रकार २)"
 
 #: contrib/localflavor/sk/sk_districts.py:32
 msgid "Kosice III"
@@ -3899,40 +4152,49 @@ msgid "Zilina"
 msgstr ""
 
 #: contrib/localflavor/sk/sk_regions.py:8
+#, fuzzy
 msgid "Banska Bystrica region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/sk/sk_regions.py:9
+#, fuzzy
 msgid "Bratislava region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/sk/sk_regions.py:10
+#, fuzzy
 msgid "Kosice region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/sk/sk_regions.py:11
+#, fuzzy
 msgid "Nitra region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/sk/sk_regions.py:12
+#, fuzzy
 msgid "Presov region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/sk/sk_regions.py:13
+#, fuzzy
 msgid "Trencin region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/sk/sk_regions.py:14
+#, fuzzy
 msgid "Trnava region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/sk/sk_regions.py:15
+#, fuzzy
 msgid "Zilina region"
-msgstr ""
+msgstr "चयन गरिएको प्रदेशलाई क्रमबद्ध गर्नुहोस्"
 
 #: contrib/localflavor/uk/forms.py:21
+#, fuzzy
 msgid "Enter a valid postcode."
-msgstr ""
+msgstr "बैध प्राथमिकता निम्न हुन्: %s"
 
 #: contrib/localflavor/uk/uk_regions.py:11
 msgid "Bedfordshire"
@@ -4019,8 +4281,9 @@ msgid "Merseyside"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:33
+#, fuzzy
 msgid "Norfolk"
-msgstr ""
+msgstr "नर फक टापु"
 
 #: contrib/localflavor/uk/uk_regions.py:34
 msgid "North Yorkshire"
@@ -4051,8 +4314,9 @@ msgid "Somerset"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:41
+#, fuzzy
 msgid "South Yorkshire"
-msgstr ""
+msgstr "दक्षिण अफ्रिका"
 
 #: contrib/localflavor/uk/uk_regions.py:42
 msgid "Staffordshire"
@@ -4067,8 +4331,9 @@ msgid "Surrey"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:45
+#, fuzzy
 msgid "Tyne and Wear"
-msgstr ""
+msgstr "दिन र नाम"
 
 #: contrib/localflavor/uk/uk_regions.py:46
 msgid "Warwickshire"
@@ -4103,8 +4368,9 @@ msgid "County Armagh"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:57
+#, fuzzy
 msgid "County Down"
-msgstr ""
+msgstr "तल प्रतिलिपि बनाउनुहोस्"
 
 #: contrib/localflavor/uk/uk_regions.py:58
 msgid "County Fermanagh"
@@ -4143,24 +4409,28 @@ msgid "Powys"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:70
+#, fuzzy
 msgid "South Glamorgan"
-msgstr ""
+msgstr "दक्षिण अफ्रिका"
 
 #: contrib/localflavor/uk/uk_regions.py:71
 msgid "West Glamorgan"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:75
+#, fuzzy
 msgid "Borders"
-msgstr ""
+msgstr "किनारा"
 
 #: contrib/localflavor/uk/uk_regions.py:76
+#, fuzzy
 msgid "Central Scotland"
-msgstr ""
+msgstr "केन्द्रिय अफ्रिकी गणराज्य"
 
 #: contrib/localflavor/uk/uk_regions.py:77
+#, fuzzy
 msgid "Dumfries and Galloway"
-msgstr ""
+msgstr "दिन र नाम"
 
 #: contrib/localflavor/uk/uk_regions.py:78
 msgid "Fife"
@@ -4179,12 +4449,14 @@ msgid "Lothian"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:82
+#, fuzzy
 msgid "Orkney Islands"
-msgstr ""
+msgstr "सैम्यान टापु"
 
 #: contrib/localflavor/uk/uk_regions.py:83
+#, fuzzy
 msgid "Shetland Islands"
-msgstr ""
+msgstr "सैम्यान टापु"
 
 #: contrib/localflavor/uk/uk_regions.py:84
 msgid "Strathclyde"
@@ -4195,16 +4467,18 @@ msgid "Tayside"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:86
+#, fuzzy
 msgid "Western Isles"
-msgstr ""
+msgstr "पश्चिमी सहारा"
 
 #: contrib/localflavor/uk/uk_regions.py:90
 msgid "England"
 msgstr ""
 
 #: contrib/localflavor/uk/uk_regions.py:91
+#, fuzzy
 msgid "Northern Ireland"
-msgstr ""
+msgstr "उत्तरिय मरिआना टापु"
 
 #: contrib/localflavor/uk/uk_regions.py:92
 msgid "Scotland"
@@ -4235,16 +4509,18 @@ msgid "U.S. state (two uppercase letters)"
 msgstr ""
 
 #: contrib/localflavor/us/models.py:17
+#, fuzzy
 msgid "Phone number"
-msgstr ""
+msgstr "स्तम्भहरु:"
 
 #: contrib/localflavor/uy/forms.py:28
 msgid "Enter a valid CI number in X.XXX.XXX-X,XXXXXXX-X or XXXXXXXX format."
 msgstr ""
 
 #: contrib/localflavor/uy/forms.py:30
+#, fuzzy
 msgid "Enter a valid CI number."
-msgstr ""
+msgstr "डिजिटल प्रदर्शन बाट ६ अङ्क संख्या प्रविष्ट गर्नुहोस् ।"
 
 #: contrib/localflavor/za/forms.py:21
 msgid "Enter a valid South African ID number"
@@ -4255,12 +4531,14 @@ msgid "Enter a valid South African postal code"
 msgstr ""
 
 #: contrib/localflavor/za/za_provinces.py:4
+#, fuzzy
 msgid "Eastern Cape"
-msgstr ""
+msgstr "केप वर्दी"
 
 #: contrib/localflavor/za/za_provinces.py:5
+#, fuzzy
 msgid "Free State"
-msgstr ""
+msgstr "इज्रायलको राज्य"
 
 #: contrib/localflavor/za/za_provinces.py:6
 msgid "Gauteng"
@@ -4279,39 +4557,40 @@ msgid "Mpumalanga"
 msgstr ""
 
 #: contrib/localflavor/za/za_provinces.py:10
+#, fuzzy
 msgid "Northern Cape"
-msgstr ""
+msgstr "केप वर्दी"
 
 #: contrib/localflavor/za/za_provinces.py:11
 msgid "North West"
 msgstr ""
 
 #: contrib/localflavor/za/za_provinces.py:12
+#, fuzzy
 msgid "Western Cape"
-msgstr ""
+msgstr "केप वर्दी"
 
 #: contrib/messages/tests/base.py:101
+#, fuzzy
 msgid "lazy message"
-msgstr ""
+msgstr "अनुकूल सन्देश"
 
 #: contrib/redirects/models.py:7
+#, fuzzy
 msgid "redirect from"
-msgstr ""
+msgstr "अहिले देखि %s"
 
 #: contrib/redirects/models.py:8
-msgid ""
-"This should be an absolute path, excluding the domain name. Example: '/"
-"events/search/'."
+msgid "This should be an absolute path, excluding the domain name. Example: '/events/search/'."
 msgstr ""
 
 #: contrib/redirects/models.py:9
+#, fuzzy
 msgid "redirect to"
-msgstr ""
+msgstr "पुन: नामकरण: `%s' लाई `%s' मा पुन: नामकरण गर्नुहोस्: %s"
 
 #: contrib/redirects/models.py:10
-msgid ""
-"This can be either an absolute path (as above) or a full URL starting with "
-"'http://'."
+msgid "This can be either an absolute path (as above) or a full URL starting with 'http://'."
 msgstr ""
 
 #: contrib/redirects/models.py:13
@@ -4323,59 +4602,76 @@ msgid "redirects"
 msgstr ""
 
 #: contrib/sessions/models.py:45
+#, fuzzy
 msgid "session key"
-msgstr ""
+msgstr "सार्वजनिक साँचो"
 
 #: contrib/sessions/models.py:47
+#, fuzzy
 msgid "session data"
-msgstr ""
+msgstr "क्याट (डेटा)"
 
 #: contrib/sessions/models.py:48
+#, fuzzy
 msgid "expire date"
-msgstr ""
+msgstr "मिति/समय"
 
 #: contrib/sessions/models.py:53
+#, fuzzy
 msgid "session"
-msgstr ""
+msgstr "सत्र"
 
 #: contrib/sessions/models.py:54
+#, fuzzy
 msgid "sessions"
-msgstr ""
+msgstr "अति धेरै सत्रहरू"
 
 #: contrib/sites/models.py:32
+#, fuzzy
 msgid "domain name"
-msgstr ""
+msgstr "समुहको नाम"
 
 #: contrib/sites/models.py:33
+#, fuzzy
 msgid "display name"
-msgstr ""
+msgstr "सेवाको नाम प्रर्दशन गर्नुहोस्"
 
 #: contrib/sites/models.py:39
 msgid "sites"
 msgstr ""
 
-#: core/validators.py:20 forms/fields.py:66
+#: core/validators.py:20
+#: forms/fields.py:66
+#, fuzzy
 msgid "Enter a valid value."
-msgstr ""
+msgstr "-%c ले एउटा मान लिन्छ"
 
-#: core/validators.py:87 forms/fields.py:529
+#: core/validators.py:87
+#: forms/fields.py:529
+#, fuzzy
 msgid "Enter a valid URL."
 msgstr ""
+"म्यानुअल:\n"
+"(URLका लागि%s)"
 
-#: core/validators.py:89 forms/fields.py:530
+#: core/validators.py:89
+#: forms/fields.py:530
 msgid "This URL appears to be a broken link."
 msgstr ""
 
-#: core/validators.py:123 forms/fields.py:873
-msgid ""
-"Enter a valid 'slug' consisting of letters, numbers, underscores or hyphens."
+#: core/validators.py:123
+#: forms/fields.py:873
+msgid "Enter a valid 'slug' consisting of letters, numbers, underscores or hyphens."
 msgstr ""
 
-#: core/validators.py:126 forms/fields.py:866
+#: core/validators.py:126
+#: forms/fields.py:866
+#, fuzzy
 msgid "Enter a valid IPv4 address."
-msgstr ""
+msgstr "IPv4 मल्टिकास्ट निर्गत इन्टरफेस ठेगाना"
 
-#: core/validators.py:129 db/models/fields/__init__.py:572
+#: core/validators.py:129
+#: db/models/fields/__init__.py:572
 msgid "Enter only digits separated by commas."
 msgstr ""
 
@@ -4384,28 +4680,28 @@ msgstr ""
 msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
 msgstr ""
 
-#: core/validators.py:153 forms/fields.py:205 forms/fields.py:257
+#: core/validators.py:153
+#: forms/fields.py:205
+#: forms/fields.py:257
 #, python-format
 msgid "Ensure this value is less than or equal to %(limit_value)s."
 msgstr ""
 
-#: core/validators.py:158 forms/fields.py:206 forms/fields.py:258
+#: core/validators.py:158
+#: forms/fields.py:206
+#: forms/fields.py:258
 #, python-format
 msgid "Ensure this value is greater than or equal to %(limit_value)s."
 msgstr ""
 
 #: core/validators.py:164
 #, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d characters (it has %"
-"(show_value)d)."
+msgid "Ensure this value has at least %(limit_value)d characters (it has %(show_value)d)."
 msgstr ""
 
 #: core/validators.py:170
 #, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d characters (it has %"
-"(show_value)d)."
+msgid "Ensure this value has at most %(limit_value)d characters (it has %(show_value)d)."
 msgstr ""
 
 #: db/models/base.py:823
@@ -4413,15 +4709,16 @@ msgstr ""
 msgid "%(field_name)s must be unique for %(date_field)s %(lookup)s."
 msgstr ""
 
-#: db/models/base.py:838 db/models/base.py:846
+#: db/models/base.py:838
+#: db/models/base.py:846
 #, python-format
 msgid "%(model_name)s with this %(field_label)s already exists."
 msgstr ""
 
 #: db/models/fields/__init__.py:63
-#, python-format
+#, fuzzy, python-format
 msgid "Value %r is not a valid choice."
-msgstr ""
+msgstr "'मानमा:' दिइएको मान वैध छैन।"
 
 #: db/models/fields/__init__.py:64
 msgid "This field cannot be null."
@@ -4432,17 +4729,21 @@ msgid "This field cannot be blank."
 msgstr ""
 
 #: db/models/fields/__init__.py:70
-#, python-format
+#, fuzzy, python-format
 msgid "Field of type: %(field_type)s"
-msgstr ""
+msgstr "फाइल प्रकार:"
 
-#: db/models/fields/__init__.py:451 db/models/fields/__init__.py:852
-#: db/models/fields/__init__.py:961 db/models/fields/__init__.py:972
+#: db/models/fields/__init__.py:451
+#: db/models/fields/__init__.py:852
+#: db/models/fields/__init__.py:961
+#: db/models/fields/__init__.py:972
 #: db/models/fields/__init__.py:999
+#, fuzzy
 msgid "Integer"
-msgstr ""
+msgstr "इन्टिजर"
 
-#: db/models/fields/__init__.py:455 db/models/fields/__init__.py:850
+#: db/models/fields/__init__.py:455
+#: db/models/fields/__init__.py:850
 msgid "This value must be an integer."
 msgstr ""
 
@@ -4454,64 +4755,74 @@ msgstr ""
 msgid "Boolean (Either True or False)"
 msgstr ""
 
-#: db/models/fields/__init__.py:539 db/models/fields/__init__.py:982
+#: db/models/fields/__init__.py:539
+#: db/models/fields/__init__.py:982
 #, python-format
 msgid "String (up to %(max_length)s)"
 msgstr ""
 
 #: db/models/fields/__init__.py:567
+#, fuzzy
 msgid "Comma-separated integers"
-msgstr ""
+msgstr "अल्पविराम छुट्याइएका मानहरू (सिएसभि)"
 
 #: db/models/fields/__init__.py:581
+#, fuzzy
 msgid "Date (without time)"
-msgstr ""
+msgstr "मिति र समय प्रकार्य"
 
 #: db/models/fields/__init__.py:585
 msgid "Enter a valid date in YYYY-MM-DD format."
 msgstr ""
 
 #: db/models/fields/__init__.py:586
-#, python-format
+#, fuzzy, python-format
 msgid "Invalid date: %s"
-msgstr ""
+msgstr "मिति/समय"
 
 #: db/models/fields/__init__.py:667
 msgid "Enter a valid date/time in YYYY-MM-DD HH:MM[:ss[.uuuuuu]] format."
 msgstr ""
 
 #: db/models/fields/__init__.py:669
+#, fuzzy
 msgid "Date (with time)"
-msgstr ""
+msgstr "मिति र समय प्रकार्य"
 
 #: db/models/fields/__init__.py:735
 msgid "This value must be a decimal number."
 msgstr ""
 
 #: db/models/fields/__init__.py:737
+#, fuzzy
 msgid "Decimal number"
-msgstr ""
+msgstr "स्तम्भहरु:"
 
 #: db/models/fields/__init__.py:792
+#, fuzzy
 msgid "E-mail address"
-msgstr ""
+msgstr "इमेल ठेगाना"
 
-#: db/models/fields/__init__.py:799 db/models/fields/files.py:220
+#: db/models/fields/__init__.py:799
+#: db/models/fields/files.py:220
 #: db/models/fields/files.py:331
+#, fuzzy
 msgid "File path"
-msgstr ""
+msgstr "नक्कल मार्ग %s"
 
 #: db/models/fields/__init__.py:822
 msgid "This value must be a float."
 msgstr ""
 
 #: db/models/fields/__init__.py:824
+#, fuzzy
 msgid "Floating point number"
-msgstr ""
+msgstr "b:कालो बलहरूको सङ्ख्या"
 
 #: db/models/fields/__init__.py:883
+#, fuzzy
 msgid "Big (8 byte) integer"
-msgstr ""
+msgstr "'%s' एउटा इन्टिजर होइन"
 
 #: db/models/fields/__init__.py:912
 msgid "This value must be either None, True or False."
@@ -4522,20 +4833,23 @@ msgid "Boolean (Either True, False or None)"
 msgstr ""
 
 #: db/models/fields/__init__.py:1005
+#, fuzzy
 msgid "Text"
-msgstr ""
+msgstr "पाठ"
 
 #: db/models/fields/__init__.py:1021
+#, fuzzy
 msgid "Time"
-msgstr ""
+msgstr "समय"
 
 #: db/models/fields/__init__.py:1025
 msgid "Enter a valid time in HH:MM[:ss[.uuuuuu]] format."
 msgstr ""
 
 #: db/models/fields/__init__.py:1109
+#, fuzzy
 msgid "XML text"
-msgstr ""
+msgstr "शब्दहरु लुकाउनुहोस"
 
 #: db/models/fields/related.py:799
 #, python-format
@@ -4547,37 +4861,41 @@ msgid "Foreign Key (type determined by related field)"
 msgstr ""
 
 #: db/models/fields/related.py:918
+#, fuzzy
 msgid "One-to-one relationship"
-msgstr ""
+msgstr "नचाहिने ठाँउमा सार्नुहोस "
 
 #: db/models/fields/related.py:980
+#, fuzzy
 msgid "Many-to-many relationship"
-msgstr ""
+msgstr "FNDमा धेरै हिटहरू छन्"
 
 #: db/models/fields/related.py:1000
-msgid ""
-"Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
+msgid "Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
 msgstr ""
 
 #: db/models/fields/related.py:1061
 #, python-format
 msgid "Please enter valid %(self)s IDs. The value %(value)r is invalid."
-msgid_plural ""
-"Please enter valid %(self)s IDs. The values %(value)r are invalid."
+msgid_plural "Please enter valid %(self)s IDs. The values %(value)r are invalid."
 msgstr[0] ""
 msgstr[1] ""
 
 #: forms/fields.py:65
+#, fuzzy
 msgid "This field is required."
-msgstr ""
+msgstr "पाना नाम आवश्यक"
 
 #: forms/fields.py:204
+#, fuzzy
 msgid "Enter a whole number."
-msgstr ""
+msgstr "b:कालो बलहरूको सङ्ख्या"
 
-#: forms/fields.py:235 forms/fields.py:256
+#: forms/fields.py:235
+#: forms/fields.py:256
+#, fuzzy
 msgid "Enter a number."
-msgstr ""
+msgstr "स्तम्भहरु:"
 
 #: forms/fields.py:259
 #, python-format
@@ -4594,54 +4912,64 @@ msgstr ""
 msgid "Ensure that there are no more than %s digits before the decimal point."
 msgstr ""
 
-#: forms/fields.py:323 forms/fields.py:838
+#: forms/fields.py:323
+#: forms/fields.py:838
+#, fuzzy
 msgid "Enter a valid date."
-msgstr ""
+msgstr "'%s' एउटा मान्य मिति होइन"
 
-#: forms/fields.py:351 forms/fields.py:839
+#: forms/fields.py:351
+#: forms/fields.py:839
+#, fuzzy
 msgid "Enter a valid time."
-msgstr ""
+msgstr "समयको रूपमा ढाँचाबद्ध गर्नुहोस्"
 
 #: forms/fields.py:377
+#, fuzzy
 msgid "Enter a valid date/time."
-msgstr ""
+msgstr "मिति र समय प्रकार्य"
 
 #: forms/fields.py:435
 msgid "No file was submitted. Check the encoding type on the form."
 msgstr ""
 
 #: forms/fields.py:436
+#, fuzzy
 msgid "No file was submitted."
-msgstr ""
+msgstr "प्रवेश परिचय उपल्ब्ध गराउनु भएन"
 
 #: forms/fields.py:437
+#, fuzzy
 msgid "The submitted file is empty."
-msgstr ""
+msgstr "संस्करण स्ट्रिङ् रित्तो छ"
 
 #: forms/fields.py:438
 #, python-format
-msgid ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgid "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr ""
 
 #: forms/fields.py:473
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
+msgid "Upload a valid image. The file you uploaded was either not an image or a corrupted image."
 msgstr ""
 
-#: forms/fields.py:596 forms/fields.py:671
+#: forms/fields.py:596
+#: forms/fields.py:671
 #, python-format
 msgid "Select a valid choice. %(value)s is not one of the available choices."
 msgstr ""
 
-#: forms/fields.py:672 forms/fields.py:734 forms/models.py:1002
+#: forms/fields.py:672
+#: forms/fields.py:734
+#: forms/models.py:1002
+#, fuzzy
 msgid "Enter a list of values."
-msgstr ""
+msgstr "अन्य मानहरू खोजी गर्नुहोस्"
 
-#: forms/formsets.py:298 forms/formsets.py:300
+#: forms/formsets.py:298
+#: forms/formsets.py:300
+#, fuzzy
 msgid "Order"
-msgstr ""
+msgstr "क्रम"
 
 #: forms/models.py:562
 #, python-format
@@ -4655,9 +4983,7 @@ msgstr ""
 
 #: forms/models.py:572
 #, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
+msgid "Please correct the duplicate data for %(field_name)s which must be unique for the %(lookup)s in %(date_field)s."
 msgstr ""
 
 #: forms/models.py:580
@@ -4683,30 +5009,31 @@ msgid "\"%s\" is not a valid value for a primary key."
 msgstr ""
 
 #: template/defaultfilters.py:776
+#, fuzzy
 msgid "yes,no,maybe"
-msgstr ""
+msgstr "बोलेइन फाँटमा हो/होइन"
 
 #: template/defaultfilters.py:807
-#, python-format
+#, fuzzy, python-format
 msgid "%(size)d byte"
 msgid_plural "%(size)d bytes"
-msgstr[0] ""
+msgstr[0] "फन्ट साइज"
 msgstr[1] ""
 
 #: template/defaultfilters.py:809
-#, python-format
+#, fuzzy, python-format
 msgid "%.1f KB"
-msgstr ""
+msgstr "%.1f kB"
 
 #: template/defaultfilters.py:811
-#, python-format
+#, fuzzy, python-format
 msgid "%.1f MB"
-msgstr ""
+msgstr "%.1f MB"
 
 #: template/defaultfilters.py:812
-#, python-format
+#, fuzzy, python-format
 msgid "%.1f GB"
-msgstr ""
+msgstr "%.1f GB"
 
 #: utils/dateformat.py:42
 msgid "p.m."
@@ -4717,12 +5044,14 @@ msgid "a.m."
 msgstr ""
 
 #: utils/dateformat.py:48
+#, fuzzy
 msgid "PM"
-msgstr ""
+msgstr "बेलुकी"
 
 #: utils/dateformat.py:49
+#, fuzzy
 msgid "AM"
-msgstr ""
+msgstr "बिहान"
 
 #: utils/dateformat.py:98
 msgid "midnight"
@@ -4733,217 +5062,272 @@ msgid "noon"
 msgstr ""
 
 #: utils/dates.py:6
+#, fuzzy
 msgid "Monday"
-msgstr ""
+msgstr "सोमबार"
 
 #: utils/dates.py:6
+#, fuzzy
 msgid "Tuesday"
-msgstr ""
+msgstr "मङ्गलबार"
 
 #: utils/dates.py:6
+#, fuzzy
 msgid "Wednesday"
-msgstr ""
+msgstr "बुधबार"
 
 #: utils/dates.py:6
+#, fuzzy
 msgid "Thursday"
-msgstr ""
+msgstr "बिहीबार"
 
 #: utils/dates.py:6
+#, fuzzy
 msgid "Friday"
-msgstr ""
+msgstr "शुक्रबार"
 
 #: utils/dates.py:7
+#, fuzzy
 msgid "Saturday"
-msgstr ""
+msgstr "शनिबार"
 
 #: utils/dates.py:7
+#, fuzzy
 msgid "Sunday"
-msgstr ""
+msgstr "आइतबार"
 
 #: utils/dates.py:10
+#, fuzzy
 msgid "Mon"
-msgstr ""
+msgstr "सोम"
 
 #: utils/dates.py:10
+#, fuzzy
 msgid "Tue"
-msgstr ""
+msgstr "मङ्गल"
 
 #: utils/dates.py:10
+#, fuzzy
 msgid "Wed"
-msgstr ""
+msgstr "बुध"
 
 #: utils/dates.py:10
+#, fuzzy
 msgid "Thu"
-msgstr ""
+msgstr "बिही"
 
 #: utils/dates.py:10
+#, fuzzy
 msgid "Fri"
-msgstr ""
+msgstr "शुक्र"
 
 #: utils/dates.py:11
+#, fuzzy
 msgid "Sat"
-msgstr ""
+msgstr "शनि"
 
 #: utils/dates.py:11
+#, fuzzy
 msgid "Sun"
-msgstr ""
+msgstr "आइत"
 
 #: utils/dates.py:18
+#, fuzzy
 msgid "January"
-msgstr ""
+msgstr "जनवरी"
 
 #: utils/dates.py:18
+#, fuzzy
 msgid "February"
-msgstr ""
+msgstr "फेब्रुअरी"
 
-#: utils/dates.py:18 utils/dates.py:31
+#: utils/dates.py:18
+#: utils/dates.py:31
+#, fuzzy
 msgid "March"
-msgstr ""
+msgstr "मार्च"
 
-#: utils/dates.py:18 utils/dates.py:31
+#: utils/dates.py:18
+#: utils/dates.py:31
+#, fuzzy
 msgid "April"
-msgstr ""
+msgstr "अप्रील"
 
-#: utils/dates.py:18 utils/dates.py:31
+#: utils/dates.py:18
+#: utils/dates.py:31
+#, fuzzy
 msgid "May"
-msgstr ""
+msgstr "मई"
 
-#: utils/dates.py:18 utils/dates.py:31
+#: utils/dates.py:18
+#: utils/dates.py:31
+#, fuzzy
 msgid "June"
-msgstr ""
+msgstr "जून"
 
-#: utils/dates.py:19 utils/dates.py:31
+#: utils/dates.py:19
+#: utils/dates.py:31
+#, fuzzy
 msgid "July"
-msgstr ""
+msgstr "जुलै"
 
 #: utils/dates.py:19
+#, fuzzy
 msgid "August"
-msgstr ""
+msgstr "अगस्त"
 
 #: utils/dates.py:19
+#, fuzzy
 msgid "September"
-msgstr ""
+msgstr "सेप्टेम्बर"
 
 #: utils/dates.py:19
+#, fuzzy
 msgid "October"
-msgstr ""
+msgstr "अक्टुबर"
 
 #: utils/dates.py:19
+#, fuzzy
 msgid "November"
-msgstr ""
+msgstr "नभम्बर"
 
 #: utils/dates.py:20
+#, fuzzy
 msgid "December"
-msgstr ""
+msgstr "डिसम्बर"
 
 #: utils/dates.py:23
+#, fuzzy
 msgid "jan"
-msgstr ""
+msgstr "जनवरी"
 
 #: utils/dates.py:23
+#, fuzzy
 msgid "feb"
-msgstr ""
+msgstr "फेब्रुअरी"
 
 #: utils/dates.py:23
+#, fuzzy
 msgid "mar"
-msgstr ""
+msgstr "मार्च"
 
 #: utils/dates.py:23
+#, fuzzy
 msgid "apr"
-msgstr ""
+msgstr "अप्रिल"
 
 #: utils/dates.py:23
+#, fuzzy
 msgid "may"
-msgstr ""
+msgstr "मई"
 
 #: utils/dates.py:23
+#, fuzzy
 msgid "jun"
-msgstr ""
+msgstr "जुन"
 
 #: utils/dates.py:24
+#, fuzzy
 msgid "jul"
-msgstr ""
+msgstr "जुलाइ"
 
 #: utils/dates.py:24
+#, fuzzy
 msgid "aug"
-msgstr ""
+msgstr "अगस्त"
 
 #: utils/dates.py:24
+#, fuzzy
 msgid "sep"
-msgstr ""
+msgstr "सेप्टेम्बर"
 
 #: utils/dates.py:24
+#, fuzzy
 msgid "oct"
-msgstr ""
+msgstr "अक्टोबर"
 
 #: utils/dates.py:24
+#, fuzzy
 msgid "nov"
-msgstr ""
+msgstr "नवम्बर"
 
 #: utils/dates.py:24
+#, fuzzy
 msgid "dec"
-msgstr ""
+msgstr "डिसम्बर"
 
 #: utils/dates.py:31
+#, fuzzy
 msgid "Jan."
-msgstr ""
+msgstr "जनवरी"
 
 #: utils/dates.py:31
+#, fuzzy
 msgid "Feb."
-msgstr ""
+msgstr "फेब्रुअरी"
 
 #: utils/dates.py:32
+#, fuzzy
 msgid "Aug."
-msgstr ""
+msgstr "अगस्त"
 
 #: utils/dates.py:32
 msgid "Sept."
 msgstr ""
 
 #: utils/dates.py:32
+#, fuzzy
 msgid "Oct."
-msgstr ""
+msgstr "अक्टोबर"
 
 #: utils/dates.py:32
+#, fuzzy
 msgid "Nov."
-msgstr ""
+msgstr "नवम्बर"
 
 #: utils/dates.py:32
+#, fuzzy
 msgid "Dec."
-msgstr ""
+msgstr "डिसम्बर"
 
 #: utils/text.py:130
+#, fuzzy
 msgid "or"
-msgstr ""
+msgstr "अथवा"
 
 #: utils/timesince.py:21
+#, fuzzy
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
+msgstr[0] "वर्ष"
 msgstr[1] ""
 
 #: utils/timesince.py:22
+#, fuzzy
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
+msgstr[0] "महिना"
 msgstr[1] ""
 
 #: utils/timesince.py:23
+#, fuzzy
 msgid "week"
 msgid_plural "weeks"
-msgstr[0] ""
+msgstr[0] "साता सुरु हुने दिन"
 msgstr[1] ""
 
 #: utils/timesince.py:24
+#, fuzzy
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
+msgstr[0] "%s दिन"
 msgstr[1] ""
 
 #: utils/timesince.py:25
+#, fuzzy
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
+msgstr[0] "%s घण्टा"
 msgstr[1] ""
 
 #: utils/timesince.py:26
@@ -4953,18 +5337,19 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: utils/timesince.py:45
+#, fuzzy
 msgid "minutes"
-msgstr ""
+msgstr "मिनेट"
 
 #: utils/timesince.py:50
-#, python-format
+#, fuzzy, python-format
 msgid "%(number)d %(type)s"
-msgstr ""
+msgstr "फाइल प्रकार:"
 
 #: utils/timesince.py:56
-#, python-format
+#, fuzzy, python-format
 msgid ", %(number)d %(type)s"
-msgstr ""
+msgstr "फाइल प्रकार:"
 
 #: utils/translation/trans_real.py:519
 msgid "DATE_FORMAT"
@@ -5000,3 +5385,4 @@ msgstr ""
 #, python-format
 msgid "The %(verbose_name)s was deleted."
 msgstr ""
+
