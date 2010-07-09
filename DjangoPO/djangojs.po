@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-05-13 15:39+0200\n"
-"PO-Revision-Date: 2010-07-08 22:05+0530\n"
+"PO-Revision-Date: 2010-07-08 22:34+0530\n"
 "Last-Translator: Sagar Chalise <contact@sagarchalise.com.np>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -44,8 +44,11 @@ msgstr "सफा गर्नुहोस"
 
 #: contrib/admin/media/js/actions.js:18
 #: contrib/admin/media/js/actions.min.js:1
+#, fuzzy
 msgid "%(sel)s of %(cnt)s selected"
 msgid_plural "%(sel)s of %(cnt)s selected"
+msgstr[0] "<b>खाता चयन गरिएको छैन</b>"
+msgstr[1] ""
 
 #: contrib/admin/media/js/actions.js:109
 #: contrib/admin/media/js/actions.min.js:5
@@ -101,15 +104,15 @@ msgstr "समय चयन गर्नुहोस"
 
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:85
 msgid "Midnight"
-msgstr ""
+msgstr "मध्यरात"
 
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:86
 msgid "6 a.m."
-msgstr ""
+msgstr "बिहान ६ बजे"
 
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:87
 msgid "Noon"
-msgstr ""
+msgstr "मध्यान्ह"
 
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:91
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:188
@@ -119,7 +122,7 @@ msgstr "रद्द गर्नुहोस "
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:133
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:182
 msgid "Today"
-msgstr ""
+msgstr "आज"
 
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:137
 msgid "Calendar"
@@ -127,9 +130,9 @@ msgstr "पात्रो "
 
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:180
 msgid "Yesterday"
-msgstr ""
+msgstr "हिजो"
 
 #: contrib/admin/media/js/admin/DateTimeShortcuts.js:184
 msgid "Tomorrow"
-msgstr ""
+msgstr "भोलि"
 

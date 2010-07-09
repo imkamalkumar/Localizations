@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-05-13 15:35+0200\n"
-"PO-Revision-Date: 2010-07-08 22:11+0530\n"
+"PO-Revision-Date: 2010-07-08 22:37+0530\n"
 "Last-Translator: Sagar Chalise <contact@sagarchalise.com.np>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -881,10 +881,10 @@ msgid "Search"
 msgstr "खोज"
 
 #: contrib/admin/templates/admin/search_form.html:10
-#, fuzzy, python-format
+#, python-format
 msgid "1 result"
 msgid_plural "%(counter)s results"
-msgstr[0] "परिणाम"
+msgstr[0] ""
 msgstr[1] ""
 
 #: contrib/admin/templates/admin/search_form.html:10
@@ -1654,9 +1654,8 @@ msgid "Check this box if the comment is inappropriate. A \"This comment has been
 msgstr ""
 
 #: contrib/comments/models.py:77
-#, fuzzy
 msgid "comments"
-msgstr "टिप्पणी"
+msgstr "प्रतिकृयाहरु"
 
 #: contrib/comments/models.py:119
 msgid "This comment was posted by an authenticated user and thus the name is read-only."
@@ -1681,9 +1680,8 @@ msgid "flag"
 msgstr ""
 
 #: contrib/comments/models.py:171
-#, fuzzy
 msgid "date"
-msgstr "मिति"
+msgstr "मिति "
 
 #: contrib/comments/models.py:181
 #, fuzzy
@@ -1756,15 +1754,13 @@ msgstr "शब्दका लागि सुझावहरू"
 
 #: contrib/comments/templates/comments/form.html:17
 #: contrib/comments/templates/comments/preview.html:32
-#, fuzzy
 msgid "Post"
-msgstr "लेख"
+msgstr "लेख "
 
 #: contrib/comments/templates/comments/form.html:18
 #: contrib/comments/templates/comments/preview.html:33
-#, fuzzy
 msgid "Preview"
-msgstr "पूर्वावलोकन गर्नुहोस्"
+msgstr "पूर्वावलोकन गर्नुहोस् "
 
 #: contrib/comments/templates/comments/posted.html:4
 #, fuzzy
@@ -1822,14 +1818,12 @@ msgid "Advanced options"
 msgstr "उन्नत विकल्प"
 
 #: contrib/flatpages/models.py:8
-#, fuzzy
 msgid "title"
-msgstr "शीर्षक"
+msgstr "शीर्षक "
 
 #: contrib/flatpages/models.py:9
-#, fuzzy
 msgid "content"
-msgstr "सामाग्री:"
+msgstr "सामाग्री: "
 
 #: contrib/flatpages/models.py:10
 #, fuzzy
@@ -4967,9 +4961,8 @@ msgstr "अन्य मानहरू खोजी गर्नुहोस्
 
 #: forms/formsets.py:298
 #: forms/formsets.py:300
-#, fuzzy
 msgid "Order"
-msgstr "क्रम"
+msgstr "क्रम "
 
 #: forms/models.py:562
 #, python-format
@@ -5044,14 +5037,12 @@ msgid "a.m."
 msgstr ""
 
 #: utils/dateformat.py:48
-#, fuzzy
 msgid "PM"
-msgstr "बेलुकी"
+msgstr "बेलुकी "
 
 #: utils/dateformat.py:49
-#, fuzzy
 msgid "AM"
-msgstr "बिहान"
+msgstr "बिहान "
 
 #: utils/dateformat.py:98
 msgid "midnight"
@@ -5062,238 +5053,193 @@ msgid "noon"
 msgstr ""
 
 #: utils/dates.py:6
-#, fuzzy
 msgid "Monday"
-msgstr "सोमबार"
+msgstr "सोमबार "
 
 #: utils/dates.py:6
-#, fuzzy
 msgid "Tuesday"
-msgstr "मङ्गलबार"
+msgstr "मङ्गलबार "
 
 #: utils/dates.py:6
-#, fuzzy
 msgid "Wednesday"
-msgstr "बुधबार"
+msgstr "बुधबार "
 
 #: utils/dates.py:6
-#, fuzzy
 msgid "Thursday"
-msgstr "बिहीबार"
+msgstr "बिहीबार "
 
 #: utils/dates.py:6
-#, fuzzy
 msgid "Friday"
-msgstr "शुक्रबार"
+msgstr "शुक्रबार "
 
 #: utils/dates.py:7
-#, fuzzy
 msgid "Saturday"
-msgstr "शनिबार"
+msgstr "शनिबार "
 
 #: utils/dates.py:7
-#, fuzzy
 msgid "Sunday"
-msgstr "आइतबार"
+msgstr "आइतबार "
 
 #: utils/dates.py:10
-#, fuzzy
 msgid "Mon"
-msgstr "सोम"
+msgstr "सोम "
 
 #: utils/dates.py:10
-#, fuzzy
 msgid "Tue"
-msgstr "मङ्गल"
+msgstr "मङ्गल "
 
 #: utils/dates.py:10
-#, fuzzy
 msgid "Wed"
-msgstr "बुध"
+msgstr "बुध "
 
 #: utils/dates.py:10
-#, fuzzy
 msgid "Thu"
-msgstr "बिही"
+msgstr "बिही "
 
 #: utils/dates.py:10
-#, fuzzy
 msgid "Fri"
-msgstr "शुक्र"
+msgstr "शुक्र "
 
 #: utils/dates.py:11
-#, fuzzy
 msgid "Sat"
-msgstr "शनि"
+msgstr "शनि "
 
 #: utils/dates.py:11
-#, fuzzy
 msgid "Sun"
-msgstr "आइत"
+msgstr "आइत "
 
 #: utils/dates.py:18
-#, fuzzy
 msgid "January"
-msgstr "जनवरी"
+msgstr "जनवरी "
 
 #: utils/dates.py:18
-#, fuzzy
 msgid "February"
-msgstr "फेब्रुअरी"
+msgstr "फेब्रुअरी "
 
 #: utils/dates.py:18
 #: utils/dates.py:31
-#, fuzzy
 msgid "March"
-msgstr "मार्च"
+msgstr "मार्च "
 
 #: utils/dates.py:18
 #: utils/dates.py:31
-#, fuzzy
 msgid "April"
-msgstr "अप्रील"
+msgstr "अप्रील "
 
 #: utils/dates.py:18
 #: utils/dates.py:31
-#, fuzzy
 msgid "May"
-msgstr "मई"
+msgstr "मई "
 
 #: utils/dates.py:18
 #: utils/dates.py:31
-#, fuzzy
 msgid "June"
-msgstr "जून"
+msgstr "जून "
 
 #: utils/dates.py:19
 #: utils/dates.py:31
-#, fuzzy
 msgid "July"
-msgstr "जुलै"
+msgstr "जुलै "
 
 #: utils/dates.py:19
-#, fuzzy
 msgid "August"
-msgstr "अगस्त"
+msgstr "अगस्त "
 
 #: utils/dates.py:19
-#, fuzzy
 msgid "September"
-msgstr "सेप्टेम्बर"
+msgstr "सेप्टेम्बर "
 
 #: utils/dates.py:19
-#, fuzzy
 msgid "October"
-msgstr "अक्टुबर"
+msgstr "अक्टुबर "
 
 #: utils/dates.py:19
-#, fuzzy
 msgid "November"
-msgstr "नभम्बर"
+msgstr "नभम्बर "
 
 #: utils/dates.py:20
-#, fuzzy
 msgid "December"
-msgstr "डिसम्बर"
+msgstr "डिसम्बर "
 
 #: utils/dates.py:23
-#, fuzzy
 msgid "jan"
-msgstr "जनवरी"
+msgstr "जनवरी "
 
 #: utils/dates.py:23
-#, fuzzy
 msgid "feb"
-msgstr "फेब्रुअरी"
+msgstr "फेब्रुअरी "
 
 #: utils/dates.py:23
-#, fuzzy
 msgid "mar"
-msgstr "मार्च"
+msgstr "मार्च "
 
 #: utils/dates.py:23
-#, fuzzy
 msgid "apr"
-msgstr "अप्रिल"
+msgstr "अप्रिल "
 
 #: utils/dates.py:23
-#, fuzzy
 msgid "may"
-msgstr "मई"
+msgstr "मई "
 
 #: utils/dates.py:23
-#, fuzzy
 msgid "jun"
-msgstr "जुन"
+msgstr "जुन "
 
 #: utils/dates.py:24
-#, fuzzy
 msgid "jul"
-msgstr "जुलाइ"
+msgstr "जुलाइ "
 
 #: utils/dates.py:24
-#, fuzzy
 msgid "aug"
-msgstr "अगस्त"
+msgstr "अगस्त "
 
 #: utils/dates.py:24
-#, fuzzy
 msgid "sep"
-msgstr "सेप्टेम्बर"
+msgstr "सेप्टेम्बर "
 
 #: utils/dates.py:24
-#, fuzzy
 msgid "oct"
-msgstr "अक्टोबर"
+msgstr "अक्टोबर "
 
 #: utils/dates.py:24
-#, fuzzy
 msgid "nov"
-msgstr "नवम्बर"
+msgstr "नवम्बर "
 
 #: utils/dates.py:24
-#, fuzzy
 msgid "dec"
-msgstr "डिसम्बर"
+msgstr "डिसम्बर "
 
 #: utils/dates.py:31
-#, fuzzy
 msgid "Jan."
-msgstr "जनवरी"
+msgstr "जनवरी "
 
 #: utils/dates.py:31
-#, fuzzy
 msgid "Feb."
-msgstr "फेब्रुअरी"
+msgstr "फेब्रुअरी "
 
 #: utils/dates.py:32
-#, fuzzy
 msgid "Aug."
-msgstr "अगस्त"
+msgstr "अगस्त "
 
 #: utils/dates.py:32
 msgid "Sept."
 msgstr ""
 
 #: utils/dates.py:32
-#, fuzzy
 msgid "Oct."
-msgstr "अक्टोबर"
+msgstr "अक्टोबर "
 
 #: utils/dates.py:32
-#, fuzzy
 msgid "Nov."
-msgstr "नवम्बर"
+msgstr "नवम्बर "
 
 #: utils/dates.py:32
-#, fuzzy
 msgid "Dec."
-msgstr "डिसम्बर"
+msgstr "डिसम्बर "
 
 #: utils/text.py:130
-#, fuzzy
 msgid "or"
-msgstr "अथवा"
+msgstr "अथवा "
 
 #: utils/timesince.py:21
 #, fuzzy
@@ -5337,9 +5283,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: utils/timesince.py:45
-#, fuzzy
 msgid "minutes"
-msgstr "मिनेट"
+msgstr "मिनेट "
 
 #: utils/timesince.py:50
 #, fuzzy, python-format
