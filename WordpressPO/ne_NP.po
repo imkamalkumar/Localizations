@@ -75,7 +75,7 @@ msgstr "<strong>%s</strong> मेट्न मिल्दैन । यो प
 #: wp-admin/admin-ajax.php:379
 #, php-format
 msgid "Comment %d does not exist"
-msgstr "%d टिप्पणि छैन ।"
+msgstr "%d प्रतिकृया छैन ।"
 
 #: wp-admin/admin-ajax.php:465
 #: wp-admin/includes/meta-boxes.php:293
@@ -113,13 +113,13 @@ msgstr "त्रुटि : तपाई टिप्णिको उत्त�
 
 #: wp-admin/admin-ajax.php:727
 msgid "Sorry, you must be logged in to reply to a comment."
-msgstr "माफ गर्नुहोस, टिप्पणीको जवाफ दिन लगइन गर्नु पर्ने छ ।"
+msgstr "माफ गर्नुहोस, प्रतिकृयाको जवाफ दिन लगइन गर्नु पर्ने छ ।"
 
 #: wp-admin/admin-ajax.php:731
 #: wp-admin/admin-ajax.php:777
 #: wp-comments-post.php:74
 msgid "Error: please type a comment."
-msgstr "त्रुटि : कृपया टिप्पणि लेख्नुहोस ।"
+msgstr "त्रुटि : कृपया प्रतिकृया लेख्नुहोस ।"
 
 #: wp-admin/admin-ajax.php:829
 #: wp-admin/admin-ajax.php:834
@@ -643,7 +643,7 @@ msgstr "व्याख्या गर्नु जरुरी छैन । �
 #: wp-admin/edit-form-comment.php:16
 #: wp-admin/edit-form-comment.php:27
 msgid "Edit Comment"
-msgstr "टिप्पणी सम्पादन गर्नुहोस"
+msgstr "प्रतिकृया सम्पादन गर्नुहोस"
 
 #: wp-admin/comment.php:42
 #: wp-admin/comment.php:67
@@ -652,7 +652,7 @@ msgstr "टिप्पणी सम्पादन गर्नुहोस"
 #: wp-admin/comment.php:226
 #: wp-admin/comment.php:251
 msgid "Oops, no comment with this ID."
-msgstr "ओहो, यो अइडी को टिप्पणी छैन"
+msgstr "ओहो, यो अइडी को प्रतिकृया छैन"
 
 #: wp-admin/comment.php:42
 #: wp-admin/comment.php:67
@@ -667,7 +667,7 @@ msgstr "फर्कनुहोस"
 #: wp-admin/comment.php:152
 #: wp-admin/comment.php:179
 msgid "You are not allowed to edit comments on this post."
-msgstr "तपाइलाई यो टिप्पणि सम्पादन गर्ने अनुमति छैन ।"
+msgstr "तपाइलाई यो प्रतिकृया सम्पादन गर्ने अनुमति छैन ।"
 
 #: wp-admin/comment.php:48
 msgid ""
@@ -677,7 +677,7 @@ msgstr "यो टिपणि रद्दीमा छ । कृपया य
 
 #: wp-admin/comment.php:70
 msgid "You are not allowed to delete comments on this post."
-msgstr "तपाइलाई यो लेखको  टिप्पणि मेट्ने अधिकार छैन ।"
+msgstr "तपाइलाई यो लेखको  प्रतिकृया मेट्ने अधिकार छैन ।"
 
 #: wp-admin/comment.php:70
 #: wp-admin/comment.php:254
@@ -685,32 +685,32 @@ msgid ""
 "You are not allowed to edit comments on this post, so you cannot approve "
 "this comment."
 msgstr ""
-"यो लेखको टिप्पणी सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो टिप्पणी "
+"यो लेखको प्रतिकृया सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो प्रतिकृया "
 "स्वीकृत गर्न पाउनु हुन्न ।"
 
 #: wp-admin/comment.php:77
 msgid "You are about to mark the following comment as spam:"
-msgstr "यी टिप्पणीहरुलाइ तपाई स्प्याम भन्दैहुनुहुन्छ :"
+msgstr "यी प्रतिकृयाहरुलाइ तपाई स्प्याम भन्दैहुनुहुन्छ :"
 
 #: wp-admin/comment.php:78
 msgid "Spam Comment"
-msgstr "स्प्याम टिप्पणी"
+msgstr "स्प्याम प्रतिकृया"
 
 #: wp-admin/comment.php:80
 msgid "You are about to delete the following comment:"
-msgstr "तपाई यी टिप्पणीहरु मेट्न जाँदै हुनुहुन्छ ।"
+msgstr "तपाई यी प्रतिकृयाहरु मेट्न जाँदै हुनुहुन्छ ।"
 
 #: wp-admin/comment.php:81
 msgid "Delete Comment"
-msgstr "टिप्पणी मेट्नुहोस"
+msgstr "प्रतिकृया मेट्नुहोस"
 
 #: wp-admin/comment.php:83
 msgid "You are about to approve the following comment:"
-msgstr "तपाई यी टिप्पणीहरु स्वीकार गर्न जाँदै हुनुहुन्छ:"
+msgstr "तपाई यी प्रतिकृयाहरु स्वीकार गर्न जाँदै हुनुहुन्छ:"
 
 #: wp-admin/comment.php:84
 msgid "Approve Comment"
-msgstr "टिप्पणी स्वीकार गर्नुहोस"
+msgstr "प्रतिकृया स्वीकार गर्नुहोस"
 
 #: wp-admin/comment.php:88
 msgid "Caution:"
@@ -769,14 +769,14 @@ msgstr "वेबसाईट"
 #: wp-includes/comment-template.php:649
 msgctxt "noun"
 msgid "Comment"
-msgstr "टिप्पणी"
+msgstr "प्रतिकृया"
 
 #: wp-admin/comment.php:229
 msgid ""
 "You are not allowed to edit comments on this post, so you cannot disapprove "
 "this comment."
 msgstr ""
-"यो लेखको टिप्पणी सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो टिप्पणी "
+"यो लेखको प्रतिकृया सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो प्रतिकृया "
 "अस्वीकृत गर्न पाउनु हुन्न ।"
 
 #: wp-admin/comment.php:283
@@ -1120,25 +1120,25 @@ msgstr "समुह परिमार्जन गर्नुहोस"
 #: wp-admin/edit-comments.php:114
 #, php-format
 msgid "Edit Comments on &#8220;%s&#8221;"
-msgstr " &#8220;%s&#8221; टिप्पणीमा सम्पादन गर्नुहोस"
+msgstr " &#8220;%s&#8221; प्रतिकृयामा सम्पादन गर्नुहोस"
 
 #: wp-admin/edit-comments.php:116
 msgid "Edit Comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-admin/edit-comments.php:151
 #, php-format
 msgid "%s comment approved"
 msgid_plural "%s comments approved"
-msgstr[0] "%s टिप्पणी स्वीकृत"
-msgstr[1] "%s टिप्पणीहरू स्वीकृत"
+msgstr[0] "%s प्रतिकृया स्वीकृत"
+msgstr[1] "%s प्रतिकृयाहरू स्वीकृत"
 
 #: wp-admin/edit-comments.php:155
 #, php-format
 msgid "%s comment marked as spam."
 msgid_plural "%s comments marked as spam."
-msgstr[0] "%s टिप्पणीलाई स्प्याम चिन्न लगाइयो ।"
-msgstr[1] "%s टिप्पणीहरु लाई स्प्याम चिन्न लगाइयो ।"
+msgstr[0] "%s प्रतिकृयालाई स्प्याम चिन्न लगाइयो ।"
+msgstr[1] "%s प्रतिकृयाहरु लाई स्प्याम चिन्न लगाइयो ।"
 
 #: wp-admin/edit-comments.php:157
 #: wp-admin/edit-comments.php:166
@@ -1158,8 +1158,8 @@ msgstr "खारिज गर्नु"
 #, php-format
 msgid "%s comment restored from the spam"
 msgid_plural "%s comments restored from the spam"
-msgstr[0] "%s टिप्पणी स्प्यामबाट पूर्वावस्थामा ल्याइयो।"
-msgstr[1] "%s टिप्पणीहरु स्प्यामबाट पूर्वावस्थामा ल्याइयो ।"
+msgstr[0] "%s प्रतिकृया स्प्यामबाट पूर्वावस्थामा ल्याइयो।"
+msgstr[1] "%s प्रतिकृयाहरु स्प्यामबाट पूर्वावस्थामा ल्याइयो ।"
 
 #: wp-admin/edit-comments.php:164
 #, php-format
@@ -1172,8 +1172,8 @@ msgstr[1] "%s प्रतिकृयाहरु रद्दीमा हा�
 #, php-format
 msgid "%s comment restored from the trash"
 msgid_plural "%s comments restored from the trash"
-msgstr[0] "%s टिप्पणी रद्दिबाट पूर्वावस्थामा ल्याइयो ।"
-msgstr[1] "%s टिप्पणीहरु रद्दिबाट पूर्वावस्थामा ल्याइयो ।"
+msgstr[0] "%s प्रतिकृया रद्दिबाट पूर्वावस्थामा ल्याइयो ।"
+msgstr[1] "%s प्रतिकृयाहरु रद्दिबाट पूर्वावस्थामा ल्याइयो ।"
 
 #: wp-admin/edit-comments.php:173
 #, php-format
@@ -1223,7 +1223,7 @@ msgstr[1] ""
 #: wp-admin/edit-comments.php:233
 #: wp-admin/edit-comments.php:235
 msgid "Search Comments"
-msgstr "टिप्पणीहरु खोज्नुहोस"
+msgstr "प्रतिकृयाहरु खोज्नुहोस"
 
 #: wp-admin/edit-comments.php:287
 #: wp-admin/edit-pages.php:249
@@ -1281,7 +1281,7 @@ msgstr "नचाहिने ठाँउमा सार्नुहोस "
 
 #: wp-admin/edit-comments.php:325
 msgid "Show all comment types"
-msgstr "सबै प्रकारका टिप्पणी देखाउनुहोस"
+msgstr "सबै प्रकारका प्रतिकृया देखाउनुहोस"
 
 #: wp-admin/edit-comments.php:328
 #: wp-admin/edit-form-advanced.php:110
@@ -1293,7 +1293,7 @@ msgstr "सबै प्रकारका टिप्पणी देखाउ
 #: wp-content/plugins/akismet/akismet.php:758
 #: wp-content/themes/classic/comments-popup.php:29
 msgid "Comments"
-msgstr "टिप्पणीहरु"
+msgstr "प्रतिकृयाहरु"
 
 #: wp-admin/edit-comments.php:329
 #: wp-admin/includes/template.php:1176
@@ -1311,7 +1311,7 @@ msgstr "छान्नुहोस"
 #: wp-admin/edit-comments.php:422
 #, fuzzy
 msgid "Empty Spam"
-msgstr "फटाई टिप्पणी"
+msgstr "फटाई प्रतिकृया"
 
 #: wp-admin/edit-comments.php:350
 #: wp-admin/edit-comments.php:424
@@ -1468,11 +1468,11 @@ msgstr "EOF को stdin मा कन्फफाइल प्रोम्ट"
 #: wp-admin/edit-form-comment.php:17
 #, fuzzy, php-format
 msgid "Editing Comment # %s"
-msgstr "टिप्पणी सम्पादन गर्नुहोस"
+msgstr "प्रतिकृया सम्पादन गर्नुहोस"
 
 #: wp-admin/edit-form-comment.php:42
 msgid "View Comment"
-msgstr "टिप्पणी हेर्नुहोस"
+msgstr "प्रतिकृया हेर्नुहोस"
 
 #. translators: comment type radio button
 #. translators: comment status
@@ -1496,7 +1496,7 @@ msgstr "%s बाँकी"
 #, fuzzy
 msgctxt "adjective"
 msgid "Spam"
-msgstr "फटाई टिप्पणी"
+msgstr "फटाई प्रतिकृया"
 
 #: wp-admin/edit-form-comment.php:59
 #, php-format
@@ -1506,7 +1506,7 @@ msgstr "<b>%1$s</b> मा सम्प्रेषित"
 #: wp-admin/edit-form-comment.php:74
 #: wp-admin/includes/template.php:2349
 msgid "Update Comment"
-msgstr "टिप्पणी परिमार्जन गर्नुहोस"
+msgstr "प्रतिकृया परिमार्जन गर्नुहोस"
 
 #: wp-admin/edit-form-comment.php:91
 #: wp-includes/js/tinymce/langs/wp-langs.php:271
@@ -2219,7 +2219,7 @@ msgstr "सूची दृश्य"
 #: wp-admin/edit.php:325
 #, fuzzy
 msgid "Excerpt View"
-msgstr "टिप्पणी हेर्नुहोस"
+msgstr "प्रतिकृया हेर्नुहोस"
 
 #: wp-admin/edit.php:368
 #, fuzzy
@@ -2504,8 +2504,8 @@ msgstr ""
 #, php-format
 msgid "%s comment"
 msgid_plural "%s comments"
-msgstr[0] "%s टिप्पणी"
-msgstr[1] "%s टिप्पणीहरु"
+msgstr[0] "%s प्रतिकृया"
+msgstr[1] "%s प्रतिकृयाहरु"
 
 #: wp-admin/import/blogware.php:185
 #: wp-admin/import/livejournal.php:933
@@ -2597,7 +2597,7 @@ msgstr ""
 #: wp-admin/import/dotclear.php:401
 #: wp-admin/import/textpattern.php:385
 msgid "Importing Comments..."
-msgstr "टिप्पणीहरु आयात हुदैछ..."
+msgstr "प्रतिकृयाहरु आयात हुदैछ..."
 
 #: wp-admin/import/dotclear.php:445
 #: wp-admin/import/textpattern.php:428
@@ -2892,7 +2892,7 @@ msgstr ""
 #, fuzzy, php-format
 msgid "imported %s comment"
 msgid_plural "imported %s comments"
-msgstr[0] "टिप्पणी सम्पादन गर्नुहोस"
+msgstr[0] "प्रतिकृया सम्पादन गर्नुहोस"
 msgstr[1] ""
 
 #: wp-admin/import/greymatter.php:291
@@ -3100,7 +3100,7 @@ msgstr ""
 #: wp-admin/import/livejournal.php:845
 #, fuzzy
 msgid "Downloading Comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-admin/import/livejournal.php:846
 msgid "Now we will download your comments so we can import them (this could take a <strong>long</strong> time if you have lots of comments)..."
@@ -3122,7 +3122,7 @@ msgstr ""
 #: wp-admin/import/livejournal.php:893
 #, fuzzy
 msgid "Threading Comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-admin/import/livejournal.php:894
 msgid "We are now re-building the threading of your comments (this can also take a while if you have lots of comments)..."
@@ -3239,7 +3239,7 @@ msgstr "ट्याग भेटिएन !"
 #, fuzzy, php-format
 msgid "(%s comment)"
 msgid_plural "(%s comments)"
-msgstr[0] "टिप्पणी"
+msgstr[0] "प्रतिकृया"
 msgstr[1] ""
 
 #: wp-admin/import/mt.php:308
@@ -4249,7 +4249,7 @@ msgstr ""
 #: wp-admin/includes/comment.php:39
 #, fuzzy
 msgid "You are not allowed to edit comments on this post, so you cannot edit this comment."
-msgstr "यो लेखको टिप्पणी सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो टिप्पणी स्वीकृत गर्न पाउनु हुन्न ।"
+msgstr "यो लेखको प्रतिकृया सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो प्रतिकृया स्वीकृत गर्न पाउनु हुन्न ।"
 
 #: wp-admin/includes/dashboard.php:28
 #, fuzzy
@@ -4261,7 +4261,7 @@ msgstr "भर्खर स्वीकृत"
 #: wp-includes/default-widgets.php:628
 #, fuzzy
 msgid "Recent Comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-admin/includes/dashboard.php:46
 msgid "Incoming Links"
@@ -4361,8 +4361,8 @@ msgstr[1] "लेखहरु"
 #: wp-admin/includes/dashboard.php:241
 msgid "Comment"
 msgid_plural "Comments"
-msgstr[0] "टिप्पणी"
-msgstr[1] "टिप्पणीहरु"
+msgstr[0] "प्रतिकृया"
+msgstr[1] "प्रतिकृयाहरु"
 
 #: wp-admin/includes/dashboard.php:253
 msgid "Page"
@@ -4400,7 +4400,7 @@ msgstr[1] "चिनारीहरु"
 #, fuzzy
 msgid "Spam"
 msgid_plural "Spam"
-msgstr[0] "फटाई टिप्पणी"
+msgstr[0] "फटाई प्रतिकृया"
 msgstr[1] ""
 
 #: wp-admin/includes/dashboard.php:335
@@ -4501,24 +4501,24 @@ msgstr "प्रतिकृयाहरु छैनन"
 #: wp-admin/includes/template.php:2177
 #: wp-admin/includes/template.php:2179
 msgid "Approve this comment"
-msgstr "यो टिप्पणीलाई स्वीकार गर्नुहोस"
+msgstr "यो प्रतिकृयालाई स्वीकार गर्नुहोस"
 
 #: wp-admin/includes/dashboard.php:553
 #: wp-admin/includes/template.php:2175
 #: wp-admin/includes/template.php:2180
 msgid "Unapprove this comment"
-msgstr "यो टिप्पणीलाई अस्वीकार गर्नुहोस"
+msgstr "यो प्रतिकृयालाई अस्वीकार गर्नुहोस"
 
 #: wp-admin/includes/dashboard.php:554
 #: wp-admin/includes/template.php:2198
 #: wp-includes/link-template.php:837
 msgid "Edit comment"
-msgstr "टिप्पणी सम्पादन गर्नुहोस्"
+msgstr "प्रतिकृया सम्पादन गर्नुहोस्"
 
 #: wp-admin/includes/dashboard.php:555
 #: wp-admin/includes/template.php:2201
 msgid "Reply to this comment"
-msgstr "टिप्पणीका बारेमा जवाफ दिनुहोस"
+msgstr "प्रतिकृयाका बारेमा जवाफ दिनुहोस"
 
 #: wp-admin/includes/dashboard.php:555
 #: wp-admin/includes/template.php:2201
@@ -4537,7 +4537,7 @@ msgstr ""
 #, fuzzy
 msgctxt "verb"
 msgid "Spam"
-msgstr "फटाई टिप्पणी"
+msgstr "फटाई प्रतिकृया"
 
 #: wp-admin/includes/dashboard.php:560
 #: wp-admin/includes/template.php:2194
@@ -4677,7 +4677,7 @@ msgstr ""
 #: wp-admin/includes/file.php:15
 #, fuzzy
 msgid "Popup Comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-admin/includes/file.php:16
 msgid "Footer"
@@ -5433,7 +5433,7 @@ msgstr "लैकमा राख्नुहोस"
 #: wp-admin/includes/media.php:1241
 #, fuzzy, php-format
 msgid "You are about to delete <strong>%s</strong>."
-msgstr "तपाई यी टिप्पणीहरु मेट्न जाँदै हुनुहुन्छ ।"
+msgstr "तपाई यी प्रतिकृयाहरु मेट्न जाँदै हुनुहुन्छ ।"
 
 #: wp-admin/includes/media.php:1256
 #: wp-includes/script-loader.php:388
@@ -5895,7 +5895,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:378
 #, fuzzy
 msgid "Allow Comments."
-msgstr "टिप्पणी दिन ईजाजत दिने"
+msgstr "प्रतिकृया दिन ईजाजत दिने"
 
 #: wp-admin/includes/meta-boxes.php:379
 #, php-format
@@ -5910,7 +5910,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:413
 #, fuzzy
 msgid "Show comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-admin/includes/meta-boxes.php:433
 #: wp-admin/includes/template.php:237
@@ -6869,12 +6869,12 @@ msgstr "ईजाजत नदिने"
 
 #: wp-admin/includes/template.php:1190
 msgid "Allow Comments"
-msgstr "टिप्पणी दिन ईजाजत दिने"
+msgstr "प्रतिकृया दिन ईजाजत दिने"
 
 #: wp-admin/includes/template.php:1195
 #, fuzzy
 msgid "Allow Pings"
-msgstr "टिप्पणी दिन ईजाजत दिने"
+msgstr "प्रतिकृया दिन ईजाजत दिने"
 
 #: wp-admin/includes/template.php:1226
 #: wp-admin/includes/template.php:1229
@@ -6998,7 +6998,7 @@ msgstr "Y/m/d \\a\\t g:i a"
 
 #: wp-admin/includes/template.php:2324
 msgid "Reply to Comment"
-msgstr "टिप्पणीको जवाफ दिनुहोस"
+msgstr "प्रतिकृयाको जवाफ दिनुहोस"
 
 #: wp-admin/includes/template.php:2350
 msgid "Submit Reply"
@@ -7334,7 +7334,7 @@ msgstr "पृष्ठ भित्रका पृष्ठहरु:"
 
 #: wp-admin/includes/template.php:3701
 msgid "Comments per page:"
-msgstr "प्रति पृष्ठ टिप्पणीहरु:"
+msgstr "प्रति पृष्ठ प्रतिकृयाहरु:"
 
 #: wp-admin/includes/template.php:3704
 msgid "Media items per page:"
@@ -7500,7 +7500,7 @@ msgstr "व्यक्तिगत विकल्पहरू"
 #: wp-admin/includes/theme-install.php:189
 #, fuzzy
 msgid "Threaded Comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-admin/includes/theme-install.php:189
 #, fuzzy
@@ -8309,17 +8309,17 @@ msgstr "मेरो बारेमा छोटो जानकारी"
 #: wp-admin/options-discussion.php:111
 #, fuzzy
 msgid "Anyone posts a comment"
-msgstr "यो टिप्पणीलाई स्वीकार गर्नुहोस"
+msgstr "यो प्रतिकृयालाई स्वीकार गर्नुहोस"
 
 #: wp-admin/options-discussion.php:115
 msgid "A comment is held for moderation"
-msgstr "टिप्पणी स्वीकार गरिने क्रममा छ ।"
+msgstr "प्रतिकृया स्वीकार गरिने क्रममा छ ।"
 
 #: wp-admin/options-discussion.php:119
 #: wp-admin/options-discussion.php:120
 #, fuzzy
 msgid "Before a comment appears"
-msgstr "यो टिप्पणीलाई स्वीकार गर्नुहोस"
+msgstr "यो प्रतिकृयालाई स्वीकार गर्नुहोस"
 
 #: wp-admin/options-discussion.php:123
 msgid "An administrator must always approve the comment"
@@ -8333,7 +8333,7 @@ msgstr ""
 #: wp-admin/options-discussion.php:130
 #, fuzzy
 msgid "Comment Moderation"
-msgstr "टिप्पणी सम्पादन गर्नुहोस"
+msgstr "प्रतिकृया सम्पादन गर्नुहोस"
 
 #: wp-admin/options-discussion.php:131
 #, php-format
@@ -8348,7 +8348,7 @@ msgstr ""
 #: wp-admin/options-discussion.php:141
 #, fuzzy
 msgid "Comment Blacklist"
-msgstr "टिप्पणी सम्पादन गर्नुहोस"
+msgstr "प्रतिकृया सम्पादन गर्नुहोस"
 
 #: wp-admin/options-discussion.php:142
 msgid "When a comment contains any of these words in its content, name, URL, e-mail, or IP, it will be marked as spam. One word or IP per line. It will match inside words, so &#8220;press&#8221; will match &#8220;WordPress&#8221;."
@@ -8360,7 +8360,7 @@ msgstr "छविहरु"
 
 #: wp-admin/options-discussion.php:153
 msgid "An avatar is an image that follows you from weblog to weblog appearing beside your name when you comment on avatar enabled sites.  Here you can enable the display of avatars for people who comment on your blog."
-msgstr "छवि तपाइको चित्र झै हो जुन ब्लगहरुमा तपाइको नामको छायाँ बनि तपाइले दिनुभएको प्रतिकृयाहरुमा देखिन्छ । यहाँ तपाईले तपाइको ब्लगमा टिप्पणी दिनेहरुको लागि छवि "
+msgstr "छवि तपाइको चित्र झै हो जुन ब्लगहरुमा तपाइको नामको छायाँ बनि तपाइले दिनुभएको प्रतिकृयाहरुमा देखिन्छ । यहाँ तपाईले तपाइको ब्लगमा प्रतिकृया दिनेहरुको लागि छवि "
 
 #: wp-admin/options-discussion.php:159
 msgid "Avatar Display"
@@ -9455,7 +9455,7 @@ msgstr "एच टि एम एल"
 #: wp-includes/general-template.php:1668
 #, fuzzy
 msgid "Visual"
-msgstr "भिजुअल बिगारिएको टिप्पणी"
+msgstr "भिजुअल बिगारिएको प्रतिकृया"
 
 #: wp-admin/press-this.php:585
 msgid "via "
@@ -10608,7 +10608,7 @@ msgstr ""
 #: wp-comments-post.php:61
 #, fuzzy
 msgid "Sorry, you must be logged in to post a comment."
-msgstr "माफ गर्नुहोस, तपाइल टिप्पणी गर्न लग गर्नु पर्छ ।"
+msgstr "माफ गर्नुहोस, तपाइल प्रतिकृया गर्न लग गर्नु पर्छ ।"
 
 #: wp-comments-post.php:68
 msgid "Error: please fill the required fields (name, email)."
@@ -10799,13 +10799,13 @@ msgstr ""
 #: wp-content/plugins/akismet/akismet.php:595
 #, fuzzy, php-format
 msgid "Akismet Spam (%s)"
-msgstr "फटाई टिप्पणी"
+msgstr "फटाई प्रतिकृया"
 
 #: wp-content/plugins/akismet/akismet.php:597
 #: wp-content/plugins/akismet/akismet.php:599
 #, fuzzy
 msgid "Akismet Spam"
-msgstr "फटाई टिप्पणी"
+msgstr "फटाई प्रतिकृया"
 
 #: wp-content/plugins/akismet/akismet.php:609
 #: wp-content/plugins/akismet/akismet.php:628
@@ -10815,7 +10815,7 @@ msgstr ""
 #: wp-content/plugins/akismet/akismet.php:640
 #, fuzzy, php-format
 msgid "%1$s comments recovered."
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-content/plugins/akismet/akismet.php:644
 #, fuzzy
@@ -10825,7 +10825,7 @@ msgstr "सबै "
 #: wp-content/plugins/akismet/akismet.php:692
 #, fuzzy
 msgid "Caught Spam"
-msgstr "फटाई टिप्पणी"
+msgstr "फटाई प्रतिकृया"
 
 #: wp-content/plugins/akismet/akismet.php:697
 #, php-format
@@ -10936,7 +10936,7 @@ msgstr ""
 #: wp-content/plugins/akismet/akismet.php:1120
 #, fuzzy
 msgid "spam comments"
-msgstr "टिप्पणीहरु सम्पादन गर्नुहोस"
+msgstr "प्रतिकृयाहरु सम्पादन गर्नुहोस"
 
 #: wp-content/plugins/akismet/akismet.php:1120
 #, fuzzy
@@ -10946,7 +10946,7 @@ msgstr "%sद्वारा लेखिएको"
 #: wp-content/themes/classic/comments-popup.php:9
 #, php-format
 msgid "Comments on %s"
-msgstr "%s का टिप्पणीहरु"
+msgstr "%s का प्रतिकृयाहरु"
 
 #: wp-content/themes/classic/comments-popup.php:31
 #: wp-content/themes/classic/comments.php:35
@@ -10966,7 +10966,7 @@ msgstr "द्वारा"
 #: wp-content/themes/classic/comments.php:13
 #: wp-content/themes/classic/comments.php:42
 msgid "Leave a comment"
-msgstr "टिप्पणी दिनुहोस"
+msgstr "प्रतिकृया दिनुहोस"
 
 #: wp-content/themes/classic/comments-popup.php:63
 msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed:"
@@ -10995,7 +10995,7 @@ msgstr ""
 
 #: wp-content/themes/classic/comments-popup.php:86
 msgid "Your Comment"
-msgstr "तपाइको टिप्पणी"
+msgstr "तपाइको प्रतिकृया"
 
 #: wp-content/themes/classic/comments-popup.php:94
 #, fuzzy
@@ -11032,19 +11032,19 @@ msgstr "प्रतिकृया हेर्नका लागि पास
 #: wp-includes/comment-template.php:557
 #: wp-includes/comment-template.php:937
 msgid "No Comments"
-msgstr "टिप्पणीहरु छैन"
+msgstr "प्रतिकृयाहरु छैन"
 
 #: wp-content/themes/classic/comments.php:11
 #: wp-includes/comment-template.php:559
 #: wp-includes/comment-template.php:938
 msgid "1 Comment"
-msgstr "१ टिप्पणी"
+msgstr "१ प्रतिकृया"
 
 #: wp-content/themes/classic/comments.php:11
 #: wp-includes/comment-template.php:555
 #: wp-includes/comment-template.php:939
 msgid "% Comments"
-msgstr "% टिप्पणीहरु"
+msgstr "% प्रतिकृयाहरु"
 
 #: wp-content/themes/classic/comments.php:24
 #: wp-content/themes/classic/index.php:15
@@ -11076,7 +11076,7 @@ msgstr ""
 
 #: wp-content/themes/classic/comments.php:71
 msgid "Submit Comment"
-msgstr "टिप्पणी पठाउनुहोस"
+msgstr "प्रतिकृया पठाउनुहोस"
 
 #: wp-content/themes/classic/footer.php:12
 #, php-format
@@ -11100,15 +11100,15 @@ msgstr "(थप...)"
 
 #: wp-content/themes/classic/index.php:23
 msgid "Comments (0)"
-msgstr "टिप्पणी (०)"
+msgstr "प्रतिकृया (०)"
 
 #: wp-content/themes/classic/index.php:23
 msgid "Comments (1)"
-msgstr "टिप्पणी (१)"
+msgstr "प्रतिकृया (१)"
 
 #: wp-content/themes/classic/index.php:23
 msgid "Comments (%)"
-msgstr "टिप्पणी (%)"
+msgstr "प्रतिकृया (%)"
 
 #: wp-content/themes/classic/index.php:31
 msgid "Sorry, no posts matched your criteria."
@@ -11400,7 +11400,7 @@ msgstr "संस्करण स्ट्रिङ् रित्तो छ"
 #: wp-includes/class-pop3.php:477
 #, fuzzy
 msgid "connection does not exist"
-msgstr "%d टिप्पणि छैन ।"
+msgstr "%d प्रतिकृया छैन ।"
 
 #: wp-includes/class-pop3.php:587
 #, fuzzy
@@ -11424,7 +11424,7 @@ msgstr ""
 
 #: wp-includes/comment-template.php:940
 msgid "Comments Off"
-msgstr "टिप्पणी राख्न बन्द छ"
+msgstr "प्रतिकृया राख्न बन्द छ"
 
 #: wp-includes/comment-template.php:950
 msgid "Enter your password to view comments"
@@ -11433,7 +11433,7 @@ msgstr ""
 #: wp-includes/comment-template.php:977
 #, php-format
 msgid "Comment on %s"
-msgstr "%s मा टिप्पणी राख्नुहोस"
+msgstr "%s मा प्रतिकृया राख्नुहोस"
 
 #: wp-includes/comment-template.php:1003
 msgid "Log in to Reply"
@@ -11441,11 +11441,11 @@ msgstr "जवाफ दिन प्रवेश गर्नुहोस"
 
 #: wp-includes/comment-template.php:1061
 msgid "Leave a Comment"
-msgstr "टिप्पणी दिनुहोस"
+msgstr "प्रतिकृया दिनुहोस"
 
 #: wp-includes/comment-template.php:1062
 msgid "Log in to leave a Comment"
-msgstr "टिप्पणी राख्न प्रवेश गर्नुहोस"
+msgstr "प्रतिकृया राख्न प्रवेश गर्नुहोस"
 
 #: wp-includes/comment-template.php:1101
 msgid "Click here to cancel reply."
@@ -11468,7 +11468,7 @@ msgstr ""
 #: wp-includes/comment-template.php:1266
 #, fuzzy
 msgid "Your comment is awaiting moderation."
-msgstr "टिप्पणी स्वीकार गरिने क्रममा छ ।"
+msgstr "प्रतिकृया स्वीकार गरिने क्रममा छ ।"
 
 #: wp-includes/comment-template.php:1270
 #, fuzzy, php-format
@@ -11677,7 +11677,7 @@ msgstr "अधिक्तममा यति ब्लग पृष्ठ  द�
 #: wp-includes/default-widgets.php:604
 #, fuzzy
 msgid "The most recent comments"
-msgstr "प्रति पृष्ठ टिप्पणीहरु:"
+msgstr "प्रति पृष्ठ प्रतिकृयाहरु:"
 
 #. translators: comments widget: 1: comment author, 2: post link
 #: wp-includes/default-widgets.php:647
@@ -11763,12 +11763,12 @@ msgstr "अन्तिम अद्यावधिक"
 #: wp-includes/feed-rss2-comments.php:22
 #, php-format
 msgid "Comments on: %s"
-msgstr "%s का टिप्पणीहरु"
+msgstr "%s का प्रतिकृयाहरु"
 
 #: wp-includes/feed-atom-comments.php:21
 #, fuzzy, php-format
 msgid "Comments for %1$s searching on %2$s"
-msgstr " &#8220;%s&#8221; टिप्पणीमा सम्पादन गर्नुहोस"
+msgstr " &#8220;%s&#8221; प्रतिकृयामा सम्पादन गर्नुहोस"
 
 #: wp-includes/feed-atom-comments.php:23
 #: wp-includes/feed-rss2-comments.php:26
@@ -11791,7 +11791,7 @@ msgstr "द्वारा: %s"
 #: wp-includes/feed-rss2-comments.php:24
 #, fuzzy, php-format
 msgid "Comments for %s searching on %s"
-msgstr " &#8220;%s&#8221; टिप्पणीमा सम्पादन गर्नुहोस"
+msgstr " &#8220;%s&#8221; प्रतिकृयामा सम्पादन गर्नुहोस"
 
 #: wp-includes/feed-rss2-comments.php:56
 msgid "Protected Comments: Please enter your password to view comments."
@@ -14197,7 +14197,7 @@ msgstr ""
 #: wp-includes/pluggable.php:992
 #: wp-includes/pluggable.php:1094
 msgid "Comment: "
-msgstr "टिप्पणी:"
+msgstr "प्रतिकृया:"
 
 #: wp-includes/pluggable.php:993
 msgid "You can see all comments on this post here: "
@@ -15118,7 +15118,7 @@ msgstr ""
 #: xmlrpc.php:1181
 #: xmlrpc.php:1213
 msgid "You are not allowed to moderate comments on this blog."
-msgstr "तपाइलाई यो ब्लगको टिप्पणि स्वीकृत गर्ने अनुमति छैन ।"
+msgstr "तपाइलाई यो ब्लगको प्रतिकृया स्वीकृत गर्ने अनुमति छैन ।"
 
 #: xmlrpc.php:1063
 #: xmlrpc.php:1186
@@ -15129,7 +15129,7 @@ msgstr "अडियो ट्रयाक ID"
 
 #: xmlrpc.php:1121
 msgid "Sorry, you cannot edit comments."
-msgstr "माफ गर्नुहोस, तपाइले टिप्पणीहरु सम्पादन गर्न मिल्दैन  ।"
+msgstr "माफ गर्नुहोस, तपाइले प्रतिकृयाहरु सम्पादन गर्न मिल्दैन  ।"
 
 #: xmlrpc.php:1225
 #, fuzzy
@@ -15142,7 +15142,7 @@ msgstr ""
 
 #: xmlrpc.php:1287
 msgid "You must be registered to comment"
-msgstr "टिप्पणी गर्नका लागि तपाइ दर्ता हुनुपर्दछ ।"
+msgstr "प्रतिकृया गर्नका लागि तपाइ दर्ता हुनुपर्दछ ।"
 
 #: xmlrpc.php:1300
 #: xmlrpc.php:1303
