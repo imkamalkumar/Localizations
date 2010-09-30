@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Wordpress 2.8.*\n"
 "Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
 "POT-Creation-Date: 2009-12-12 12:56+0000\n"
-"PO-Revision-Date: 2010-07-04 22:00+0545\n"
-"Last-Translator: rojan <rojansinha@gmail.com>\n"
+"PO-Revision-Date: 2010-09-30 11:16+0545\n"
+"Last-Translator: sanil shakya <sonill_ss@hotmail.com>\n"
 "Language-Team: Nepali Localization\n"
 "Language: ne\n"
 "MIME-Version: 1.0\n"
@@ -23,12 +23,8 @@ msgstr ""
 
 #: wp-admin/admin-ajax.php:31
 #, php-format
-msgid ""
-"<strong>ALERT: You are logged out!</strong> Could not save draft. <a href=\"%"
-"s\" target=\"blank\">Please log in again.</a>"
-msgstr ""
-"<strong>सावधान ! तपाई निस्कनु भएको छ।</strong> तपाईको ड्राफ्ट बचत गर्न सकिएन "
-"।<a href=\"%s\" target=\"blank\">कृपया पुनः प्रवेश गर्नुहोस ।</a>"
+msgid "<strong>ALERT: You are logged out!</strong> Could not save draft. <a href=\"%s\" target=\"blank\">Please log in again.</a>"
+msgstr "<strong>सावधान ! तपाई निस्कनु भएको छ।</strong> तपाईको ड्राफ्ट बचत गर्न सकिएन ।<a href=\"%s\" target=\"blank\">कृपया पुनः प्रवेश गर्नुहोस ।</a>"
 
 #: wp-admin/admin-ajax.php:183
 #: wp-admin/categories.php:182
@@ -68,8 +64,7 @@ msgstr "&raquo;"
 #: wp-admin/edit-link-categories.php:28
 #: wp-admin/link-category.php:46
 #, php-format
-msgid ""
-"Can&#8217;t delete the <strong>%s</strong> category: this is the default one"
+msgid "Can&#8217;t delete the <strong>%s</strong> category: this is the default one"
 msgstr "<strong>%s</strong> मेट्न मिल्दैन । यो पूर्वनिर्धारित समुह हो ।"
 
 #: wp-admin/admin-ajax.php:379
@@ -311,10 +306,8 @@ msgid "Y/m/d"
 msgstr "Y/m/d"
 
 #: wp-admin/admin-footer.php:23
-msgid ""
-"Thank you for creating with <a href=\"http://wordpress.org/\">WordPress</a>."
-msgstr ""
-"<a href=\"http://wordpress.org/\">वर्डप्रेस</a> प्रयोग गर्नुभएकोमा धन्यवाद।"
+msgid "Thank you for creating with <a href=\"http://wordpress.org/\">WordPress</a>."
+msgstr "<a href=\"http://wordpress.org/\">वर्डप्रेस</a> प्रयोग गर्नुभएकोमा धन्यवाद।"
 
 #: wp-admin/admin-footer.php:23
 msgid "<a href=\"http://codex.wordpress.org/\">Documentation</a>"
@@ -331,8 +324,7 @@ msgstr "पृष्ठ हेर्नुहोस् ।"
 #: wp-admin/admin-header.php:108
 #, php-format
 msgid "Howdy, <a href=\"%1$s\" title=\"Edit your profile\">%2$s</a>"
-msgstr ""
-"नमस्कार, <a href=\"%1$s\" title=\"तपाईको प्रोफाइल सम्पादन गर्नुहोस\">%2$s</a>"
+msgstr "नमस्कार, <a href=\"%1$s\" title=\"तपाईको प्रोफाइल सम्पादन गर्नुहोस\">%2$s</a>"
 
 #: wp-admin/admin-header.php:109
 msgid "Turbo"
@@ -529,22 +521,13 @@ msgstr "लागु गर्नुहोस"
 
 #: wp-admin/categories.php:247
 #, php-format
-msgid ""
-"<strong>Note:</strong><br />Deleting a category does not delete the posts in "
-"that category. Instead, posts that were only assigned to the deleted "
-"category are set to the category <strong>%s</strong>."
-msgstr ""
-"<strong>सुचना:</strong><br />समुह मेट्दैमा त्यस समुहको लेख मेटिदैन। मेटिएको "
-"समुहको लेखहरु <strong>%s</strong> समुहमा राखिन्छन ।"
+msgid "<strong>Note:</strong><br />Deleting a category does not delete the posts in that category. Instead, posts that were only assigned to the deleted category are set to the category <strong>%s</strong>."
+msgstr "<strong>सुचना:</strong><br />समुह मेट्दैमा त्यस समुहको लेख मेटिदैन। मेटिएको समुहको लेखहरु <strong>%s</strong> समुहमा राखिन्छन ।"
 
 #: wp-admin/categories.php:248
 #, php-format
-msgid ""
-"Categories can be selectively converted to tags using the <a href=\"%"
-"s\">category to tag converter</a>."
-msgstr ""
-"<a href=\"%s\"\"\">समुहबाट चिनारी बदल्ने</a>ले समुहहरु छानेर चिनारीमा बदल्न "
-"सकिन्छ ।"
+msgid "Categories can be selectively converted to tags using the <a href=\"%s\">category to tag converter</a>."
+msgstr "<a href=\"%s\"\"\">समुहबाट चिनारी बदल्ने</a>ले समुहहरु छानेर चिनारीमा बदल्न सकिन्छ ।"
 
 #: wp-admin/categories.php:261
 #: wp-admin/categories.php:291
@@ -559,12 +542,8 @@ msgid "Category Name"
 msgstr "समुहको नाम"
 
 #: wp-admin/categories.php:270
-msgid ""
-"The name is used to identify the category almost everywhere, for example "
-"under the post or in the category widget."
-msgstr ""
-"समुहको नामले नै समुह सर्वत्र चिनिन्छ । उदाहरणको लागि: लेखको अन्त्यमा अथवा "
-"समुह देखिनेमा"
+msgid "The name is used to identify the category almost everywhere, for example under the post or in the category widget."
+msgstr "समुहको नामले नै समुह सर्वत्र चिनिन्छ । उदाहरणको लागि: लेखको अन्त्यमा अथवा समुह देखिनेमा"
 
 #: wp-admin/categories.php:274
 #: wp-admin/edit-category-form.php:62
@@ -577,9 +556,7 @@ msgstr "समुह स्लग"
 #: wp-admin/edit-link-category-form.php:78
 #: wp-admin/edit-tag-form.php:41
 #: wp-admin/edit-tags.php:297
-msgid ""
-"The &#8220;slug&#8221; is the URL-friendly version of the name. It is "
-"usually all lowercase and contains only letters, numbers, and hyphens."
+msgid "The &#8220;slug&#8221; is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens."
 msgstr "&#8220;slug&#8221;नामको पर्याय हो । जसमा अक्षर अंक र - हुन्छ ।"
 
 #: wp-admin/categories.php:280
@@ -602,13 +579,8 @@ msgstr "खाली"
 
 #: wp-admin/categories.php:282
 #: wp-admin/edit-category-form.php:70
-msgid ""
-"Categories, unlike tags, can have a hierarchy. You might have a Jazz "
-"category, and under that have children categories for Bebop and Big Band. "
-"Totally optional."
-msgstr ""
-"समुहको पनि वर्गीकरण हुनसक्छ । जस्तै खेल समुह भित्र भकुण्डो र क्रिकेट हुन "
-"सक्छ ।"
+msgid "Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have children categories for Bebop and Big Band. Totally optional."
+msgstr "समुहको पनि वर्गीकरण हुनसक्छ । जस्तै खेल समुह भित्र भकुण्डो र क्रिकेट हुन सक्छ ।"
 
 #: wp-admin/categories.php:286
 #: wp-admin/edit-category-form.php:74
@@ -634,9 +606,7 @@ msgstr "व्याख्या"
 #: wp-admin/edit-link-categories.php:213
 #: wp-admin/edit-link-category-form.php:83
 #: wp-admin/edit-tags.php:303
-msgid ""
-"The description is not prominent by default; however, some themes may show "
-"it."
+msgid "The description is not prominent by default; however, some themes may show it."
 msgstr "व्याख्या गर्नु जरुरी छैन । यद्दपि  केहि थिमले देखाउन सक्छन् ।"
 
 #: wp-admin/comment.php:34
@@ -670,9 +640,7 @@ msgid "You are not allowed to edit comments on this post."
 msgstr "तपाइलाई यो प्रतिकृया सम्पादन गर्ने अनुमति छैन ।"
 
 #: wp-admin/comment.php:48
-msgid ""
-"This comment is in the Trash. Please move it out of the Trash if you want to "
-"edit it."
+msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
 msgstr "यो टिपणि रद्दीमा छ । कृपया यहा बाट निकालेर मात्र सम्पादन गर्नुहोस ।"
 
 #: wp-admin/comment.php:70
@@ -681,12 +649,8 @@ msgstr "तपाइलाई यो लेखको  प्रतिकृय�
 
 #: wp-admin/comment.php:70
 #: wp-admin/comment.php:254
-msgid ""
-"You are not allowed to edit comments on this post, so you cannot approve "
-"this comment."
-msgstr ""
-"यो लेखको प्रतिकृया सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो प्रतिकृया "
-"स्वीकृत गर्न पाउनु हुन्न ।"
+msgid "You are not allowed to edit comments on this post, so you cannot approve this comment."
+msgstr "यो लेखको प्रतिकृया सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो प्रतिकृया स्वीकृत गर्न पाउनु हुन्न ।"
 
 #: wp-admin/comment.php:77
 msgid "You are about to mark the following comment as spam:"
@@ -772,12 +736,8 @@ msgid "Comment"
 msgstr "प्रतिकृया"
 
 #: wp-admin/comment.php:229
-msgid ""
-"You are not allowed to edit comments on this post, so you cannot disapprove "
-"this comment."
-msgstr ""
-"यो लेखको प्रतिकृया सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो प्रतिकृया "
-"अस्वीकृत गर्न पाउनु हुन्न ।"
+msgid "You are not allowed to edit comments on this post, so you cannot disapprove this comment."
+msgstr "यो लेखको प्रतिकृया सम्पादन गर्ने अधिकार तपाइलाई नभएकोले तपाइले यो प्रतिकृया अस्वीकृत गर्न पाउनु हुन्न ।"
 
 #: wp-admin/comment.php:283
 #: wp-admin/includes/media.php:1638
@@ -808,12 +768,8 @@ msgid "Your Header Image"
 msgstr "तपाइको शीर्षकको तस्बिर "
 
 #: wp-admin/custom-header.php:279
-msgid ""
-"This is your header image. You can change the text color or upload and crop "
-"a new image."
-msgstr ""
-"यो तपाइको शीर्षकको तस्बिर हो । तपाइले यसको शब्दको रङ्ग फेर्न अथवा नया तस्बिर "
-"अपलोड गरी मिलाउन सक्नुहुन्छ ।"
+msgid "This is your header image. You can change the text color or upload and crop a new image."
+msgstr "यो तपाइको शीर्षकको तस्बिर हो । तपाइले यसको शब्दको रङ्ग फेर्न अथवा नया तस्बिर अपलोड गरी मिलाउन सक्नुहुन्छ ।"
 
 #: wp-admin/custom-header.php:288
 msgid "Select a Text Color"
@@ -842,21 +798,13 @@ msgid "Upload New Header Image"
 msgstr "नया हेडर तस्बिर अपलोड गर्नुहोस"
 
 #: wp-admin/custom-header.php:296
-msgid ""
-"Here you can upload a custom header image to be shown at the top of your "
-"blog instead of the default one. On the next screen you will be able to crop "
-"the image."
-msgstr ""
-"याहा तपाइ आफ्नो ब्लगको शीर्षमा देखाउन आफ्नै तस्बीर राख्न सक्नु हुन्छ । "
-"तेस्पछीको स्क्रीनमा तस्बीर काटछाँट गर्न सकिनेछ ।"
+msgid "Here you can upload a custom header image to be shown at the top of your blog instead of the default one. On the next screen you will be able to crop the image."
+msgstr "याहा तपाइ आफ्नो ब्लगको शीर्षमा देखाउन आफ्नै तस्बीर राख्न सक्नु हुन्छ । तेस्पछीको स्क्रीनमा तस्बीर काटछाँट गर्न सकिनेछ ।"
 
 #: wp-admin/custom-header.php:297
 #, php-format
-msgid ""
-"Images of exactly <strong>%1$d x %2$d pixels</strong> will be used as-is."
-msgstr ""
-"<strong>%1$d x %2$d पिक्सेल</strong> कै तस्बीर जस्ताको तेस्तै प्रयोग गरिनेछ "
-"।"
+msgid "Images of exactly <strong>%1$d x %2$d pixels</strong> will be used as-is."
+msgstr "<strong>%1$d x %2$d पिक्सेल</strong> कै तस्बीर जस्ताको तेस्तै प्रयोग गरिनेछ ।"
 
 #: wp-admin/custom-header.php:300
 msgid "Choose an image from your computer:"
@@ -876,12 +824,8 @@ msgid "Reset Header Image and Color"
 msgstr "सिर्शको तस्बिर र रङ्ग पुन: तयार गर्नुस"
 
 #: wp-admin/custom-header.php:313
-msgid ""
-"This will restore the original header image and color. You will not be able "
-"to retrieve any customizations."
-msgstr ""
-"यसले तपाइको सिर्शकको तस्बीर र रङ्ग पूर्वावस्थामा ल्याउनेछ । तपाइले छानेर "
-"तयार पार्नु भएको अवस्तालाई पन: प्राप्त गर्न पाउनु हुनेछैन ।"
+msgid "This will restore the original header image and color. You will not be able to retrieve any customizations."
+msgstr "यसले तपाइको सिर्शकको तस्बीर र रङ्ग पूर्वावस्थामा ल्याउनेछ । तपाइले छानेर तयार पार्नु भएको अवस्तालाई पन: प्राप्त गर्न पाउनु हुनेछैन ।"
 
 #: wp-admin/custom-header.php:316
 #, fuzzy
@@ -1107,8 +1051,7 @@ msgid "No media attachments found."
 msgstr "कुनै मीडिया भेटिएन"
 
 #: wp-admin/edit-category-form.php:14
-msgid ""
-"You do not have sufficient permissions to edit categories for this blog."
+msgid "You do not have sufficient permissions to edit categories for this blog."
 msgstr "तपाईसँग यो ब्लगका समुहहरु साम्पादन गर्ने स्वीकृति छैन ।"
 
 #: wp-admin/edit-category-form.php:80
@@ -1191,14 +1134,10 @@ msgstr[1] "सबै"
 
 #: wp-admin/edit-comments.php:191
 #, fuzzy, php-format
-msgid ""
-"Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
-msgid_plural ""
-"Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
-msgstr[0] ""
-"अनिर्णीत <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
-msgstr[1] ""
-"अनिर्णीत <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgid "Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgid_plural "Pending <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[0] "अनिर्णीत <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[1] "अनिर्णीत <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
 
 #: wp-admin/edit-comments.php:192
 msgid "Approved"
@@ -1298,7 +1237,7 @@ msgstr "प्रतिकृयाहरु"
 #: wp-admin/edit-comments.php:329
 #: wp-admin/includes/template.php:1176
 msgid "Pings"
-msgstr ""
+msgstr "पिङ्ँग"
 
 #: wp-admin/edit-comments.php:339
 #: wp-admin/edit.php:306
@@ -15399,3 +15338,4 @@ msgstr "LTR"
 #: wp-load.php:50
 msgid "There doesn't seem to be a <code>wp-config.php</code> file. I need this before we can get started. Need more help? <a href='http://codex.wordpress.org/Editing_wp-config.php'>We got it</a>. You can create a <code>wp-config.php</code> file through a web interface, but this doesn't work for all server setups. The safest way is to manually create the file.</p><p><a href='%ssetup-config.php' class='button'>Create a Configuration File</a>"
 msgstr ""
+
